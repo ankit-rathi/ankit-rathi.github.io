@@ -3,12 +3,10 @@ layout: post
 title:  "5 Data Science Use Cases for Every Business"
 date:   2020-04-21
 lesson: 1
-category: "learn"
+category: "post"
 excerpt: ""
 image: "/images/learn/5-use-cases-for-every-business.png"
 ---
-
-![](https://cdn-images-1.medium.com/max/800/0*QSCiy0zyFHcJOTKk)
 
 In this article, I would like to talk about 5 data science use cases for every business.
 
