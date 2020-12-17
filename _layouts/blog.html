@@ -28,12 +28,11 @@
 					<header class="major">
 						<h2>Data Intelligence Blog</h2>
 	
-					</header>
-					
-					   <h2>Why this blog?</h2>
-				
+					</header>			
 						
 						<div class="box align-left">
+							
+							<h2>Why this blog?</h2>
 							
 						Here you can find blog-posts related to everything Data & AI:
 							<ul>
@@ -45,10 +44,11 @@
 							</ul>						
 						</div>	
 
-					<h2>Blog Posts</h2>
-				
+									
 					<div class="box align-left">
-						<h3>Beginning course path - Learning To Program (work in progress)</h3>
+						
+						<h2>Blog Posts</h2>
+						
 						<ol>
 							{% assign sorted = (site.categories.learn | sort: 'lesson') %}
 							{% for post in sorted %}
@@ -61,25 +61,6 @@
 							<li>JavaScript Programming Fundamentals: Objects</li>
 						</ol>
 					</div>
-
-					<h2>Blog Posts</h2>
-				
-					<div class="box align-left">
-						<h3>Beginning course path - Learning To Program (work in progress)</h3>
-						<ol>
-							{% assign sorted = (site.categories.learn | sort: 'lesson') %}
-							{% for post in sorted %}
-
-							<li><a href="{{ post.url | absolute_url }}">{{post.title}}</a></li>
-							{% endfor %}
-
-							------ In Progress ------
-							<li>JavaScript Programming Fundamentals: Functions</li>
-							<li>JavaScript Programming Fundamentals: Objects</li>
-						</ol>
-					</div>
-
-
 
 				</article>
 
