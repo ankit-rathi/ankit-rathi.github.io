@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    	{% include head.html %}
+	</head>
+	<body class="is-loading">
+		<!-- Wrapper -->
+		<div id="wrapper" class="fade-in">
+			<!-- Header -->
+			<header id="header">
+				<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+			</header>
+
+			<!-- Nav -->
+			<nav id="nav">
+				{% include nav.html %}
+			</nav>
+
+			<!-- Main -->
+			<div id="main">
+				<article class="post featured">
+					<header class="major">
+						<h2>Want to become a software engineer?</h2>
+						<p>This series assumes you know next to nothing about writing code. By the time you've finished, I hope to have given you the ability
+							to engage in other posts here and also go out into the world and make anything you want. The goal is to turn you into a programmer.
+						</p>
+					</header>
+
+					<h2>Learn To Program With The World's Most Popular Programming Language: Javascript</h2>
+				
+					<div class="box align-left">
+						<h3>Beginning course path - Learning To Program (work in progress)</h3>
+						<ol>
+							{% assign sorted = (site.categories.learn | sort: 'lesson') %}
+							{% for post in sorted %}
+
+							<li><a href="{{ post.url | absolute_url }}">{{post.title}}</a></li>
+							{% endfor %}
+
+							------ In Progress ------
+							<li>JavaScript Programming Fundamentals: Functions</li>
+							<li>JavaScript Programming Fundamentals: Objects</li>
+						</ol>
+					</div>
+
+					<div class="box align-left">
+						<h3>Building our first application (work in progress)</h3>
+						<ol>
+							<li>Programming in the browser (intro to html & css)</li>
+							<li>Using libraries & frameworks</li>
+							<li>Version control (intro to Git)</li>
+							<li>Talking to servers (intro to json)</li>
+							<li>Writing a simple API server</li>
+							<li>Using a database</li>
+							<li>Encryption, Security, Authentication</li>
+							<li>Building The App</li>
+						</ol>
+					</div>
+
+				</article>
+
+				<!-- Footer -->
+				<footer>
+						{% include foot.html %}
+				</footer>
+			</div><!-- /main -->
+			<div id="copyright" />
+		</div><!-- /wrapper -->
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+		{% include tracking.html %}
+
+	</body>
+</html>
