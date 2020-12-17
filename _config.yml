@@ -1,7 +1,7 @@
 # Site
 title:              Ankit Rathi
-bio:                'Data Science, Engineering & Architecture.'
-description:        "Data Science, Engineering & Architecture."
+bio:                'Data is my game.'
+description:        "Data is my game."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
