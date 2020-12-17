@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Data is my game
 
-<span class="image left"><img src="{{ "/images/about-instagram.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/about-me.png" | absolute_url }}" alt="" /></span>
 
 Ankit Rathi is a data science architect, published author & well-known speaker. His interest lies primarily in building end-to-end data science applications/products following best practices of data engineering and architecture.
 
