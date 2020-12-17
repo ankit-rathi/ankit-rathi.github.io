@@ -1,7 +1,7 @@
 # Site
-title:              Corey Howell
-bio:                'Go from zero to software engineer.'
-description:        "Go from zero to software engineer."
+title:              Ankit Ratho
+bio:                'Data Science, Engineering & Architecture.'
+description:        "Data Science, Engineering & Architecture."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -39,7 +39,7 @@ analytics-id:       "default"
 twitter:            coreyhowell
 facebook:           coreyhowellsoftware
 instagram:          coreyhowell/
-github:             sweetcoco
+github:             ankit-rathi
 
 # personal
 location:           Cincinnati, OH
