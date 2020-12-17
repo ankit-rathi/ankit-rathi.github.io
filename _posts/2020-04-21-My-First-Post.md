@@ -3,7 +3,7 @@ layout: post
 title:  "5 Data Science Use Cases for Every Business"
 date:   2020-04-21
 lesson: 1
-category: "post"
+category: "learn"
 excerpt: ""
 image: "/images/learn/5-use-cases-for-every-business.png"
 ---
