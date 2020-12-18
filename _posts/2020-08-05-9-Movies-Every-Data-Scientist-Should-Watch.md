@@ -6,7 +6,7 @@ categories: [markdown]
 title: 9 Movies Every Data Scientist Should Watch
 ---
 
-![](https://cdn-images-1.medium.com/max/1800/1*UGXvhKGjcQS04pzwVK8dqw.png)
+![](https://cdn-images-1.medium.com/max/800/1*UGXvhKGjcQS04pzwVK8dqw.png)
 
 I have been a movie buff all my life.
 
@@ -26,7 +26,7 @@ Today, I would like to talk about 9 movies every data scientist should watch.
 Please note, that these movies are not specific to data science, and I am
 covering them in chronological order.
 
-![](https://cdn-images-1.medium.com/max/1200/1*LkJlf7-jfAJ1CphoBWOJkg.png)
+![](https://cdn-images-1.medium.com/max/800/1*LkJlf7-jfAJ1CphoBWOJkg.png)
 
 First one in the list is ‘2001: A Space Odyssey’.
 
@@ -41,7 +41,7 @@ intelligence, and the possibility of extraterrestrial life.
 It is widely regarded as one of the greatest and most influential films ever
 made.
 
-![](https://cdn-images-1.medium.com/max/1200/1*Zx6YsgPx4tWsVENcE9MRjw.png)
+![](https://cdn-images-1.medium.com/max/800/1*Zx6YsgPx4tWsVENcE9MRjw.png)
 
 Second movie that you should watch is ‘A Beautiful Mind’.
 
@@ -56,7 +56,7 @@ suffering from serious mental disorder.
 The film was well received by critics, but has been criticized, for its
 inaccurate portrayal of, some aspects of Nash’s life.
 
-![](https://cdn-images-1.medium.com/max/1200/1*I5ixP1V6D7ro4q2Tn0p-7w.png)
+![](https://cdn-images-1.medium.com/max/800/1*I5ixP1V6D7ro4q2Tn0p-7w.png)
 
 The third movie in my list is ‘Minority Report’.
 
@@ -73,7 +73,7 @@ examines whether free-will can exist if the future is known in advance.
 It was one of the best-reviewed films of 2002 and was nominated for several
 awards.
 
-![](https://cdn-images-1.medium.com/max/1200/1*A3V8rihTDebepJWxDTCpNw.png)
+![](https://cdn-images-1.medium.com/max/800/1*A3V8rihTDebepJWxDTCpNw.png)
 
 Next movie that I recommend is ‘Moneyball’.
 
@@ -89,7 +89,7 @@ scouting and analyzing players.
 It achieved box office success and critical acclaim, particularly for its acting
 and screenplay.
 
-![](https://cdn-images-1.medium.com/max/1200/1*0n7cbrSCvpNoVopjCXoV7Q.png)
+![](https://cdn-images-1.medium.com/max/800/1*0n7cbrSCvpNoVopjCXoV7Q.png)
 
 Fifth movie in my list is ‘Her’.
 
@@ -104,7 +104,7 @@ The film received numerous awards and nominations.
 In a 2016 BBC poll of 177 critics around the world, it was voted the
 84th-greatest film since 2000.
 
-![](https://cdn-images-1.medium.com/max/1200/1*VWfyVEPO2Jv_cKEukTLttw.png)
+![](https://cdn-images-1.medium.com/max/800/1*VWfyVEPO2Jv_cKEukTLttw.png)
 
 Another movie that I would like to mention is ‘Interstellar’.
 
@@ -118,7 +118,7 @@ search of a new home for humanity.
 Interstellar received positive reviews for its screenplay, direction, visual
 effects, musical score and acting.
 
-![](https://cdn-images-1.medium.com/max/1200/1*2Q0AsMdYx64ArRc23fBu-w.png)
+![](https://cdn-images-1.medium.com/max/800/1*2Q0AsMdYx64ArRc23fBu-w.png)
 
 Seventh movie that I would like you to watch is ‘The Theory of Everything’.
 
@@ -134,7 +134,7 @@ success in the field of physics.
 The film received positive reviews, with praise for the musical score,
 cinematography, and the performances of protagonists.
 
-![](https://cdn-images-1.medium.com/max/1200/1*8CrYL-H-52rBtXLwLvLq2g.png)
+![](https://cdn-images-1.medium.com/max/800/1*8CrYL-H-52rBtXLwLvLq2g.png)
 
 Next movie in my list is ‘The Imitation Game’.
 
@@ -153,7 +153,7 @@ events, and for downplaying Turing’s homosexuality.
 However, the LGBT community honoured it, for bringing Turing’s legacy to a wider
 audience, with its subtle and realistic approach.
 
-![](https://cdn-images-1.medium.com/max/1200/1*drqD11hFhKfR7h2tZr10aA.png)
+![](https://cdn-images-1.medium.com/max/800/1*drqD11hFhKfR7h2tZr10aA.png)
 
 The last movie that you should consider to watch is ‘Blade Runner 2049’.
 
