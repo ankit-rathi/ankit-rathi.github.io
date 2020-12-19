@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Blog Page - Corey Howell
-description: Go from zero to software engineer.
+title: Blog Page - Ankit Rathi
+description: Data is my game.
 sitemap:
     priority: 1.0
     lastmod: 2017-11-02
