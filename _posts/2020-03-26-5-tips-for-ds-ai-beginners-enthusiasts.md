@@ -9,8 +9,6 @@ title:  5 Tips for DS/AI Beginners & Enthusiasts
 
 ![Photo by [Sam Truong Dan](https://unsplash.com/@sam_truong?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/tips?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*WYAntO3ZfXBMkyn31mHoRw.jpeg)
 
-*In this post, I am sharing 5 important tips for budding data scientists, there is a bonus tip as well in the end.*
-
 ------------------------------------------------------------------------
 
 While I believe that the more you struggle, the more you get to learn in the process, you can still learn from experienced professionals to avoid common roadblocks or challenges.
