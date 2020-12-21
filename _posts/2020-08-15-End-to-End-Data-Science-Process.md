@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: How to go from problem statement to solution in production?
-categories: [markdown]
+categories: [post]
 title: End-to-End Data Science Process
 ---
 ![](https://cdn-images-1.medium.com/max/800/1*Sicdft5MMryjrPmtzTo4Fg.png)
