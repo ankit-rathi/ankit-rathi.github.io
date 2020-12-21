@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: What is the difference between Data Scientists, Data Engineers and Data Architects?
-categories: [markdown]
+categories: [post]
 title: Data Science vs Data Engineering vs Data Architecture
 ---
 
