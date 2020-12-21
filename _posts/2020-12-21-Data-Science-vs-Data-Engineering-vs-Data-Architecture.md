@@ -7,6 +7,7 @@ title: Data Science vs Data Engineering vs Data Architecture
 ---
 
 ![](https://cdn-images-1.medium.com/max/1200/0*-OZ2jskdYR9Rw9A7.png)
+
 [“Data Engineers are the Bridge” by Jennifer
 Shalamanov](https://blog.udacity.com/2020/07/what-to-expect-as-an-entry-level-data-engineer.html)
 
