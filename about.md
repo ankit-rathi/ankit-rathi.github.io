@@ -21,5 +21,3 @@ Ankit is a published author for various leading publications (check ankitrathi.c
 Specialties: Data Science, Data Architecture, Data Strategy, Big Data, Cloud Computing
 
 Tools/Technologies: SQL, Python, R, Spark, Azure, AWS, TensorFlow, Cassandra, Hadoop, Pig, Hive, Tableau, PowerBI, DevOps, CI/CD 
-
-<br /><br /><br /><br /><br /><br />
