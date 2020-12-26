@@ -65,7 +65,7 @@ Elangovan](https://medium.com/datadriveninvestor/are-you-looking-for-a-career-in
 
 * Data Architect
 
-![](https://cdn-images-1.medium.com/max/800/0*v3igJikw9ihuiwa7.png)
+![](https://cdn-images-1.medium.com/max/200/0*v3igJikw9ihuiwa7.png)
 
 A Data Architect provides the blueprint for data management systems. He’s
 responsible for understanding the business objective and existing data
@@ -98,7 +98,7 @@ here to know more](https://datacatchup.com/top-10-skills-for-data-architects/)
 
 * Data Engineer
 
-![](https://cdn-images-1.medium.com/max/800/0*zHDcRqNDQhfD9XfH.png)
+![](https://cdn-images-1.medium.com/max/200/0*zHDcRqNDQhfD9XfH.png)
 
 A Data Engineer develop, construct, test, and maintain architectures. As a
 hardcore engineer, they work along with a Data Architect to develop such
@@ -128,7 +128,7 @@ here to know more](https://www.springboard.com/library/data-engineering/skills/)
 
 * Data Scientist
 
-![](https://cdn-images-1.medium.com/max/800/0*i37QTnY0ymy1CUE3.png)
+![](https://cdn-images-1.medium.com/max/200/0*i37QTnY0ymy1CUE3.png)
 
 A Data Scientist uses the pipelines or architectures designed by Data Engineer
 and tries to extract valuable insights from the data. He’s more mathematically
