@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Commonly Used Framework For DS/AI Projects
-categories: [markdown]
+categories: [post]
 title: Data Science Framework
 ---
 
