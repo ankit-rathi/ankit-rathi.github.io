@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: The most important step to drive data culture
-categories: [markdown]
+categories: [post]
 title: Data Literacy for Professionals (Series)
 ---
 
