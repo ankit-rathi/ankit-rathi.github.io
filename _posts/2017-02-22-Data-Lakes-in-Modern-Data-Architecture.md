@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: From Databases to Data Lakes
-categories: [markdown]
+categories: [post]
 title: Data Lakes in Modern Data Architecture
 ---
 
