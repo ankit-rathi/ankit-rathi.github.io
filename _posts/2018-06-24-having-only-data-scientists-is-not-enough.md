@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: What other skills a DS/AI project requires?
-categories: [markdown]
+categories: [post]
 title: Having only Data Scientists is not Enough
 ---
 
