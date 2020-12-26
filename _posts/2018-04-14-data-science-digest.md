@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Things DS/AI Beginners Need To Learn
-categories: [markdown]
+categories: [post]
 title: Data Science Digest
 ---
 
