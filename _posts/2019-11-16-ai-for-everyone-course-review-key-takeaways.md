@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: All you need to know about this non-technical course in one blog-post
-categories: [markdown]
+categories: [post]
 title: AI For Everyone Course Review & Key Takeaways
 ---
 
