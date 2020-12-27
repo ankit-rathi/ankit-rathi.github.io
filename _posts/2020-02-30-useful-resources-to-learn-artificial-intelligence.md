@@ -6,7 +6,7 @@ categories: [post]
 title: Useful Resources to Learn Artificial Intelligence
 ---
 
-![Photo by [Markus Spiske](https://cdn-images-1.medium.com/max/1200/1*6AyOAQu0Q9ivgvfeY9MIRQ.jpeg)
+![Photo by Markus Spiske](https://cdn-images-1.medium.com/max/1200/1*6AyOAQu0Q9ivgvfeY9MIRQ.jpeg)
 
 While you are learning Artificial Intelligence (AI) and looking to get into this exciting field, you may wonder which are the resources to refer, how do you know if a book or course is worth to spend time and/or money?
 
