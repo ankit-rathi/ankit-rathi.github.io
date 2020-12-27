@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Concepts to learn, Process to follow & Tools to master
-categories: [markdown]
+categories: [post]
 title: Building Blocks of Artificial Intelligence
 ---
 
