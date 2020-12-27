@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: How to stay relevant in this ever-evolving field?
-categories: [markdown]
+categories: [post]
 title:  Making Your ML/AI Career Future-Proof
 ---
 
