@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: My perspective on how you should get started...
-categories: [markdown]
+categories: [post]
 title: How to approach Data Science in 2020?
 ---
 
