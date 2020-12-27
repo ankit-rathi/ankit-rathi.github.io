@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: How Data Systems have evolved over the years?
-categories: [markdown]
+categories: [post]
 title: A Brief History of Data Systems
 ---
 
