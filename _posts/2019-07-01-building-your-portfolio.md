@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Most important step in getting into Data & AI
-categories: [markdown]
+categories: [post]
 title: Building Your Portfolio in Data & AI
 ---
 
