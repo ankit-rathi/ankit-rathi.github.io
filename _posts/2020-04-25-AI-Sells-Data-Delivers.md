@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Importance of data in the age of fancy AI algorithms
-categories: [markdown]
+categories: [post]
 title: "AI Sells, Data Delivers!"
 ---
 
