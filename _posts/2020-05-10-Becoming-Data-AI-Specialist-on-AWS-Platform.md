@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: How to utilize AWS e-Learning Library to learn Cloud, ML & Big Data concepts & services
-categories: [markdown]
+categories: [post]
 title: Becoming Data & AI Specialist on AWS Platform (for free)
 ---
 
