@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: What aspects of Artificial Intelligence do you need to grasp beyond Algorithms?
-categories: [markdown]
+categories: [post]
 title: Artificial Intelligence from Novice to Professional
 ---
 
