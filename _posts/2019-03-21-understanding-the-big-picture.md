@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: How to build your career in DS/AI?
-categories: [markdown]
+categories: [post]
 title:  Understanding the Big Picture
 ---
 
