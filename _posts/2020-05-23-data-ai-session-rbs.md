@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: What is Data & AI, my journey into the field & how to get into this field?
-categories: [markdown]
+categories: [post]
 title: Data & AI Session @ RBS
 ---
 
