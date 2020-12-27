@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: A series of blog-posts on Data & AI Platform Concepts
-categories: [markdown]
+categories: [post]
 title: From Data To Actionable Insights
 ---
 
