@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: A constructive critism of Kaggle Competition (or any data science hackathon)
-categories: [markdown]
+categories: [post]
 title: Kaggle Vs Real-world Projects
 ---
 
