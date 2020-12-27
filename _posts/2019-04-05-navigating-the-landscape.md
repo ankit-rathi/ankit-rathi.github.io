@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: How to get into DS/AI field?
-categories: [markdown]
+categories: [post]
 title:  Navigating the Landscape
 ---
 
