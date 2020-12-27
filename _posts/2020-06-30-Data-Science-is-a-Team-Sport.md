@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Data Science solutions are NOT built in silos.
-categories: [markdown]
+categories: [post]
 title: Data Science is a Team Sport
 ---
 
