@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Books that cover data & AI field holistically
-categories: [markdown]
+categories: [post]
 title: 5 Books Every Data Professional Should Read
 ---
 
