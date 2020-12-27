@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Learn about Data Catalog and how it helps?
-categories: [markdown]
+categories: [post]
 title: Becoming Data-Driven with Data Catalog
 ---
 
