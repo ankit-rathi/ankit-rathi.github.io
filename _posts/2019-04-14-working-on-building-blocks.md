@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: What skills you need to acquire to get into DS/AI?
-categories: [markdown]
+categories: [post]
 title:  Working on Building Blocks
 ---
 
