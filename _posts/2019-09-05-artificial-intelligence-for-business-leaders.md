@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: How to make the most of AI initiatives in your organization?
-categories: [markdown]
+categories: [post]
 title: Artificial Intelligence for Business Leaders
 ---
 
