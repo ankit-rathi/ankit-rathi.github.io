@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Putting it All Together
-categories: [markdown]
+categories: [post]
 title:  Getting into Machine Learning & Artificial Intelligence
 ---
 
