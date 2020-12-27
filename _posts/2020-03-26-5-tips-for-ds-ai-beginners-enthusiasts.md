@@ -2,12 +2,12 @@
 toc: true
 layout: post
 description: How to avoid the constant struggle as a learner?
-categories: [markdown]
+categories: [post]
 title:  5 Tips for DS/AI Beginners & Enthusiasts
 ---
 
 
-![Photo by [Sam Truong Dan](https://unsplash.com/@sam_truong?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/tips?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*WYAntO3ZfXBMkyn31mHoRw.jpeg)
+![Sam Truong Dan](https://cdn-images-1.medium.com/max/1200/1*WYAntO3ZfXBMkyn31mHoRw.jpeg)
 
 ------------------------------------------------------------------------
 
