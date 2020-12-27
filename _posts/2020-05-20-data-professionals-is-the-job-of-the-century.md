@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: ML/AI Projects are a Team Game
-categories: [markdown]
+categories: [post]
 title: Data Professionals, and NOT Data Scientist, is the Job of the Century
 ---
 
