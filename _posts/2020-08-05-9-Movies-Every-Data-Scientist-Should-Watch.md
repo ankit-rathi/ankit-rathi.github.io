@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Sci-Fi Movies for technologists working in Data Science space.
-categories: [markdown]
+categories: [post]
 title: 9 Movies Every Data Scientist Should Watch
 ---
 
