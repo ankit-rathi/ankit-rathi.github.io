@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Build your own Roadmap to get into AI
-categories: [markdown]
+categories: [post]
 title: How to build your career in Artificial Intelligence?
 ---
 
