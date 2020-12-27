@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: What, Why & Basics of SQL...
-categories: [markdown]
+categories: [post]
 title: SQL for Data Professionals (Beginner)
 ---
 
