@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Understanding Various Terminologies & Roles in Artificial Intelligence Projects
-categories: [markdown]
+categories: [post]
 title: How to Navigate Artificial Intelligence Landscape?
 ---
 
