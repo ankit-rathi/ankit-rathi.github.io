@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: What is Cloud Computing and what Data & AI Services are available as Cloud Services?
-categories: [markdown]
+categories: [post]
 title: Cloud Computing for Data Professionals
 ---
 
