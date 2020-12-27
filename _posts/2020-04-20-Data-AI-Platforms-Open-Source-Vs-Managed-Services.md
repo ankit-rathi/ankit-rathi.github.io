@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Open Source vs AWS vs Azure vs GCP 
-categories: [markdown]
+categories: [post]
 title:  Data & AI Platforms — Open Source Vs Managed Services 
 ---
 
