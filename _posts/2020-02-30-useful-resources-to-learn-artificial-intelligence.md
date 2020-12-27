@@ -2,11 +2,11 @@
 toc: true
 layout: post
 description: Books to refer, Courses to attend, Blogs to follow, Podcasts to listen, YouTube channels & Useful GitHub Repos
-categories: [markdown]
+categories: [post]
 title: Useful Resources to Learn Artificial Intelligence
 ---
 
-![Photo by [Markus Spiske](https://unsplash.com/photos/Q0mDOn9gWk8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/resources?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*6AyOAQu0Q9ivgvfeY9MIRQ.jpeg)
+![Photo by [Markus Spiske](https://cdn-images-1.medium.com/max/1200/1*6AyOAQu0Q9ivgvfeY9MIRQ.jpeg)
 
 While you are learning Artificial Intelligence (AI) and looking to get into this exciting field, you may wonder which are the resources to refer, how do you know if a book or course is worth to spend time and/or money?
 
