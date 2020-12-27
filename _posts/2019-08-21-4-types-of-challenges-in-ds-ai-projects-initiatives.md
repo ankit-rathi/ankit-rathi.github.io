@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: What kind of challenges to expect while working on DS/AI projects/initiatives?
-categories: [markdown]
+categories: [post]
 title: 4 Types of Challenges in DS/AI Projects & Initiatives
 ---
 
