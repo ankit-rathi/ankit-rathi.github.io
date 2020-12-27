@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Identifying Data Science Use Cases
-categories: [markdown]
+categories: [post]
 title: 5 Data Science Use Cases for Every Business
 ---
 
