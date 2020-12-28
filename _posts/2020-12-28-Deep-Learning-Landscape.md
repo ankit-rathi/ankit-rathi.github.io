@@ -12,6 +12,7 @@ title: Deep Learning Landscape
 images](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fbernardmarr%2Ffiles%2F2018%2F10%2FAdobeStock_179912599-1-1200x797.jpg)
 
 Written by: [Aryan Nath](https://www.linkedin.com/in/aryan-nath-7324aa200/)
+
 Reviewed by: [Ankit Rathi](https://www.linkedin.com/in/ankitrathi/)
 
 Well most of us are already familiar with the idea of what **deep learning** is
@@ -97,7 +98,7 @@ is still far from attaining human like intelligence.
 
 ### How deep learning works
 
-![](https://cdn-images-1.medium.com/proxy/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](https://victorzhou.com/media/nn-series/network.svg)
 
 ​ credits: [victorzhou](https://victorzhou.com/media/nn-series/network.svg)
 
