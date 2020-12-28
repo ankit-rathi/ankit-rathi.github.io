@@ -97,7 +97,7 @@ is still far from attaining human like intelligence.
 
 ### How deep learning works
 
-### <br> 
+![](https://cdn-images-1.medium.com/proxy/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 ​ credits: [victorzhou](https://victorzhou.com/media/nn-series/network.svg)
 
