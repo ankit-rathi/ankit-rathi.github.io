@@ -19,6 +19,9 @@ set of real-numbers.
 A function is a mapping from a set of points X, known as the domain, to another set
 of points Y, known as the codomain, such that there is a unique value y for each x.
 
+The image of a set under a function f, denoted f(A), is the subset of the codomain of
+obtainable values. The image of f, also called its range, is the image of its
+domain, f(X).
 
 
 # Linear Algebra
