@@ -1,9 +1,31 @@
 ---
-layout: learn
-title: Learn To Code - Corey Howell
-description: Go from zero to a Javascript programmer.
+layout: page
+title: Learn
+description: Learn data science terminologies.
 sitemap:
-    priority: 1.0
-    lastmod: 2018-03-18
+    priority: 0.7
+    lastmod: 2020-01-15
     changefreq: weekly
 ---
+
+# Maths
+
+# Linear Algebra
+
+# Probability
+
+# Statistics
+
+# Introduction
+
+# Foundation
+
+# Linear Models
+
+# Nonparametric Models
+
+# Deep Neural Networks
+
+# Beyond Supervised Learning
+
+
