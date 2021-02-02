@@ -10,8 +10,16 @@ sitemap:
 
 Definitions of common machine learning terms.
 
+## A/B testing
+A/B testing is a way to compare two versions of a single variable, typically by testing a subject's response to variant A against variant B, and determining which of the two variants is more effective.
+
 ## Accuracy
 Percentage of correct predictions made by the model.
+
+## Activation function
+Activation function of a node defines the output of that node, given an input or set of inputs like a linear perceptron in neural networks.
+
+Nonlinear activation functions allow networks to compute nontrivial problems using only a small number of nodes, and such activation functions are called nonlinearities.
 
 ## Algorithm
 A method, function, or series of instructions used to generate a machine learning model. Examples include linear regression, decision trees, support vector machines, and neural networks.
