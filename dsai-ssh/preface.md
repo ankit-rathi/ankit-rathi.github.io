@@ -7,13 +7,15 @@ permalink: /dsai-ssh/preface/
 | [Previous](https://ankit-rathi.github.io/dsai-ssh/about-the-author/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/understanding-the-big-picture/)  |
 
 
-It is probably not a secret that data intelligence has become one of the most exciting fields of this age. Although it may seem the buzzword of our time, it is certainly not the hype. This exciting field opens the way to new possibilities and is becoming indispensable to our daily lives. 
+It is probably not a secret that data has become one of the most exciting fields of this age. Although it may seem the buzzword of our time, it is certainly not the hype. This exciting field opens the way to new possibilities and is becoming indispensable to our daily lives. 
+
+Data intelligence refers to all the analytical tools and methods business employ to form a better understanding of the information they collect to improve their services or investments. Data Intelligence focuses on analysis and interaction with information in a meaningful way to promote better decision-making in the future.
+
+Data solutions are not built in silos, data needs to be ingested, processed, analyzed and presented in a specific context to add value to business.
+
+> The 'Data Intelligence' term in this book represents all the data related fields like data dcience(DS), machine learning(ML), data engineering (DE), cloud computing for data, DataOps fields collectively. 
 
 Organizations, big or small, are heavily investing in data intelligence research and applications these days. And hence, it has become the hottest career. If you want to become a data intelligence practitioner, there is no better time than this. 
-
-Data intelligence refers to all the analytical tools and methods companies employ to form a better understanding of the information they collect to improve their services or investments. Data intelligence focuses on analysis and interaction with information in a meaningful way to promote better decision-making in the future.
-
-> The 'Data Intelligence' term in this book represents Data Science(DS), Machine Learning(ML), Artificial Intelligence(AI) fields collectively. These fields are quite closely related but have few differences as well, we will cover those differences in an upcoming chapter.
 
 Aspirants are taking different approaches to get into the field, some are fortunate enough to be put into projects as freshers, but most aspirants are building their capabilities by learning theory and applying them on public data-sets.
 
