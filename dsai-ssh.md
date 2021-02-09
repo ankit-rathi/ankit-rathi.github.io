@@ -9,7 +9,7 @@ permalink: /dsai-ssh/
 
 ### Build Your Own Roadmap
 
-![](https://cdn-images-1.medium.com/max/600/1*_qcfT7qYrPWZJok3QLX2Uw.png)
+![](https://cdn-images-1.medium.com/max/600/1*VJmZvc1hhRMqC8MiTt_V5g.png)
 
 While I am covering the content as an ebook here, if you are looking for everything at one place in a structured way, I have published in form of a book:
 
