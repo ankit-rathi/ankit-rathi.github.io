@@ -35,5 +35,5 @@ Amazon (Outside): <https://www.amazon.com/dp/1079189262/>
  
 ### 2nd edition (coming soon...)
 
-![](https://cdn-images-1.medium.com/max/600/1*s2cWr1FGanNZCZvUA6plRA.png)
+![](https://cdn-images-1.medium.com/max/600/1*_5LjIemVMWtQ7AJlhUAMNg.png)
 
