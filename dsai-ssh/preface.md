@@ -19,24 +19,24 @@ Organizations, big or small, are heavily investing in data intelligence research
 
 Aspirants are taking different approaches to get into the field, some are fortunate enough to be put into projects as freshers, but most aspirants are building their capabilities by learning theory and applying them on public data-sets.
 
-> While there is no dearth of free & paid material, too much of information has only confused the current crop of data intelligence aspirants.
+> While there is no dearth of free & paid material, too much of information has only confused the current crop of data aspirants.
 
-Based on the questions that I am asked by them on day to day basis, I can see how perplexed they are. Not to say, taking advantage of the situation, most of the training institutes are minting money like anything, bundling even non-relevant courses as well in data science ones.
+Based on the questions that I am asked by them on day to day basis, I can see how perplexed they are. Not to say, taking advantage of the situation, most of the training institutes are minting money like anything, bundling even non-relevant courses as well in data intelligence ones.
 
 # Why this book?
 
-From a time around when data science field started picking up, every other day I get many messages from data intelligence starters & enthusiasts on ‘How can I get into data intelligence field?’. Over a while, I have improvised my response based on the follow-up questions they ask like: 
+From a time around when data field started picking up, every other day I get many messages from starters & enthusiasts on ‘How can I get into data intelligence field?’. Over a while, I have improvised my response based on the follow-up questions they ask like: 
 
-1. What is the difference between data science, data engineering, machine learning etc? 
-2. What are the roles in data intelligence, who does what? 
-3. What concepts, processes & tools they need to learn? 
-4. Which books, courses, etc they need to refer to?
-5. How to build a data intelligence portfolio? 
-6. How to write a resume for data intelligence? 
-7. How to build a helpful network?
-8. How to search for the job? 
-9. How to prepare for the interview? 
-10. How to stay up to date in this still-evolving field? 
+1. What is the difference between different sub-fields (i.e. data science, data engineering, machine learning etc)? 
+2. What is the end-to-end process and what are the roles in data intelligence, who does what? 
+3. What are the main concepts, which tools and technologies they need to learn? 
+4. Which are the quality resources (books, courses, channels, blogs, podcasts etc) they need to refer to?
+5. How to build a data intelligence portfolio based on your role? 
+6. How to write a resume for data role? 
+7. How to build a helpful network with fellow data professionals?
+8. How to search for the job in data field? 
+9. How to prepare for the interview for a data role? 
+10. How to stay up-to-date in this still-evolving field? 
 
 You can notice that these questions are not conceptual ones and there is no dedicated material to address these challenges and roadblocks.
 
@@ -69,15 +69,15 @@ Chapter 8 guides on how to continue from here, keep yourself updated and remain 
 
 # Who this book is for?
 
-This series can be useful for a variety of readers, but I wrote it with two main target audiences in mind. One of these target audiences is university students learning about data intelligence field, including those who are starting a career in data science and artificial intelligence. The other target audience is professionals working in other fields, who do not have a data science, statistics or programming background but want to rapidly acquire one and expand their career.
+This book can be useful for a variety of readers, but I wrote it with two main target audiences in mind. One of these target audiences is university students learning about data intelligence field, including those who are starting a career in data intelligence. The other target audience is professionals working in other fields, who do not have a data or technology background but want to rapidly acquire one and expand their career.
 
 There is no assumption or prerequisites for a reader to cover before reading this series. 
 
 Looks interesting? Stay tuned to read the upcoming post as soon as it is published.
 
-> Please note that this book does not cover data intelligence concepts.
+> Please note that this book does not solely cover typical data intelligence concepts.
 
-Consider it as a personal coach to launch your career in data intelligence field who gives you enough exposure to the field so that you can yourself prepare a roadmap of your data intelligence journey.
+Consider it as a personal coach to launch your career in data intelligence field which gives you enough exposure to the field so that you can yourself prepare a roadmap of your data intelligence journey.
 
 
 | [Previous](https://ankit-rathi.github.io/dsai-ssh/about-the-author/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/understanding-the-big-picture/)  |
