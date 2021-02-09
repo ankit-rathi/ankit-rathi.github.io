@@ -48,7 +48,7 @@ How about a book or course that gives you enough exposure to the data intelligen
 
 On an abstract level, it looks fairly simple, overall process can be divided into four logical phases: Explore, Build, Launch & Steer.
 
-![](https://cdn-images-1.medium.com/max/800/0*Q_1NZAPT4QWNZ6B5)
+![](https://cdn-images-1.medium.com/max/800/1*-u7WltA4QNQ1kWOI5BnVLg.png)
 
 **Explore** is the very first phase of your data intelligence journey, where you need to understand the overall landscape before diving deep. This step covers Q1 & Q2.
 
