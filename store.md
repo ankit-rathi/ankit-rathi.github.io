@@ -7,13 +7,17 @@ sitemap:
     lastmod: 2018-03-17
     changefreq: weekly
 ---
-## Notion Press & Amazon
+## DS/AI Self-Starter Handbook
 
-![](https://cdn-images-1.medium.com/max/800/1*c08ASTMf81r1OfQAgBQpEg.jpeg)  
+### Build Your Own Roadmap
 
-Notion Press: [https://notionpress.com/read/ds-ai-self-starter-handbook](https://notionpress.com/read/ds-ai-self-starter-handbook)
+![](https://cdn-images-1.medium.com/max/600/1*VJmZvc1hhRMqC8MiTt_V5g.png)
 
-Amazon Papeback: [https://www.amazon.com/dp/1079189262](https://www.amazon.com/dp/1079189262)
+## Order here
 
-Amazon Kindle: [https://www.amazon.com/dp/B07VDJ7PHD](https://www.amazon.com/dp/B07VDJ7PHD)
+Amazon (Kindle): <https://www.amazon.com/dp/B07VDJ7PHD/>
+
+Notion Press (India): <https://notionpress.com/read/DS-AI-Self-Starter-Handbook/>
+
+Amazon (Outside): <https://www.amazon.com/dp/1079189262/>
 
