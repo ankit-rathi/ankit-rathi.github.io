@@ -73,7 +73,7 @@ This book can be useful for a variety of readers, but I wrote it with two main t
 
 There is no assumption or prerequisites for a reader to cover before reading this series. 
 
-Looks interesting? Stay tuned to read the upcoming post as soon as it is published.
+Looks interesting? Stay tuned to read the upcoming chapter as soon as it is published.
 
 > Please note that this book does not solely cover typical data intelligence concepts.
 
