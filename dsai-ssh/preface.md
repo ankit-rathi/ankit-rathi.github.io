@@ -13,7 +13,7 @@ Data intelligence refers to all the analytical tools and methods business employ
 
 Data solutions are not built in silos, data needs to be ingested, processed, analyzed and presented in a specific context to add value to business.
 
-> The 'Data Intelligence' term in this book represents all the data related fields like data dcience(DS), machine learning(ML), data engineering (DE), cloud computing for data, DataOps fields collectively. 
+> The 'Data Intelligence' term in this book represents all the data related fields like data dcience(DS), machine learning(ML), data engineering (DE), big data, cloud computing for data, DataOps fields collectively. 
 
 Organizations, big or small, are heavily investing in data intelligence research and applications these days. And hence, it has become the hottest career. If you want to become a data intelligence practitioner, there is no better time than this. 
 
@@ -27,7 +27,7 @@ Based on the questions that I am asked by them on day to day basis, I can see ho
 
 From a time around when data science field started picking up, every other day I get many messages from data intelligence starters & enthusiasts on ‘How can I get into data intelligence field?’. Over a while, I have improvised my response based on the follow-up questions they ask like: 
 
-1. What is the difference between DS, ML, DL, AI, DM? 
+1. What is the difference between data science, data engineering, machine learning etc? 
 2. What are the roles in data intelligence, who does what? 
 3. What concepts, processes & tools they need to learn? 
 4. Which books, courses, etc they need to refer to?
@@ -38,7 +38,7 @@ From a time around when data science field started picking up, every other day I
 9. How to prepare for the interview? 
 10. How to stay up to date in this still-evolving field? 
 
-You can notice that these questions are not conceptual ones and there is no dedicated material to address these roadblocks.
+You can notice that these questions are not conceptual ones and there is no dedicated material to address these challenges and roadblocks.
 
 How about a book or course that gives you enough exposure to the data intelligence field that you can yourself analyze what is needed for you and build your own roadmap? 
 
@@ -46,22 +46,22 @@ How about a book or course that gives you enough exposure to the data intelligen
 
 # What this book covers?
 
-On an abstract level, it looks fairly simple, overall process can be divided into four logical phases: Navigate, Build, Launch & Maintain.
+On an abstract level, it looks fairly simple, overall process can be divided into four logical phases: Explore, Build, Launch & Steer.
 
 ![](https://cdn-images-1.medium.com/max/800/0*Q_1NZAPT4QWNZ6B5)
 
-**Navigate** is the very first phase of your data intelligence journey, where you need to understand the overall landscape before diving deep. This step covers Q1 & Q2.
+**Explore** is the very first phase of your data intelligence journey, where you need to understand the overall landscape before diving deep. This step covers Q1 & Q2.
 
 **Build** phase covers all the concepts, processes, tools you need to learn and the resources you need to refer to gain required knowledge. This step responses Q3 & Q4.
 
 **Launch** is the phase where you build your portfolio, network with like-minded professionals and start looking for job. This step elaborates from Q5 to Q9.
 
-**Maintain** phase details out how you can stay up to date in this ever-evolving field. This step answers Q10.
+**Steer** phase details out how you can stay up to date in this ever-evolving field. This step answers Q10.
 
 
 This book is organized into 8 chapters covering above mentioned framework end-to-end: 
 
-Chapter 1 covers the high-level approach to how you can build your road-map to learn data science & build a career in it.
+Chapter 1 covers the high-level approach to how you can build your road-map to learn data intelligence & build a career in it.
 
 Chapters 2–7 cover all the steps mentioned in chapter 1 in greater depth to give you enough knowledge to build your road-map.
 
