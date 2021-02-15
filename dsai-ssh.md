@@ -11,13 +11,7 @@ permalink: /dsai-ssh/
 
 ![](https://cdn-images-1.medium.com/max/600/1*VJmZvc1hhRMqC8MiTt_V5g.png)
 
-While I am covering the content as an ebook here, if you are looking for everything at one place in a structured way, I have published in form of a book:
-
-Amazon (Kindle): <https://www.amazon.com/dp/B07VDJ7PHD/>
-
-Notion Press (India): <https://notionpress.com/read/DS-AI-Self-Starter-Handbook/>
-
-Amazon (Outside): <https://www.amazon.com/dp/1079189262/>
+While I have published the content as an e-book here, if you want to read as pdf or paperback, you can buy it here : [ankitrathi.com/store](https://ankitrathi.com/store)
 
 ### Table of Contents
  - A : [About the Author](https://ankit-rathi.github.io/dsai-ssh/about-the-author/)
