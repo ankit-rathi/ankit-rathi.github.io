@@ -19,7 +19,7 @@ Ankit is a published author for various leading publications (check ankitrathi.c
 
 U0.1: LinkedIn Profile: [https://www.linkedin.com/in/ankitrathi](https://www.linkedin.com/in/ankitrathi)
 
-U0.2: Data Intelligence Blog: [https://ankit-rathi.github.io/blog/](https://ankit-rathi.github.io/blog/)
+U0.2: Data Stories Blog: [https://ankit-rathi.github.io/blog/](https://ankit-rathi.github.io/blog/)
 
 U0.3: Personal Website: [https://www.ankitrathi.com](https://www.ankitrathi.com)
 
