@@ -65,6 +65,9 @@ Variables with a range of possible values defined by a number scale (e.g. sales,
 ## Convergence
 A state reached during the training of a model when the loss changes very little between each iteration.
 
+## Data 
+Data is a collection of facts such as numbers, descriptions, and observations used in decision making. Data can be classified as structured, semi-structured, or unstructured.
+
 ## Deduction
 A top-down approach to answering questions or solving problems. A logic technique that starts with a theory and tests that theory with observations to derive a conclusion. E.g. We suspect X, but we need to test our hypothesis before coming to any conclusions.
 
