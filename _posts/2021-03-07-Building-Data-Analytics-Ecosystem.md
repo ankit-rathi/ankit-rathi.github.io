@@ -1,4 +1,10 @@
-### Building Data Analytics Ecosystem
+---
+toc: true
+layout: post
+description: How to build data analytics ecosystem in your organization?
+categories: [post]
+title: Building Data Analytics Ecosystem
+---
 
 ![](https://cdn-images-1.medium.com/max/2600/1*doJYr0ECfpaQL0S36n14FQ.png)
 
