@@ -27,9 +27,11 @@ Functions, Derivatives, Product Rule, Chain Rule, Integrals, Partial Derivatives
 ###### Probability
 Introduction, Conditional Probability, Random Variables, Probability Distributions
 ###### Statistics
-Introduction, Descriptive Statistics, Inferential Statistics, Bayesian Statistics
+Introduction, Descriptive Statistics (Univariate, Bivariate, Multivariate Analysis, Function Models), Inferential Statistics (Sampling Distributions & Estimation, Hypothesis Testing, Correlation, Causation & Regression), Bayesian Statistics (Frequentist Vs Bayesian Statistics, Bayesian Inference, Test for Significance), Statistical Learning (Prediction & Inference, Parametric & Non-parametric methods, Prediction Accuracy and Model Interpretability, Bias-Variance Trade-Off)
 #### Cloud Computing for Data Professionals
+Introduction, Public, Private and Hybrid Clouds, IaaS, PaaS and SaaS, Data and AI on Cloud, AWS, Azure and GCP
 #### Business Domain for Data Professionals
+
 ### Data and AI in Action
 #### Data Governance 
 #### Data Architecture
