@@ -27,7 +27,7 @@ While I have published the content as an e-book here, if you want to read as pdf
  - C : [Appendix](https://ankit-rathi.github.io/dsai-ssh/appendix/)
  
  
-### 2nd edition (coming soon...)
+### Upcoming Book...
 
-![](https://cdn-images-1.medium.com/max/600/1*_5LjIemVMWtQ7AJlhUAMNg.png)
+![](https://cdn-images-1.medium.com/max/1080/1*mcaSI_fXXsV_3yQfpUdZdg.png)
 
