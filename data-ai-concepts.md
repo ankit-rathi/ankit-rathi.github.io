@@ -33,7 +33,7 @@ Introduction, Descriptive Statistics (Univariate, Bivariate, Multivariate Analys
 #### Cloud Computing
 Introduction, Public, Private and Hybrid Clouds, IaaS, PaaS and SaaS, Data and AI on Cloud, AWS, Azure and GCP
 #### Business Domain
-
+Problem Solving, Problem Identification, Problem Definition, Prioritization, Root-Cause Analysis, Possible Solutions, Solution Evaluation, Cost-Benefit Analysis, Planning and Implementation
 ### Data and AI in Action
 #### Data Governance 
 #### Data Architecture
