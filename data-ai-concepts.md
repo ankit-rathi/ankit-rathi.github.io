@@ -7,9 +7,9 @@ permalink: /data-ai-concepts/
 ## Data and AI Concepts
 ![](https://cdn-images-1.medium.com/max/800/1*mcaSI_fXXsV_3yQfpUdZdg.png)
 ### Data and AI Intro
-#### All Things Data
+#### Data
 Data and Information, Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis, DIKW Pyramid
-#### All Things AI
+#### AI
 Intelligence, Intelligent Agents, Applications (Web Search, Recommendation Systems, Self-driving Cars, Strategic Games), Aspects of AI (Search, Knowledge, Uncertainty, Optimization, Learning, Neural Networks, Language), Strong and Weak AI
 #### From Data To AI
 Operational & Analytical Data, Data Processing and Storage, Databases, Data Warehouses, ETL/ELT, Streaming and Batch Data, Business Intelligence, Data Science, Machine Learning, Deep Learning, Artificial Intelligence
