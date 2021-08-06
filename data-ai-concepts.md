@@ -14,7 +14,7 @@ Intelligence, Intelligent Agents, Applications (Web Search, Recommendation Syste
 Operational & Analytical Data, Data Processing and Storage, Databases, Data Warehouses, ETL/ELT, Streaming and Batch Data, Business Intelligence, Data Science, Machine Learning, Deep Learning
 ### Data and AI Foundation
 #### SQL for Data Professionals
-SQL, Data Models, ER Diagrams, Tables, Temporary Tables, Selecting (SELECT, FROM), Filtering (WHERE, AND, OR, IN, NOT), , WHERE, AND, OR, ORDER BY, GROUP BY, HAVING, NULLs, DISTINCT, 
+SQL, Data Models, ER Diagrams, Tables, Temporary Tables, Selecting (SELECT, FROM, DISTINCT), Filtering (WHERE, AND, OR, IN, NOT, BETWEEN, NULLs, Wildcards), Ordering (ORDER BY, DESC), Aggregating (GROUP BY, HAVING, AVERAGE, COUNT, MAX, MIN), Subqueries, Joins (Cartesian, Inner, Outer <Left/Right>, Self), Unions
 #### Python for Data Professionals
 #### Mathematics for Data Professionals
 Linear Algebra, Multivariate Calculus, Probability and Statistics
