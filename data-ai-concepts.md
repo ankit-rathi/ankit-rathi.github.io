@@ -5,6 +5,7 @@ permalink: /data-ai-concepts/
 ---
 
 ## Data and AI Concepts
+![](https://cdn-images-1.medium.com/max/1080/1*mcaSI_fXXsV_3yQfpUdZdg.png)
 ### Data and AI Intro
 #### All Things Data
 Data and Information, Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis, DIKW Pyramid
