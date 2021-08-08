@@ -6,9 +6,16 @@ permalink: /data-ai-concepts/
 
 ## Data and AI Concepts
 ![](https://cdn-images-1.medium.com/max/800/1*mcaSI_fXXsV_3yQfpUdZdg.png)
-### Data and AI Intro
+
+### Preface
+#### Who Should Read This Book?
+#### Scope of This Book
+#### Outline of This Book
+Data and AI Introduction, Data and AI Foundation, Data and AI in Action, Data and AI Platforms
+#### 
+### Data and AI Introduction
 #### Data
-Data and Information, Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis, DIKW Pyramid
+Data, Data Vs Information, DIKW Pyramid, Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis, 
 #### AI
 Intelligence, Intelligent Agents, Applications (Web Search, Recommendation Systems, Self-driving Cars, Strategic Games), Aspects of AI (Search, Knowledge, Uncertainty, Optimization, Learning, Neural Networks, Language), Strong and Weak AI
 #### From Data To AI
@@ -16,10 +23,7 @@ Operational & Analytical Data, Data Processing and Storage, Databases, Data Ware
 ### Data and AI Foundation
 #### SQL
 SQL, Data Models, ER Diagrams, Tables, Temporary Tables, Selecting (SELECT, FROM, DISTINCT), Filtering (WHERE, AND, OR, IN, NOT, BETWEEN, NULLs, Wildcards), Ordering (ORDER BY, DESC), Aggregating (GROUP BY, HAVING, AVERAGE, COUNT, MAX, MIN), Subqueries, Joins (Cartesian, Inner, Outer <Left/Right>, Self), Sets (UNION, UNION ALL, INTERSECT), Aliases, Views, Subqueries (WITH AS)
-#### Python
-Programming, Installation, Basic Syntax & Variable Types, Data Types and Conversion, Basic Operators and Loops, Functions, Exceptions and Modules, Data Science Specific Modules (NumPy, SciPy, Pandas, MatPlotLib, Scikit-Learn)
-#### Data Structures and Algorithms
-Data Structures (Array, Linked List, Stack, Queue, Heap, Hashing, Binary Tree, Binary Search Tree, Graph, Matrix), Algorithms (Asymptotic Analysis, Searching and Sorting, Greedy Algorithms, Recursion, Dynamic Programming)
+
 #### Mathematics
 ##### Linear Algebra
 Scalars, Vectors, Matrices and Tensors, Multiplying Matrices and Vectors, Identity and Inverse Matrices, Linear Dependence and Span, Norms, Special Kinds of Matrices and Vectors, Eigendecomposition, Singular Value Decomposition (SVD), The Moore Penrose Pseudoinverse, The Trace Operator, The Determinant, Principal Component Analysis
@@ -42,7 +46,7 @@ Problem Solving, Problem Identification, Problem Definition, Prioritization, Roo
 #### Data Engineering
 #### Data Science
 #### Data Visualization
-#### DataAI x Ops
+#### Data AI x Ops
 ### Data and AI Platforms
 #### Open Source
 #### AWS
@@ -51,3 +55,8 @@ Problem Solving, Problem Identification, Problem Definition, Prioritization, Roo
 #### Databricks
 #### Snowflake
 ### Conclusion
+### Appendix
+#### Python
+Programming, Installation, Basic Syntax & Variable Types, Data Types and Conversion, Basic Operators and Loops, Functions, Exceptions and Modules, Data Science Specific Modules (NumPy, SciPy, Pandas, MatPlotLib, Scikit-Learn)
+#### Data Structures and Algorithms
+Data Structures (Array, Linked List, Stack, Queue, Heap, Hashing, Binary Tree, Binary Search Tree, Graph, Matrix), Algorithms (Asymptotic Analysis, Searching and Sorting, Greedy Algorithms, Recursion, Dynamic Programming)
