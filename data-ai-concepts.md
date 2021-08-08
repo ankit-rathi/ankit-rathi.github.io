@@ -7,6 +7,8 @@ permalink: /data-ai-concepts/
 ## Data and AI Concepts
 ![](https://cdn-images-1.medium.com/max/800/1*mcaSI_fXXsV_3yQfpUdZdg.png)
 
+<a name="table-of-contents"/>
+
 ### Table of Contents  
 * [Preface](#preface)  
 * [Data and AI Introduction](#data-and-ai-introduction)
@@ -18,6 +20,7 @@ permalink: /data-ai-concepts/
 <a name="preface"/>
 
 ## Preface
+[Back to TOC](#table-of-contents)
 ### Why This Book?
 ### Who Should Read This Book?
 ### Scope of This Book
@@ -27,6 +30,7 @@ Data and AI Introduction, Data and AI Foundation, Data and AI in Action, Data an
 <a name="data-and-ai-introduction"/>
 
 ## Data and AI Introduction
+[Back to TOC](#table-of-contents)
 ### Data Concepts
 Data, Data Vs Information, DIKW Pyramid, Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis, Data Models, Operational & Analytical Data
 ### IT Concepts
@@ -39,6 +43,7 @@ Business Intelligence, Data Science, Machine Learning, Deep Learning, Artificial
 <a name="data-and-ai-foundation"/>
 
 ## Data and AI Foundation
+[Back to TOC](#table-of-contents)
 ### Mathematics
 #### Linear Algebra
 Scalars, Vectors, Matrices and Tensors, Multiplying Matrices and Vectors, Identity and Inverse Matrices, Linear Dependence and Span, Norms, Special Kinds of Matrices and Vectors, Eigendecomposition, Singular Value Decomposition (SVD), The Moore Penrose Pseudoinverse, The Trace Operator, The Determinant, Principal Component Analysis
@@ -56,6 +61,7 @@ Problem Solving, Problem Identification, Problem Definition, Prioritization, Roo
 <a name="data-and-ai-in-action"/>
 
 ## Data and AI in Action
+[Back to TOC](#table-of-contents)
 ### Data Governance 
 Introduction, Benefits of Data Governance, Aspects of Data Governance, Data Governance Lifecycle, Data Governance Roles, Data Governance Skills
 ### Data Architecture
@@ -70,6 +76,7 @@ Introduction, Benefits of Data Governance, Aspects of Data Governance, Data Gove
 <a name="data-and-ai-platforms"/>
 
 ## Data and AI Platforms
+[Back to TOC](#table-of-contents)
 ### Open Source
 ### AWS
 ### Azure
@@ -80,6 +87,7 @@ Introduction, Benefits of Data Governance, Aspects of Data Governance, Data Gove
 <a name="appendix"/>
 
 ## Appendix
+[Back to TOC](#table-of-contents)
 ### SQL
 SQL, Data Models, ER Diagrams, Tables, Temporary Tables, Selecting (SELECT, FROM, DISTINCT), Filtering (WHERE, AND, OR, IN, NOT, BETWEEN, NULLs, Wildcards), Ordering (ORDER BY, DESC), Aggregating (GROUP BY, HAVING, AVERAGE, COUNT, MAX, MIN), Subqueries, Joins (Cartesian, Inner, Outer <Left/Right>, Self), Sets (UNION, UNION ALL, INTERSECT), Aliases, Views, Subqueries (WITH AS)
 
