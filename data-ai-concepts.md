@@ -8,11 +8,13 @@ permalink: /data-ai-concepts/
 ![](https://cdn-images-1.medium.com/max/800/1*mcaSI_fXXsV_3yQfpUdZdg.png)
 
 ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
+* [Headers](#headers)  
+* [Preface](#preface)  
 ...snip...    
 <a name="headers"/>
+
 ## Headers
+<a name="preface"/>
 
 ### Preface
 #### Why This Book
