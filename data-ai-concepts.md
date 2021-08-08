@@ -66,17 +66,17 @@ Topics Covered: Problem Solving, Problem Identification, Problem Definition, Pri
 
 Topics Covered: Data Governance, Data Architecture, Data Ingestion, Data Storage, Data Engineering, Data Science, Data Visualization, Data AI x Ops
 ### Data Governance 
-Topics Covered: Introduction, Benefits of Data Governance, Aspects of Data Governance, Data Governance Lifecycle, Data Governance Roles, Data Governance Skills
+Topics Covered: What is Data Governance?, Why Data Governance is Important?, Aspects of Data Governance, How to do Data Governance?
 ### Data Architecture
-Topics Covered: Introduction, Data Model, Normalization/Denormalization, ER Diagrams
+Topics Covered: What is Data Architecture?, Why Data Architecture is Required?, How to build Data Architecture?
 ### Data Ingestion
-Topics Covered:
+Topics Covered: What is Data Ingestion?, Types of Data Ingestion, Tools for Data Ingestion
 ### Data Storage
-Topics Covered:
+Topics Covered: What is Data Storage?, Types of Data Storage, Tools for Data Storage
 ### Data Engineering
-Topics Covered:
+Topics Covered: What is Data Engineering?, Building Data Pipelines
 ### Data Science
-Topics Covered:
+Topics Covered: 
 ### Data Visualization
 Topics Covered:
 ### Data AI x Ops
