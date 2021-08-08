@@ -11,7 +11,6 @@ permalink: /data-ai-concepts/
 
 ### Table of Contents  
 * [Preface](#preface)  
-* [Data and AI Introduction](#data-and-ai-introduction)
 * [Data and AI Foundation](#data-and-ai-foundation)
 * [Data and AI in Action](#data-and-ai-in-action)
 * [Data and AI Platforms](#data-and-ai-platforms)
@@ -29,27 +28,23 @@ Topics Covered: Why This Book?, Who Should Read This Book?, Scope of This Book, 
 ### Outline of This Book
 Topics Covered: Data and AI Introduction, Data and AI Foundation, Data and AI in Action, Data and AI Platforms
 
-<a name="data-and-ai-introduction"/>
-
-## Data and AI Introduction
-[Back to TOC](#table-of-contents)
-
-Topics Covered: Data Concepts, IT Concepts, AI Concepts, From Data to AI
-### Data Concepts 
-Topics Covered: Data, Data Vs Information, DIKW Pyramid, Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis, Data Models, Operational & Analytical Data
-### IT Concepts
-Topics Covered: Technology, Information Technology, Data Processing and Storage, Databases, Data Warehouses, ETL/ELT, Streaming and Batch Data
-### AI Concepts
-Topics Covered: Intelligence, Intelligent Agents, Applications (Web Search, Recommendation Systems, Self-driving Cars, Strategic Games), Aspects of AI (Search, Knowledge, Uncertainty, Optimization, Learning, Neural Networks, Language), Strong and Weak AI
-### From Data To AI
-Topics Covered: Business Intelligence, Data Science, Machine Learning, Deep Learning, Artificial Intelligence
-
 <a name="data-and-ai-foundation"/>
 
 ## Data and AI Foundation
 [Back to TOC](#table-of-contents)
 
-Topics Covered: Mathematics, Cloud Computing, Business Domain
+Topics Covered: Data Concepts, IT Concepts, AI Concepts, From Data to AI, Mathematics, Cloud Computing, Business Domain
+
+### Data and AI Introduction
+#### Data Concepts 
+Topics Covered: Data, Data Vs Information, DIKW Pyramid, Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis, Data Models, Operational & Analytical Data
+#### IT Concepts
+Topics Covered: Technology, Information Technology, Data Processing and Storage, Databases, Data Warehouses, ETL/ELT, Streaming and Batch Data
+#### AI Concepts
+Topics Covered: Intelligence, Intelligent Agents, Applications (Web Search, Recommendation Systems, Self-driving Cars, Strategic Games), Aspects of AI (Search, Knowledge, Uncertainty, Optimization, Learning, Neural Networks, Language), Strong and Weak AI
+#### From Data To AI
+Topics Covered: Business Intelligence, Data Science, Machine Learning, Deep Learning, Artificial Intelligence
+
 ### Mathematics
 #### Linear Algebra
 Topics Covered: Scalars, Vectors, Matrices and Tensors, Multiplying Matrices and Vectors, Identity and Inverse Matrices, Linear Dependence and Span, Norms, Special Kinds of Matrices and Vectors, Eigendecomposition, Singular Value Decomposition (SVD), The Moore Penrose Pseudoinverse, The Trace Operator, The Determinant, Principal Component Analysis
