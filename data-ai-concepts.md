@@ -68,13 +68,19 @@ Topics Covered: Data Governance, Data Architecture, Data Ingestion, Data Storage
 ### Data Governance 
 Topics Covered: Introduction, Benefits of Data Governance, Aspects of Data Governance, Data Governance Lifecycle, Data Governance Roles, Data Governance Skills
 ### Data Architecture
-
+Topics Covered: Introduction, Data Model, Normalization/Denormalization, ER Diagrams
 ### Data Ingestion
+Topics Covered:
 ### Data Storage
+Topics Covered:
 ### Data Engineering
+Topics Covered:
 ### Data Science
+Topics Covered:
 ### Data Visualization
+Topics Covered:
 ### Data AI x Ops
+Topics Covered:
 
 <a name="data-and-ai-platforms"/>
 
