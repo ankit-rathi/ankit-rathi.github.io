@@ -15,11 +15,13 @@ Data and AI Introduction, Data and AI Foundation, Data and AI in Action, Data an
 #### 
 ### Data and AI Introduction
 #### Data
-Data, Data Vs Information, DIKW Pyramid, Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis, 
+Data, Data Vs Information, DIKW Pyramid, Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis
+#### Information Technology
+Technology, Information Technology, Data Processing and Storage, Databases, Data Warehouses
 #### AI
 Intelligence, Intelligent Agents, Applications (Web Search, Recommendation Systems, Self-driving Cars, Strategic Games), Aspects of AI (Search, Knowledge, Uncertainty, Optimization, Learning, Neural Networks, Language), Strong and Weak AI
 #### From Data To AI
-Operational & Analytical Data, Data Processing and Storage, Databases, Data Warehouses, ETL/ELT, Streaming and Batch Data, Business Intelligence, Data Science, Machine Learning, Deep Learning, Artificial Intelligence
+Operational & Analytical Data, ETL/ELT, Streaming and Batch Data, Business Intelligence, Data Science, Machine Learning, Deep Learning, Artificial Intelligence
 ### Data and AI Foundation
 #### SQL
 SQL, Data Models, ER Diagrams, Tables, Temporary Tables, Selecting (SELECT, FROM, DISTINCT), Filtering (WHERE, AND, OR, IN, NOT, BETWEEN, NULLs, Wildcards), Ordering (ORDER BY, DESC), Aggregating (GROUP BY, HAVING, AVERAGE, COUNT, MAX, MIN), Subqueries, Joins (Cartesian, Inner, Outer <Left/Right>, Self), Sets (UNION, UNION ALL, INTERSECT), Aliases, Views, Subqueries (WITH AS)
@@ -56,6 +58,8 @@ Problem Solving, Problem Identification, Problem Definition, Prioritization, Roo
 #### Snowflake
 ### Conclusion
 ### Appendix
+#### Operating Systems
+
 #### Python
 Programming, Installation, Basic Syntax & Variable Types, Data Types and Conversion, Basic Operators and Loops, Functions, Exceptions and Modules, Data Science Specific Modules (NumPy, SciPy, Pandas, MatPlotLib, Scikit-Learn)
 #### Data Structures and Algorithms
