@@ -8,11 +8,11 @@ permalink: /data-ai-concepts/
 ![](https://cdn-images-1.medium.com/max/800/1*mcaSI_fXXsV_3yQfpUdZdg.png)
 
 ### Preface
+#### Why This Book?
 #### Who Should Read This Book?
 #### Scope of This Book
 #### Outline of This Book
 Data and AI Introduction, Data and AI Foundation, Data and AI in Action, Data and AI Platforms
-#### 
 ### Data and AI Introduction
 #### Data Concepts
 Data, Data Vs Information, DIKW Pyramid, Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis, Data Models, Operational & Analytical Data
