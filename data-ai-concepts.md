@@ -8,10 +8,11 @@ permalink: /data-ai-concepts/
 ![](https://cdn-images-1.medium.com/max/800/1*mcaSI_fXXsV_3yQfpUdZdg.png)
 
 ##### Table of Contents  
-[Preface](#Preface)  
+[Headers](#headers)  
 [Emphasis](#emphasis)  
-   
-
+...snip...    
+<a name="headers"/>
+## Headers
 
 ### Preface
 #### Why This Book
@@ -74,5 +75,4 @@ Programming, Installation, Basic Syntax & Variable Types, Data Types and Convers
 Data Structures (Array, Linked List, Stack, Queue, Heap, Hashing, Binary Tree, Binary Search Tree, Graph, Matrix), Algorithms (Asymptotic Analysis, Searching and Sorting, Greedy Algorithms, Recursion, Dynamic Programming)
 
 
-<a name="Preface"/>
-## Preface
+
