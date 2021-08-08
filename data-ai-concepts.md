@@ -66,21 +66,21 @@ Topics Covered: Problem Solving, Problem Identification, Problem Definition, Pri
 
 Topics Covered: Data Governance, Data Architecture, Data Ingestion, Data Storage, Data Engineering, Data Science, Data Visualization, Data AI x Ops
 ### Data Governance 
-Topics Covered: What is Data Governance?, Why Data Governance is Important?, Aspects of Data Governance, How to do Data Governance?
+Topics Covered: Data Governance Basics, Why Data Governance is Important?, Aspects of Data Governance, How to do Data Governance?
 ### Data Architecture
-Topics Covered: What is Data Architecture?, Why Data Architecture is Required?, How to build Data Architecture?
+Topics Covered: Data Architecture Basics, Why Data Architecture is Required?, How to build Data Architecture?
 ### Data Ingestion
-Topics Covered: What is Data Ingestion?, Types of Data Ingestion, Tools for Data Ingestion
+Topics Covered: Data Ingestion Basics, Types of Data Ingestion, Tools for Data Ingestion
 ### Data Storage
-Topics Covered: What is Data Storage?, Types of Data Storage, Tools for Data Storage
+Topics Covered: Data Storage Basics, Types of Data Storage, Tools for Data Storage
 ### Data Engineering
-Topics Covered: What is Data Engineering?, Building Data Pipelines
+Topics Covered: Data Engineering Basics, Tools for Data Engineering, Building Data Pipelines
 ### Data Science
-Topics Covered: 
+Topics Covered: Data Science Basics, Overall Process, Algorithms, Tools for Data Science
 ### Data Visualization
-Topics Covered:
-### Data AI x Ops
-Topics Covered:
+Topics Covered: Data Visualization Basics, Why Data Visualization is Important?, Tools for Data Visualization
+### Data AI Operationalization
+Topics Covered: Operationalization Basics, Why Operationalization is required?, Tools for Data AI Operationalization
 
 <a name="data-and-ai-platforms"/>
 
@@ -89,11 +89,17 @@ Topics Covered:
 
 Topics Covered: Open Source, AWS, Azure, GCP, Databricks, Snowflake
 ### Open Source
+Topics Covered: Building Data and AI Platform in Open Source
 ### AWS
+Topics Covered: Building Data and AI Platform in AWS
 ### Azure
+Topics Covered: Building Data and AI Platform in Azure
 ### GCP
+Topics Covered: Building Data and AI Platform in GCP
 ### Databricks
+Topics Covered: Building Data and AI Platform in Databricks
 ### Snowflake
+Topics Covered: Building Data and AI Platform in Snowflake
 
 <a name="appendix"/>
 
@@ -109,7 +115,7 @@ Topics Covered: SQL, Data Models, ER Diagrams, Tables, Temporary Tables, Selecti
 Topics Covered: Programming, Installation, Basic Syntax & Variable Types, Data Types and Conversion, Basic Operators and Loops, Functions, Exceptions and Modules, Data Science Specific Modules (NumPy, SciPy, Pandas, MatPlotLib, Scikit-Learn)
 
 ### UNIX and Shell Scripting
-Topics Covered: 
+Topics Covered: Operating System, Architecture, Basic UNIX Commands, Shell Scripting
 
 ### Data Structures and Algorithms
 Topics Covered: Data Structures (Array, Linked List, Stack, Queue, Heap, Hashing, Binary Tree, Binary Search Tree, Graph, Matrix), Algorithms (Asymptotic Analysis, Searching and Sorting, Greedy Algorithms, Recursion, Dynamic Programming)
