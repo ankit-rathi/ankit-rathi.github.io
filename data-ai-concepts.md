@@ -33,7 +33,9 @@ Data and AI projects are a team effort, members with different niche skill-set c
 ![](https://cdn-images-1.medium.com/max/800/1*Kl1gGRQZ9iSzs2kakDfGkQ.png)
 
 If you are following Data and AI space, you have probably noticed that there is no literature to cover the horizontal layer. With this book, I try to cover the horizontal layer of Data and AI space in just enough depth end-to-end.
+
 Concepts are the abstraction of the real-world phenomenon, if you know the concept, you can explore it and build on it as you desire. And that's why my focus in this book would be on the concepts.
+
 The goal of this book is to cover the concepts of Data and AI space in an intuitive way. After completing this book, you will know all the buzzwords in Data and AI field and will be able to connect the dots to build your own perspective, you will be able to contribute to your Data and AI project more effectively.
 
 ### Who Should Read This Book?
