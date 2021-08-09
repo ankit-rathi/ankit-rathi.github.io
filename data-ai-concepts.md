@@ -23,6 +23,19 @@ permalink: /data-ai-concepts/
 
 Topics Covered: Why This Book?, Who Should Read This Book?, Scope of This Book, Outline of This Book
 ### Why This Book?
+
+Data and AI is a vast field, in fact, it's an amalgamation of multiple fields. There is already so much great literature that has been written on various aspects and those books cover the specific areas in great detail.
+
+![](https://cdn-images-1.medium.com/max/800/1*kTCH9IOcoDkSeVq_CGmjtQ.png)
+
+Data and AI projects are a team effort, members with different niche skill-set collaborate to deliver the business value of data. Data professionals can be effective with a T-shaped skill-set, which means they have their niche but they also have enough knowledge and exposure of the horizontal layer.
+
+![](https://cdn-images-1.medium.com/max/800/1*Kl1gGRQZ9iSzs2kakDfGkQ.png)
+
+If you are following Data and AI space, you have probably noticed that there is no literature to cover the horizontal layer. With this book, I try to cover the horizontal layer of Data and AI space in just enough depth end-to-end.
+Concepts are the abstraction of the real-world phenomenon, if you know the concept, you can explore it and build on it as you desire. And that's why my focus in this book would be on the concepts.
+The goal of this book is to cover the concepts of Data and AI space in an intuitive way. After completing this book, you will know all the buzzwords in Data and AI field and will be able to connect the dots to build your own perspective, you will be able to contribute to your Data and AI project more effectively.
+
 ### Who Should Read This Book?
 ### Scope of This Book
 ### Outline of This Book
