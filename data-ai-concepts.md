@@ -24,19 +24,29 @@ permalink: /data-ai-concepts/
 Topics Covered: Why This Book?, Who Should Read This Book?, Scope of This Book, Outline of This Book
 ### Why This Book?
 
-Data and AI is a vast field, in fact, it's an amalgamation of multiple fields. There is already so much great literature that has been written on various aspects and those books cover the specific areas in great detail.
+As Simon Sinek suggests, ‘Start with Why?’. The very first question that I asked myself is why I need to write a book on ‘Data and AI’? There are several reasons for that:
 
-![](https://cdn-images-1.medium.com/max/800/1*kTCH9IOcoDkSeVq_CGmjtQ.png)
+![](https://miro.medium.com/max/800/1*kTCH9IOcoDkSeVq_CGmjtQ.png)
+
+First, Data and AI is a vast field, in fact, it's an amalgamation of multiple fields. There is already so much great literature that has been written on various aspects and those books cover the specific areas in great detail.
+
+![](https://miro.medium.com/max/800/1*y6INdeXZqPdzlLtCEnaExQ.png)
 
 Data and AI projects are a team effort, members with different niche skill-set collaborate to deliver the business value of data. Data professionals can be effective with a T-shaped skill-set, which means they have their niche but they also have enough knowledge and exposure of the horizontal layer.
 
-![](https://cdn-images-1.medium.com/max/800/1*Kl1gGRQZ9iSzs2kakDfGkQ.png)
-
 If you are following Data and AI space, you have probably noticed that there is no literature to cover the horizontal layer. With this book, I try to cover the horizontal layer of Data and AI space in just enough depth end-to-end.
 
-Concepts are the abstraction of the real-world phenomenon, if you know the concept, you can explore it and build on it as you desire. And that's why my focus in this book would be on the concepts.
+![](https://miro.medium.com/max/800/1*o1zRo-V51ktqNhoXFHnwQw.png)
 
-The goal of this book is to cover the concepts of Data and AI space in an intuitive way. After completing this book, you will know all the buzzwords in Data and AI field and will be able to connect the dots to build your own perspective, you will be able to contribute to your Data and AI project more effectively.
+Second, after working in Data and AI field for more than a decade, I have developed my own perspective around it, which I would like to share with the other learners and practitioners. I truly believe that if I really understand my stuff, I should be able to teach it to a duck.
+
+![](https://miro.medium.com/max/800/1*x5QePkCuQ0J8nFGlGHtU6A.png)
+
+Third, my focus in this book would be on the concepts. Why? Because concepts are the abstraction of the real-world phenomenon, if you know the concept, you can explore it and build on it as you desire. I intend to cover the Data and AI concepts in an intuitive way.
+
+![](https://miro.medium.com/max/800/1*x5QePkCuQ0J8nFGlGHtU6A.png)
+
+Finally, I will cover all the aspects of the Data and AI field holistically, which will help you to connect the dots and build your own perspective, you will be able to contribute to your Data and AI project more effectively.
 
 ### Who Should Read This Book?
 ### Scope of This Book
