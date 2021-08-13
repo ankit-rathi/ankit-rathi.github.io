@@ -49,9 +49,20 @@ Fourth, my focus in this book would be on the concepts. Why? Because concepts ar
 Finally, I plan to cover all the aspects of the Data and AI field holistically, which will help you to connect the dots and build your own perspective. I am confident that you will be able to contribute to your data and AI projects more effectively.
 
 ### Who Should Read This Book?
+
+This book is for anyone who calls himself a data professional or wants to become one. 
+
+I call a data professional as anyone who is a stakeholder in data and AI projects. Be it a technical or business person, there is a minimum level of understanding that is required to be effective in data and AI teams. I have used parts of the material with people from business and technology alike.
+
+A data professional can be a data analyst, data scientist, data engineer, machine learning (ML) engineer, business intelligence (BI) engineer, cloud engineer, DevOps/MLOps engineer, data architect, and head of analytics.
+
+Don't worry if you are completely new to the data and AI field, you have even more reason to be excited. There are no prerequisites to read and grasp the concepts mentioned in the book. This is a promise that learning data and AI concepts will change the way you think about the problems you want to solve and show you how to tackle them by unlocking the power of data.
+
 ### Scope of This Book
+
+
 ### Outline of This Book
-Topics Covered: Data and AI Introduction, Data and AI Foundation, Data and AI in Action, Data and AI Platforms
+Topics Covered: Data and AI Foundation, Data and AI in Action, Data and AI Platforms
 
 <a name="data-and-ai-foundation"/>
 
