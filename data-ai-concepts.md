@@ -59,10 +59,15 @@ A data professional can be a data analyst, data scientist, data engineer, machin
 Don't worry if you are completely new to the data and AI field, you have even more reason to be excited. There are no prerequisites to read and grasp the concepts mentioned in the book. This is a promise that learning data and AI concepts will change the way you think about the problems you want to solve and show you how to tackle them by unlocking the power of data.
 
 ### Scope of This Book
-
+- Covered: breadth of the Data and AI field to just enough depth, sticking to the comcepts
+- Not covered: specialization in each of the sub-fields, not the implementation details
 
 ### Outline of This Book
 Topics Covered: Data and AI Foundation, Data and AI in Action, Data and AI Platforms
+
+- Data and AI Foundation: Introduction, Mathematics, Cloud Computing, Business Domain
+- Data and AI in Action: Data Ingestion, Data Storage, Data Engineering, Data Science, Data Visualization, Data Operationalization, Data Architecture, Data Governance, Data Management
+- Data and AI Platforms: Open Source, AWS, Azure, GCP, Databricks, Snowflake
 
 <a name="data-and-ai-foundation"/>
 
@@ -74,6 +79,22 @@ Topics Covered: Data Concepts, IT Concepts, AI Concepts, From Data to AI, Mathem
 ### Data and AI Introduction
 #### Data Concepts 
 Topics Covered: Data, Data Vs Information, DIKW Pyramid, Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis, Data Models, Operational & Analytical Data
+
+##### Data
+- raw facts without context
+- i.e. a number, symbol, character, word, codes, graphs, etc
+- information in digital form
+- output of sensing device or organ
+
+##### Information
+- processed data put into context
+- utilized by humans in significant way
+- i.e. making decisions, forecasting etc
+
+##### DIKW Pyramid
+- Information Vs Knowledge : useful information is knowledge
+- Knowledge Vs Wisdom : knowledge gained with experience is wisdom
+
 #### IT Concepts
 Topics Covered: Technology, Information Technology, Data Processing and Storage, Databases, Data Warehouses, ETL/ELT, Streaming and Batch Data
 #### AI Concepts
@@ -115,7 +136,7 @@ Topics Covered: Data Engineering Basics, Tools for Data Engineering, Building Da
 Topics Covered: Data Science Basics, Overall Process, Algorithms, Tools for Data Science
 ### Data Visualization
 Topics Covered: Data Visualization Basics, Why Data Visualization is Important?, Tools for Data Visualization
-### Data AI Operationalization
+### Data Operationalization
 Topics Covered: Operationalization Basics, Why Operationalization is required?, Tools for Data AI Operationalization
 
 <a name="data-and-ai-platforms"/>
