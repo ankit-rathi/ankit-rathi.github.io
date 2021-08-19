@@ -5,7 +5,7 @@ permalink: /data-ai-concepts/
 ---
 
 ## Data and AI Concepts
-![](https://cdn-images-1.medium.com/max/800/1*mcaSI_fXXsV_3yQfpUdZdg.png)
+![](https://cdn-images-1.medium.com/max/800/1*mcaSI_fXXsV_3yQfpUdZdg.png){:width="100%"}
 
 <a name="table-of-contents"/>
 
@@ -26,29 +26,27 @@ Topics Covered: Why This Book?, Who Should Read This Book?, Scope of This Book, 
 
 Most probably you might have already heard the quotes like ‘Data is the new oil’, ‘AI is the new electricity’. There is no doubt that data and AI have become the most valuable assets of the digital ecosystem. Different applications of data and AI are helping businesses, governments, and society in general. Due to the unprecedented adoption of data and AI techniques, the demand for data professionals has also skyrocketed.
 
-![](https://cdn-images-1.medium.com/max/800/1*2hx8Mokj-iaqtyAD_AokNw.png)
+![](https://cdn-images-1.medium.com/max/800/1*2hx8Mokj-iaqtyAD_AokNw.png){:width="100%"}
 
 I have been thinking to cover data and AI concepts in a form of a book for quite some time. But as Simon Sinek suggests, ‘Start with Why?’. The very first question that I asked myself is why I need to write a book on ‘Data and AI’? There are several reasons for that:
-
-![](https://cdn-images-1.medium.com/max/800/1*Q-NdX_xBzky8Rvr7YXVLLg.png){:class="img-responsive"}
 
 ![](https://cdn-images-1.medium.com/max/800/1*Q-NdX_xBzky8Rvr7YXVLLg.png){:width="100%"}
 
 First, data and AI is a vast field, in fact, it's an amalgamation of multiple fields. There is already so much great literature that has been written on various aspects and those books cover the specific areas in great length and depth. But there is no literature in my knowledge that covers the overall landscape holistically.
 
-![](https://cdn-images-1.medium.com/max/800/1*119zTf-Hr4pwpnNIi3bbTA.png)
+![](https://cdn-images-1.medium.com/max/800/1*119zTf-Hr4pwpnNIi3bbTA.png){:width="100%"}
 
 Second, data and AI projects can’t be delivered by a single person, these projects are a team effort. Members with different niche skill-set collaborate to deliver the business value of data. It has been identified that data professionals can be effective with a T-shaped skill-set, which means they have their niche but they also have enough knowledge and exposure of the horizontal layer. With this book, I try to cover the horizontal layer of data and AI space in just enough depth end-to-end.
 
-![](https://cdn-images-1.medium.com/max/800/1*_ylOyW7P6qEPxhlm01_B-w.png)
+![](https://cdn-images-1.medium.com/max/800/1*_ylOyW7P6qEPxhlm01_B-w.png){:width="100%"}
 
 Third, after working in Data and AI field for more than a decade, I have developed my own perspective around it, which I would like to share with the other learners and practitioners. I truly believe that if I really understand my stuff, I should be able to teach it to a duck. Moreover, this exercise will immensely help to structure my knowledge as well.
 
-![](https://cdn-images-1.medium.com/max/800/1*nxsIYCvPxUWs5r1mTxz15g.png)
+![](https://cdn-images-1.medium.com/max/800/1*nxsIYCvPxUWs5r1mTxz15g.png){:width="100%"}
 
 Fourth, my focus in this book would be on the concepts. Why? Because concepts are the abstraction of the real-world phenomenon, if you know the concept, you can explore it and build on it as you desire. I intend to cover the data and AI concepts in an intuitive way.
 
-![](https://cdn-images-1.medium.com/max/800/1*q6dx0-JODn0il105mii0uQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*q6dx0-JODn0il105mii0uQ.png){:width="100%"}
 
 Finally, I plan to cover all the aspects of the Data and AI field holistically, which will help you to connect the dots and build your own perspective. I am confident that you will be able to contribute to your data and AI projects more effectively.
 
@@ -58,7 +56,7 @@ This book is for anyone who calls himself a data professional or wants to become
 
 I call a data professional as anyone who is a stakeholder in data and AI projects. Be it a technical or business person, there is a minimum level of understanding that is required to be effective in data and AI teams. I have used parts of the material with people from business and technology alike.
 
-![](https://cdn-images-1.medium.com/max/800/1*XI-Bm8OJzpIqn1hiVic3mg.png)
+![](https://cdn-images-1.medium.com/max/800/1*XI-Bm8OJzpIqn1hiVic3mg.png){:width="100%"}
 
 A data professional can be a data analyst, data scientist, data engineer, machine learning (ML) engineer, business intelligence (BI) engineer, cloud engineer, DevOps/MLOps engineer, data architect, and head of analytics.
 
