@@ -6,7 +6,7 @@ categories: [post]
 title: How to build a data-driven organization?
 ---
 
-![](https://cdn-images-1.medium.com/max/1800/1*_HpXtqFi-06wr0wBugdQXg.png)
+![](https://cdn-images-1.medium.com/max/1800/1*_HpXtqFi-06wr0wBugdQXg.png){:width="100%"}
 
 There has not been an exciting time than this to talk about data. Data is
 everywhere, it is being called the new oil, it has become a strategic asset. An
@@ -35,7 +35,7 @@ So let's start…
 
 ### Data-Driven, What & Why?
 
-![](https://cdn-images-1.medium.com/max/1200/0*njmlj9ZxT5G3Kv5D)
+![](https://cdn-images-1.medium.com/max/1200/0*njmlj9ZxT5G3Kv5D){:width="100%"}
 
 Countless surveys from many strategic consulting firms have shown how a
 data-driven business can serve its customers better, improve its products & get
@@ -89,7 +89,7 @@ to remain competitive or strive & thrive in their business.
 
 ### *Building Data Strategy*
 
-![](https://cdn-images-1.medium.com/max/1200/0*LV6ca-GLldiIAwj4)
+![](https://cdn-images-1.medium.com/max/1200/0*LV6ca-GLldiIAwj4){:width="100%"}
 
 Let's understand data strategy and explore how we can build it.
 
@@ -147,7 +147,7 @@ more value than optimizing operations.
 
 ### *Exploiting Emerging Technologies*
 
-![](https://cdn-images-1.medium.com/max/1200/0*m438qmdxkYcSqLuF)
+![](https://cdn-images-1.medium.com/max/1200/0*m438qmdxkYcSqLuF){:width="100%"}
 
 In this section, let's understand emerging technologies and explore how we can
 exploit them.
@@ -203,7 +203,7 @@ minimal investment.
 
 ### *Applying Data Governance*
 
-![](https://cdn-images-1.medium.com/max/1200/0*bo0EuLCjuE7sCiuw)
+![](https://cdn-images-1.medium.com/max/1200/0*bo0EuLCjuE7sCiuw){:width="100%"}
 
 In this section, let's understand data governance and explore how we can apply
 it.
@@ -260,7 +260,7 @@ for enterprise
 
 ### *Building Data-Driven Culture*
 
-![](https://cdn-images-1.medium.com/max/1200/0*imAW58rOzzdI0XzZ)
+![](https://cdn-images-1.medium.com/max/1200/0*imAW58rOzzdI0XzZ){:width="100%"}
 
 In this section, let's understand the data-driven culture and explore how we can
 build it in our organization.
