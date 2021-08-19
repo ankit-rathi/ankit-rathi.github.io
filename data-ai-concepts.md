@@ -34,19 +34,19 @@ I have been thinking to cover data and AI concepts in a form of a book for quite
 
 First, data and AI is a vast field, in fact, it's an amalgamation of multiple fields. There is already so much great literature that has been written on various aspects and those books cover the specific areas in great length and depth. But there is no literature in my knowledge that covers the overall landscape holistically.
 
-![](https://miro.medium.com/max/800/1*y6INdeXZqPdzlLtCEnaExQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*119zTf-Hr4pwpnNIi3bbTA.png)
 
 Second, data and AI projects can’t be delivered by a single person, these projects are a team effort. Members with different niche skill-set collaborate to deliver the business value of data. It has been identified that data professionals can be effective with a T-shaped skill-set, which means they have their niche but they also have enough knowledge and exposure of the horizontal layer. With this book, I try to cover the horizontal layer of data and AI space in just enough depth end-to-end.
 
-![](https://miro.medium.com/max/800/1*o1zRo-V51ktqNhoXFHnwQw.png)
+![](https://cdn-images-1.medium.com/max/800/1*_ylOyW7P6qEPxhlm01_B-w.png)
 
 Third, after working in Data and AI field for more than a decade, I have developed my own perspective around it, which I would like to share with the other learners and practitioners. I truly believe that if I really understand my stuff, I should be able to teach it to a duck. Moreover, this exercise will immensely help to structure my knowledge as well.
 
-![](https://miro.medium.com/max/800/1*x5QePkCuQ0J8nFGlGHtU6A.png)
+![](https://cdn-images-1.medium.com/max/800/1*nxsIYCvPxUWs5r1mTxz15g.png)
 
 Fourth, my focus in this book would be on the concepts. Why? Because concepts are the abstraction of the real-world phenomenon, if you know the concept, you can explore it and build on it as you desire. I intend to cover the data and AI concepts in an intuitive way.
 
-![](https://miro.medium.com/max/800/1*f0ldLC49eP3Mo5f5NCRTZw.png)
+![](https://cdn-images-1.medium.com/max/800/1*q6dx0-JODn0il105mii0uQ.png)
 
 Finally, I plan to cover all the aspects of the Data and AI field holistically, which will help you to connect the dots and build your own perspective. I am confident that you will be able to contribute to your data and AI projects more effectively.
 
