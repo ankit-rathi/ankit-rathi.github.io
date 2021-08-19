@@ -96,11 +96,18 @@ Topics Covered: Data, Data Vs Information, DIKW Pyramid, Aspects of Data (Format
 ##### DIKW Pyramid
 - Information Vs Knowledge : useful information is knowledge
 - Knowledge Vs Wisdom : knowledge gained with experience is wisdom
+- i.e. '100' number is data, '100 miles' is information
+- '100 miles is quite a far distance' is a knowledge
+- '100 miles is very difficult to walk' is wisdom
+
+
 
 #### IT Concepts
 Topics Covered: Technology, Information Technology, Data Processing and Storage, Databases, Data Warehouses, ETL/ELT, Streaming and Batch Data
+
 #### AI Concepts
 Topics Covered: Intelligence, Intelligent Agents, Applications (Web Search, Recommendation Systems, Self-driving Cars, Strategic Games), Aspects of AI (Search, Knowledge, Uncertainty, Optimization, Learning, Neural Networks, Language), Strong and Weak AI
+
 #### From Data To AI
 Topics Covered: Business Intelligence, Data Science, Machine Learning, Deep Learning, Artificial Intelligence
 
