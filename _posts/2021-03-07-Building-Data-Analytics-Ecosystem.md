@@ -6,7 +6,7 @@ categories: [post]
 title: Building Data Analytics Ecosystem
 ---
 
-![](https://cdn-images-1.medium.com/max/800/1*doJYr0ECfpaQL0S36n14FQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*doJYr0ECfpaQL0S36n14FQ.png){:width="100%"}
 
 In this post, I am going to cover how you can build a data analytics ecosystem
 in your organization.
@@ -14,7 +14,7 @@ in your organization.
 A business doesn’t think in terms of data and technology, it mainly focuses on
 business outcomes and what it can do to maximize the business value.
 
-![](https://cdn-images-1.medium.com/max/800/1*9PjNVt9wHuyJq2Jscfe0UQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*9PjNVt9wHuyJq2Jscfe0UQ.png){:width="100%"}
 
 A business strategy is a high-level plan to achieve certain business outcomes.
 Data and technology may or may not be a part of it but in today’s era, data and
@@ -25,13 +25,13 @@ Data strategy is high-level planning how data can help realize business outcomes
 in terms of data solutions. A data platform is an ecosystem that enables
 stakeholders to materialize their data strategy into data solutions.
 
-![](https://cdn-images-1.medium.com/max/800/1*XQ9bde7H16QyItJyHlGLIA.png)
+![](https://cdn-images-1.medium.com/max/800/1*XQ9bde7H16QyItJyHlGLIA.png){:width="100%"}
 
 If we look closer, in order to maximize the business value of data, it becomes
 imperative to align business strategy with data strategy at the top and linking
 data use cases with business outcomes.
 
-![](https://cdn-images-1.medium.com/max/800/1*mhtZ1H0jPUF-MSBRTQepYQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*mhtZ1H0jPUF-MSBRTQepYQ.png){:width="100%"}
 
 Now, how to build a data strategy, we can do it step by step. First, we need to
 identify business goals and objectives that we plan to achieve with the data we
@@ -41,7 +41,7 @@ capabilities, processes, and structure we need to have in place. Once this is
 done, we identify the gaps between the current and future state and prepare an
 implementation roadmap.
 
-![](https://cdn-images-1.medium.com/max/800/1*EXJBIX8Hlut164Byb8U4MA.png)
+![](https://cdn-images-1.medium.com/max/800/1*EXJBIX8Hlut164Byb8U4MA.png){:width="100%"}
 
 As it turns out, we would be able to break the implementation roadmap into data
 use cases that we need to work on. Now let's have a look at the template of a
@@ -52,7 +52,7 @@ its business KPIs, mention the owner and consumer of the use case.
 We need to see what data requirement this use case has and in case we have taken
 many use cases at a time, we need to assess the priority of the use cases.
 
-![](https://cdn-images-1.medium.com/max/800/1*wf2cEGIWWUwQCW8gnF8bhA.png)
+![](https://cdn-images-1.medium.com/max/800/1*wf2cEGIWWUwQCW8gnF8bhA.png){:width="100%"}
 
 Delta Lake is an open-source storage layer that brings reliability to data
 lakes. Delta Lake provides ACID transactions, scalable metadata handling, and
@@ -69,7 +69,7 @@ data, etc. Silver tables provide a more refined view of the Bronze data. Gold
 tables provide business-level aggregates often used for reporting and
 dashboarding.
 
-![](https://cdn-images-1.medium.com/max/800/1*4COx_Qmu-t_OMeoE6J1-gw.png)
+![](https://cdn-images-1.medium.com/max/800/1*4COx_Qmu-t_OMeoE6J1-gw.png){:width="100%"}
 
 How you can infuse agility into your data governance? Data governance can be
 enforced from day one, but we can build it up gradually. We can have parallel
@@ -80,7 +80,7 @@ Data catalog can be built on top of the raw data layer first, data quality
 checks can be put in place on data pipelines and master data can be built after
 refining the raw data.
 
-![](https://cdn-images-1.medium.com/max/800/1*GEXWZhAcWekMEQLE4pgkqw.png)
+![](https://cdn-images-1.medium.com/max/800/1*GEXWZhAcWekMEQLE4pgkqw.png){:width="100%"}
 
 Now let's have a look at the typical 6-layered data platform architecture which
 suffice most of the new age analytics requirements:
@@ -98,7 +98,7 @@ consumers
 AWS, Azure, and GCP have built respective components on their cloud platform to
 enable businesses to use data platform as PaaS, SaaS, or IaaS.
 
-![](https://cdn-images-1.medium.com/max/800/1*bTe3A0KNf6mtE_xqsYcMSw.png)
+![](https://cdn-images-1.medium.com/max/800/1*bTe3A0KNf6mtE_xqsYcMSw.png){:width="100%"}
 
 Now let’s have a quick look at the typical roles in a data platform.
 
@@ -112,7 +112,7 @@ platform over the cloud. DevOps engineer automates the iterative steps in the
 data project lifecycle. BI engineer helps in presenting the insights to the
 consumers.
 
-![](https://cdn-images-1.medium.com/max/800/1*90DaEDgy79_GcgR3yewRYw.png)
+![](https://cdn-images-1.medium.com/max/800/1*90DaEDgy79_GcgR3yewRYw.png){:width="100%"}
 
 Let's have a look at the high-level steps in order to build a data analytics
 ecosystem. First and foremost, build and align a data strategy aligning with
