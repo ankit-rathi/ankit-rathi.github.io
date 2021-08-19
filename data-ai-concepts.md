@@ -30,7 +30,9 @@ Most probably you might have already heard the quotes like ‘Data is the new oi
 
 I have been thinking to cover data and AI concepts in a form of a book for quite some time. But as Simon Sinek suggests, ‘Start with Why?’. The very first question that I asked myself is why I need to write a book on ‘Data and AI’? There are several reasons for that:
 
-![](https://cdn-images-1.medium.com/max/800/1*Q-NdX_xBzky8Rvr7YXVLLg.png)
+![](https://cdn-images-1.medium.com/max/800/1*Q-NdX_xBzky8Rvr7YXVLLg.png){:class="img-responsive"}
+
+![](https://cdn-images-1.medium.com/max/800/1*Q-NdX_xBzky8Rvr7YXVLLg.png){:width="100%"}
 
 First, data and AI is a vast field, in fact, it's an amalgamation of multiple fields. There is already so much great literature that has been written on various aspects and those books cover the specific areas in great length and depth. But there is no literature in my knowledge that covers the overall landscape holistically.
 
