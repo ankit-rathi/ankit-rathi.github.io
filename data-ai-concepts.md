@@ -56,6 +56,8 @@ This book is for anyone who calls himself a data professional or wants to become
 
 I call a data professional as anyone who is a stakeholder in data and AI projects. Be it a technical or business person, there is a minimum level of understanding that is required to be effective in data and AI teams. I have used parts of the material with people from business and technology alike.
 
+![](https://cdn-images-1.medium.com/max/800/1*XI-Bm8OJzpIqn1hiVic3mg.png)
+
 A data professional can be a data analyst, data scientist, data engineer, machine learning (ML) engineer, business intelligence (BI) engineer, cloud engineer, DevOps/MLOps engineer, data architect, and head of analytics.
 
 Don't worry if you are completely new to the data and AI field, you have even more reason to be excited. There are no prerequisites to read and grasp the concepts mentioned in the book. This is a promise that learning data and AI concepts will change the way you think about the problems you want to solve and show you how to tackle them by unlocking the power of data.
