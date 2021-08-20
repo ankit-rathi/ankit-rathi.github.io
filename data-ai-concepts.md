@@ -5,7 +5,7 @@ permalink: /data-ai-concepts/
 ---
 
 ## Data and AI Concepts
-![](https://cdn-images-1.medium.com/max/800/1*9LK8I2Up102oXcyFD-qbnw.png){:width="100%"}
+![](https://cdn-images-1.medium.com/max/2600/1*9LK8I2Up102oXcyFD-qbnw.png){:width="100%"}
 
 <a name="table-of-contents"/>
 
