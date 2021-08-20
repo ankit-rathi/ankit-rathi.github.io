@@ -6,7 +6,7 @@ categories: [post]
 title: Deep Learning Landscape 
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*DC-NlAJCQiR2C945)
+![](https://cdn-images-1.medium.com/max/800/0*DC-NlAJCQiR2C945){:width="100%"}
 
 ​ credits : [forbes
 images](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fbernardmarr%2Ffiles%2F2018%2F10%2FAdobeStock_179912599-1-1200x797.jpg)
@@ -31,7 +31,7 @@ in
 As we mentioned earlier that *deep learning* was a subset of machine learning ,
 so what exactly is machine learning let’s see
 
-![](https://cdn-images-1.medium.com/max/800/0*r9fVFdCbW77-p8NG)
+![](https://cdn-images-1.medium.com/max/800/0*r9fVFdCbW77-p8NG){:width="100%"}
 
 ​ credits: [geo spaitial
 media](https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2017/05/AAEAAQAAAAAAAAhPAAAAJDlkMWMwNTA1LTZkZjUtNDA5MS1hYT.jpg)
@@ -56,7 +56,7 @@ So now the question is when should we use deep learning for our tasks and how
 will we implement it ? and is it the answer for all our questions ? Is it really
 capable of doing everything or it too have some limitations?
 
-![](https://cdn-images-1.medium.com/max/800/0*16Og_qtitvIemOn4)
+![](https://cdn-images-1.medium.com/max/800/0*16Og_qtitvIemOn4){:width="100%"}
 
 ​ credits: [the news
 stack](https://cdn.thenewstack.io/media/2020/05/6a5f470b-02.png)
@@ -67,7 +67,7 @@ sort the web pages and how to only show the most relevant pages on top.
 of human intervention and a lot more work needs to be done in making the normal
 machine learning algorithm to adapt to even similar looking tasks.
 
-![](https://cdn-images-1.medium.com/max/800/0*YUyMSFUKc2C-LcQ7)
+![](https://cdn-images-1.medium.com/max/800/0*YUyMSFUKc2C-LcQ7){:width="100%"}
 
 ​ credits:
 [abyssal](https://abyssal.eu/wp-content/uploads/AbyssalAi-traditional_vs_deep-performance.png)
@@ -98,7 +98,7 @@ is still far from attaining human like intelligence.
 
 ### How deep learning works
 
-![](https://victorzhou.com/media/nn-series/network.svg)
+![](https://victorzhou.com/media/nn-series/network.svg){:width="100%"}
 
 ​ credits: [victorzhou](https://victorzhou.com/media/nn-series/network.svg)
 
@@ -132,7 +132,7 @@ network.
 
 #### Convolution Neural Networks (CNN) :-
 
-![](https://cdn-images-1.medium.com/max/800/0*fmQL3BX7PLybKTww)
+![](https://cdn-images-1.medium.com/max/800/0*fmQL3BX7PLybKTww){:width="100%"}
 
 #### <br> 
 
@@ -151,7 +151,7 @@ multiplication in at least one of their layers.
 
 ### <br> 
 
-![](https://cdn-images-1.medium.com/max/800/0*4cXXePDytdlgX57H)
+![](https://cdn-images-1.medium.com/max/800/0*4cXXePDytdlgX57H){:width="100%"}
 
 ​ credits: [medium](https://miro.medium.com/max/1039/0/8AfmjQTGGEmEFxIa.png)
 
@@ -161,7 +161,7 @@ time , so this neural net is used where there are certain iteration in
 information. It is prevalent in most of the time series analysis because it can
 remember previous inputs also, and also text completion models.
 
-![](https://cdn-images-1.medium.com/max/800/0*aNpWclaw16LIabsK)
+![](https://cdn-images-1.medium.com/max/800/0*aNpWclaw16LIabsK){:width="100%"}
 
 ​ credits: [medium](https://miro.medium.com/max/785/030h4uFH8GxOT23fk.png)
 
@@ -175,7 +175,7 @@ classification and feature compression problems.
 
 ### <br> 
 
-![](https://cdn-images-1.medium.com/max/800/0*OMAARZtRmalNcjiY)
+![](https://cdn-images-1.medium.com/max/800/0*OMAARZtRmalNcjiY){:width="100%"}
 
 ​ credits: [medium](https://miro.medium.com/max/1091/0/wDTai055oQ7F0AoW.png)
 
