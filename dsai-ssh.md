@@ -9,7 +9,7 @@ permalink: /dsai-ssh/
 
 ### Build Your Own Roadmap
 
-![](https://cdn-images-1.medium.com/max/600/1*VJmZvc1hhRMqC8MiTt_V5g.png)
+![](https://cdn-images-1.medium.com/max/600/1*VJmZvc1hhRMqC8MiTt_V5g.png){:width="100%"}
 
 While I have published the content as an e-book here, if you want to read as pdf or paperback, you can buy it here : [ankitrathi.com/store](https://ankitrathi.com/store)
 
@@ -29,5 +29,5 @@ While I have published the content as an e-book here, if you want to read as pdf
  
 ### Upcoming Book...
 
-![](https://cdn-images-1.medium.com/max/1080/1*mcaSI_fXXsV_3yQfpUdZdg.png)
+![](https://cdn-images-1.medium.com/max/800/1*mcaSI_fXXsV_3yQfpUdZdg.png){:width="100%"}
 
