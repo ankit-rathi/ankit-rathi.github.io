@@ -5,7 +5,7 @@ description: How to go from problem statement to solution in production?
 categories: [post]
 title: End-to-End Data Science Process
 ---
-![](https://cdn-images-1.medium.com/max/800/1*Sicdft5MMryjrPmtzTo4Fg.png)
+![](https://cdn-images-1.medium.com/max/1080/1*Sicdft5MMryjrPmtzTo4Fg.png){:width="100%"}
 
 In this post, I am going to cover a typical end-to-end data science process.
 
@@ -15,7 +15,7 @@ In this post, I am going to cover a typical end-to-end data science process.
 From data science use-case identification to the deployment of the models in
 production, so much goes into data science projects.
 
-![](https://cdn-images-1.medium.com/max/800/1*KuOxm0dz39TPaduJd-IDqg.png)
+![](https://cdn-images-1.medium.com/max/1080/1*KuOxm0dz39TPaduJd-IDqg.png){:width="100%"}
 
 So what is it like to work in a data science project? What are the high-level
 steps?
@@ -27,12 +27,12 @@ mention about data systems and the typical data lifecycle in an organization.
 
 There are mainly two types of data systems: transactional and analytical.
 
-![](https://cdn-images-1.medium.com/max/800/1*ZbW08nuP1m6IARfRyrt-jg.png)
+![](https://cdn-images-1.medium.com/max/1080/1*ZbW08nuP1m6IARfRyrt-jg.png){:width="100%"}
 
 Transactional systems support day to day business operations, while analytical
 systems enable better decision making.
 
-![](https://cdn-images-1.medium.com/max/800/1*vCSf7lTRBFSA7W7WrkBVkg.png)
+![](https://cdn-images-1.medium.com/max/1080/1*vCSf7lTRBFSA7W7WrkBVkg.png){:width="100%"}
 
 Basically, the raw data is collected, stored, processed, analysed and presented
 to business stakeholders as actionable insight.
@@ -42,7 +42,7 @@ requirement.
 
 Now, let's have a look at the high-level steps in a data science project.
 
-![](https://cdn-images-1.medium.com/max/800/1*PSZbwBOD8mxJWUfwTB0CIg.png)
+![](https://cdn-images-1.medium.com/max/1080/1*PSZbwBOD8mxJWUfwTB0CIg.png){:width="100%"}
 
 The first step is Identify
 
@@ -55,7 +55,7 @@ may also need to qualify those use-cases.
 If you have identified and qualified many use-cases, then you may also need to
 prioritize them based on their return-on-investment (ROI).
 
-![](https://cdn-images-1.medium.com/max/800/1*423WT7fPnp1zdjiJEF7uYw.png)
+![](https://cdn-images-1.medium.com/max/1080/1*423WT7fPnp1zdjiJEF7uYw.png){:width="100%"}
 
 The next step is Define
 
@@ -66,7 +66,7 @@ data available.
 You design a high-level approach for the solution, discuss and define the
 key-performance-indicators (KPIs) with the business sponsors.
 
-![](https://cdn-images-1.medium.com/max/800/1*X1M-ZcsC_y-LWpcDUBOluA.png)
+![](https://cdn-images-1.medium.com/max/1080/1*X1M-ZcsC_y-LWpcDUBOluA.png){:width="100%"}
 
 The third step is Assess
 
@@ -80,7 +80,7 @@ science project but on a smaller scale.
 Once you have built a prototype and stakeholders give a go-ahead, you start the
 project formally.
 
-![](https://cdn-images-1.medium.com/max/800/1*Ezg2cxY-Q7l_NMTi3eyomw.png)
+![](https://cdn-images-1.medium.com/max/1080/1*Ezg2cxY-Q7l_NMTi3eyomw.png){:width="100%"}
 
 The next step is Build
 
@@ -95,7 +95,7 @@ Above steps are iterative, which means you would be continuously munging the
 data, building and modifying features; training, validating and tuning the
 models until you get the required results.
 
-![](https://cdn-images-1.medium.com/max/800/1*ZrryVaYrzXOTQzpsLYN9tg.png)
+![](https://cdn-images-1.medium.com/max/1080/1*ZrryVaYrzXOTQzpsLYN9tg.png){:width="100%"}
 
 The fifth step is Deploy
 
@@ -105,7 +105,7 @@ get the feedback from business stakeholders.
 After getting the positive feedback, you build required dashboards for business
 KPIs, and make your data science solution live.
 
-![](https://cdn-images-1.medium.com/max/800/1*hQ0Ou8B7OIcJ3UVc_d0_tQ.png)
+![](https://cdn-images-1.medium.com/max/1080/1*hQ0Ou8B7OIcJ3UVc_d0_tQ.png){:width="100%"}
 
 The last step is Monitor
 
