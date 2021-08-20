@@ -85,18 +85,19 @@ Topics Covered: Data Concepts, IT Concepts, AI Concepts, From Data to AI, Mathem
 Topics Covered: Data, Data Vs Information, DIKW Pyramid, Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis, Data Models, Operational & Analytical Data
 
 ##### Data
+- data is the back-bone of data-driven AI
 - raw facts without context
 - i.e. a number, symbol, character, word, codes, graphs, etc
 - information in digital form
 - output of sensing device or organ
 
 ##### Information
-- processed data put into context
+- processed and meaningful data put into context
 - utilized by humans in significant way
 - i.e. making decisions, forecasting etc
 
 ##### DIKW Pyramid
-- Information Vs Knowledge : useful information is knowledge
+- Information Vs Knowledge : relevant information put to work in a specific domain is knowledge
 - Knowledge Vs Wisdom : knowledge gained with experience is wisdom
 - i.e. '100' number is data, '100 miles' is information
 - '100 miles is quite a far distance' is a knowledge
