@@ -26,7 +26,7 @@ Topics Covered: Why This Book?, Who Should Read This Book?, Scope of This Book, 
 
 Most probably you might have already heard the quotes like ‘Data is the new oil’, ‘AI is the new electricity’. There is no doubt that data and AI have become the most valuable assets of the digital ecosystem. Different applications of data and AI are helping businesses, governments, and society in general. Due to the unprecedented adoption of data and AI techniques, the demand for data professionals has also skyrocketed.
 
-![](https://cdn-images-1.medium.com/max/1080/1*2hx8Mokj-iaqtyAD_AokNw.png){:width="100%"}
+![](https://cdn-images-1.medium.com/max/2600/1*sRCwKk2R0w3I8r1rtdu5eA.png){:width="100%"}
 
 I have been thinking to cover data and AI concepts in a form of a book for quite some time. But as Simon Sinek suggests, ‘Start with Why?’. The very first question that I asked myself is why I need to write a book on ‘Data and AI’? There are several reasons for that:
 
