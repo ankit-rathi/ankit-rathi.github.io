@@ -6,7 +6,7 @@ categories: [post]
 title: How to approach Data Science in 2020?
 ---
 
-![](https://cdn-images-1.medium.com/max/1800/1*AHtMIS0aXmwqASt587CcTg.png)
+![](https://cdn-images-1.medium.com/max/1800/1*AHtMIS0aXmwqASt587CcTg.png){:width="100%"}
 
 Today, I am going to cover the 2nd most frequently question by my readers and
 followers, How they, I mean you can get into Data Science?
@@ -27,7 +27,7 @@ SlideShare: [https://www.slideshare.net/ankitrathi/how-to-approach-data-science-
 
 So let's get started…
 
-![](https://cdn-images-1.medium.com/max/1200/1*D4YU17gl_XIngOVcrtoM1w.png)
+![](https://cdn-images-1.medium.com/max/1200/1*D4YU17gl_XIngOVcrtoM1w.png){:width="100%"}
 
 Data Science is an interdisciplinary field, which means it is an amalgamation of
 Maths, Programming and Business/Domain, I would like to add here Data Literacy
@@ -42,7 +42,7 @@ project; organizational culture and data maturity also plays its part.
 Hence we often see very different roles and responsibilities with blurred scope
 in job postings by different organizations.
 
-![](https://cdn-images-1.medium.com/max/1200/1*X_uSn_8rOntN1sftP-5YMA.png)
+![](https://cdn-images-1.medium.com/max/1200/1*X_uSn_8rOntN1sftP-5YMA.png){:width="100%"}
 
 Let's have a look at what skills you may need to build in order to get into the
 data science field.
@@ -78,7 +78,7 @@ Engineering, Cloud Computing, Dev Ops, Data Governance e.g.
 * General What, Why & How
 * Their usage in the context of Data Science
 
-![](https://cdn-images-1.medium.com/max/1200/1*URTAK79QZfw9t-ufUChLow.png)
+![](https://cdn-images-1.medium.com/max/1200/1*URTAK79QZfw9t-ufUChLow.png){:width="100%"}
 
 To cover all the challenges a beginner faces, I have built an end-to-end
 learning framework which smoothly transitions you into a data science
