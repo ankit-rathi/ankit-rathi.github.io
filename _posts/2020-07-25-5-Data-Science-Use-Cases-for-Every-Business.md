@@ -22,7 +22,7 @@ So identifying and validating the data science use cases is a task in itself.
 
 Today, I would like to talk about 5 common areas to look for data science use cases, which are relevant to any business.
 
-![](https://miro.medium.com/max/1050/0*8CzNIebKvOaqcuJV)
+![](https://miro.medium.com/max/1050/0*8CzNIebKvOaqcuJV){:width="100%"}
 The first area to investigate for data science use cases is Customers.
 
 Who are your customers?
@@ -31,7 +31,7 @@ What they generally buy or might buy?
 
 How data can help you better understand your customers?
 
-![](https://miro.medium.com/max/1050/0*2b6AzMHmUvkN5bH0)
+![](https://miro.medium.com/max/1050/0*2b6AzMHmUvkN5bH0){:width="100%"}
 The second area to look into for data science use cases is Products and Services.
 
 Which products and services are performing good or bad and why?
@@ -40,7 +40,7 @@ How data can help you understand your offerings?
 
 How can you make your products & services smarter?
 
-![](https://miro.medium.com/max/1050/0*yTairbAdS4HcRZE2)
+![](https://miro.medium.com/max/1050/0*yTairbAdS4HcRZE2){:width="100%"}
 The third area to find data science use cases is Operations.
 
 Which processes are troublesome, what are the frequent interruptions?
@@ -49,7 +49,7 @@ How you can make your processes smooth?
 
 How data can help you to optimize your operations?
 
-![](https://miro.medium.com/max/1050/0*PUWjnYzSrjU1hRR3)
+![](https://miro.medium.com/max/1050/0*PUWjnYzSrjU1hRR3){:width="100%"}
 The fourth area I would like to talk about is Decisions.
 
 Do you collect and analyse the effects of a decision made for your business?
@@ -58,7 +58,7 @@ Do you look into historical data while making decisions?
 
 How data can help you make better decisions?
 
-![](https://miro.medium.com/max/1050/0*NSalLzk8nGAQW1R7)
+![](https://miro.medium.com/max/1050/0*NSalLzk8nGAQW1R7){:width="100%"}
 The fifth and final area to look for data science use cases is Data itself.
 
 Do you treat your data as a real asset?
