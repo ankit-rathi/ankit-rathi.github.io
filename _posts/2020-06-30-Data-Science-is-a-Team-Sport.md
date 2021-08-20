@@ -6,7 +6,7 @@ categories: [post]
 title: Data Science is a Team Sport
 ---
 
-![](https://cdn-images-1.medium.com/max/1800/1*D6V4tGBqId5WK91dLyXjlQ.png)
+![](https://cdn-images-1.medium.com/max/1800/1*D6V4tGBqId5WK91dLyXjlQ.png){:width="100%"}
 
 Today, I am going to cover why I consider data science as a team sport?
 
@@ -31,7 +31,7 @@ process? what roles are involved and who does what?
 
 Let's find out…
 
-![](https://cdn-images-1.medium.com/max/1200/1*7t3V24PhLgl41eTnawzuJQ.png)
+![](https://cdn-images-1.medium.com/max/1200/1*7t3V24PhLgl41eTnawzuJQ.png){:width="100%"}
 
 Let's have a look at the high-level steps in a data science project.
 
@@ -99,7 +99,7 @@ and resolve the issue.
 
 So this is the end-to-end process of a data science project.
 
-![](https://cdn-images-1.medium.com/max/1200/1*5wru-CWrU9qF60h2ayjzRA.png)
+![](https://cdn-images-1.medium.com/max/1200/1*5wru-CWrU9qF60h2ayjzRA.png){:width="100%"}
 
 Now, let's have a look at the different roles in data science teams.
 
@@ -141,7 +141,7 @@ vary based on many factors in different organizations.
 
 So here we looked on a high-level, who does what in a data science project.
 
-![](https://cdn-images-1.medium.com/max/1200/1*DHfSF7OaLmYokhKYY2EkSQ.png)
+![](https://cdn-images-1.medium.com/max/1200/1*DHfSF7OaLmYokhKYY2EkSQ.png){:width="100%"}
 
 I will cover more details of this aspect in an upcoming episode, where I plan to
 provide a ‘process vs role mapping’ for a data science project.<br> <br> You may
