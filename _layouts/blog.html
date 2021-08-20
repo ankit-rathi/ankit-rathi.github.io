@@ -36,7 +36,7 @@
 				<section class="posts">
 					{% for post in site.posts %}
 						<!-- {% unless post.category == "learn" %} -->
-							{% assign mod3 = forloop.index | modulo: 3 %}
+						<!-- 	{% assign mod3 = forloop.index | modulo: 3 %} -->
 								<article>
 									<header>
 										<span class="date">{{ post.date | date_to_string }}</span>
