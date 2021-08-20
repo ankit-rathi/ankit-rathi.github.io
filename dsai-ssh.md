@@ -31,3 +31,5 @@ While I have published the content as an e-book here, if you want to read as pdf
 
 ![](https://cdn-images-1.medium.com/max/800/1*mcaSI_fXXsV_3yQfpUdZdg.png){:width="100%"}
 
+Read the work-in-progress book here: [https://ankitrathi.com/data-ai-concepts/](https://ankitrathi.com/data-ai-concepts/)
+
