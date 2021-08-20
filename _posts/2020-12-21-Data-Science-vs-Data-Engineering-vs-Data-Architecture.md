@@ -6,7 +6,7 @@ categories: [post]
 title: Data Science vs Data Engineering vs Data Architecture
 ---
 
-![](https://cdn-images-1.medium.com/max/1600/0*-OZ2jskdYR9Rw9A7.png)
+![](https://cdn-images-1.medium.com/max/1600/0*-OZ2jskdYR9Rw9A7.png){:width="100%"}
 
 [“Data Engineers are the Bridge” by Jennifer
 Shalamanov](https://blog.udacity.com/2020/07/what-to-expect-as-an-entry-level-data-engineer.html)
@@ -51,12 +51,12 @@ Now they want to use the power of the machine to further improve its commercial
 use. They contact Cris. Now Cris uses the processed jam given by machine to
 create jam sandwich which he sells out and everyone gets the profit.
 
-![](https://cdn-images-1.medium.com/max/800/0*nzong29F_PWh7Cdt.png)
+![](https://cdn-images-1.medium.com/max/800/0*nzong29F_PWh7Cdt.png){:width="100%"}
 
 In terms of data jobs, Ben played the role of Data Architect, Jonny played the
 role of Data Engineer and Cris was the Data Scientist.
 
-![](https://cdn-images-1.medium.com/max/800/0*UTmD5RqBG2XhFtlD.png)
+![](https://cdn-images-1.medium.com/max/800/0*UTmD5RqBG2XhFtlD.png){:width="100%"}
 
 [Credits : Arun
 Elangovan](https://medium.com/datadriveninvestor/are-you-looking-for-a-career-in-data-science-lets-explore-what-it-holds-for-you-82e364df7b12)
@@ -90,7 +90,7 @@ Some of the other important skills he possesses are :
 * Creative and Analytical Problem Solving
 * Ability to use a variety of Design/Visualization tools
 
-![](https://cdn-images-1.medium.com/max/800/0*4Pt-2ipywddHUfAp.PNG)
+![](https://cdn-images-1.medium.com/max/800/0*4Pt-2ipywddHUfAp.PNG){:width="100%"}
 
 [Credits :
 Glassdoor](https://www.glassdoor.co.in/Salaries/data-architect-salary-SRCH_KO0,14.htm)[Click
@@ -120,7 +120,7 @@ Some of the other important skills he possesses are :
 * Python, Java, and Scala programming language
 * Understanding the basics of distributed systems
 
-![](https://cdn-images-1.medium.com/max/800/0*JrI6KpAFyxLHTCe0.PNG)
+![](https://cdn-images-1.medium.com/max/800/0*JrI6KpAFyxLHTCe0.PNG){:width="100%"}
 
 [Credits :
 Glassdoor](https://www.glassdoor.co.in/Salaries/data-engineer-salary-SRCH_KO0,13.htm)[Click
@@ -152,7 +152,7 @@ Some of the other important skills he possesses are :
 * Tool Box(Hadoop, Spark, MS Excel)
 * Machine Learning and Advanced Machine Learning (Deep Learning)
 
-![](https://cdn-images-1.medium.com/max/800/0*P57CxQrz7bLGADAE.PNG)
+![](https://cdn-images-1.medium.com/max/800/0*P57CxQrz7bLGADAE.PNG){:width="100%"}
 <span class="figcaption_hack">Type caption for image (optional)</span>
 
 [Credits :
