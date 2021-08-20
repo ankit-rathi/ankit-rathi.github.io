@@ -6,7 +6,7 @@ categories: [post]
 title: Kaggle Vs Real-world Projects
 ---
 
-![](https://cdn-images-1.medium.com/max/1800/1*DKCKQSWY3U-WlZUqg5AmgA.png)
+![](https://cdn-images-1.medium.com/max/1800/1*DKCKQSWY3U-WlZUqg5AmgA.png){:width="100%"}
 
 Now grab my content on your favourite platform:
 [YouTube](https://www.youtube.com/watch?v=IhGpuLFv4Ho) |
@@ -27,7 +27,7 @@ science space.
 
 But is it really enough to make you a real-world data scientist? Let's find out…
 
-![](https://cdn-images-1.medium.com/max/1200/1*M0maqWwfZvhdux0BlsecbA.png)
+![](https://cdn-images-1.medium.com/max/1200/1*M0maqWwfZvhdux0BlsecbA.png){:width="100%"}
 
 First of all, let's have a look at the agenda today, we will see what Kaggle
 platform looks like, how Kagglers compete there, what a typical real-world
@@ -37,7 +37,7 @@ A head-to-head comparison between Kaggle competitions and real-world data
 science project, some general differences as well, and concluding thoughts
 towards the end.
 
-![](https://cdn-images-1.medium.com/max/1200/1*n0KvaYtKXk_qGOHr_lku4w.png)
+![](https://cdn-images-1.medium.com/max/1200/1*n0KvaYtKXk_qGOHr_lku4w.png){:width="100%"}
 
 Kaggle platform has five main sections, you can take part in competitions, some
 sample competitions are also there for beginners.
@@ -51,7 +51,7 @@ munging & exploring the dataset.
 And if you are a complete beginner, you can find introductory to intermediate
 level courses as well.
 
-![](https://cdn-images-1.medium.com/max/1200/1*4PcXvrF3Xe_GxkVCjhRBeA.png)
+![](https://cdn-images-1.medium.com/max/1200/1*4PcXvrF3Xe_GxkVCjhRBeA.png){:width="100%"}
 
 In a Kaggle competition, you get a well-defined problem statement, with
 evaluation and competition timelines.
@@ -72,7 +72,7 @@ based on the exposed part of test dataset, private leader-board is made public
 after the end of the competition, which is based on the hidden part of the test
 dataset.
 
-![](https://cdn-images-1.medium.com/max/1200/1*g767ElPhleXrrW_vSMtRoA.png)
+![](https://cdn-images-1.medium.com/max/1200/1*g767ElPhleXrrW_vSMtRoA.png){:width="100%"}
 
 In a typical real-world project, you identify and evaluate the opportunity, you
 develop a business understanding of the problem you are looking to solve.
@@ -84,7 +84,7 @@ product.
 You follow CRISP-DM methodology to build the model, and deploy, host and monitor
 the model in production.
 
-![](https://cdn-images-1.medium.com/max/1200/1*BDwdywD5vVXhw_bJVrsomQ.png)
+![](https://cdn-images-1.medium.com/max/1200/1*BDwdywD5vVXhw_bJVrsomQ.png){:width="100%"}
 
 In a head-to-head comparison, you can see that in Kaggle competitions, problem
 statement is well-defined, while in real-world projects you may need to first
@@ -114,7 +114,7 @@ In Kaggle, you get a deadline for the competitions, while in real-world, you can
 continue as long as the project has funds are there or project sponsor wants you
 to.
 
-![](https://cdn-images-1.medium.com/max/1200/1*6TXmGuu2Sf_PZWzMH1hDsA.png)
+![](https://cdn-images-1.medium.com/max/1200/1*6TXmGuu2Sf_PZWzMH1hDsA.png){:width="100%"}
 
 Now let's have a look at the general differences.
 
@@ -144,7 +144,7 @@ cloud computing.
 In Kaggle, models can be as complex as they can, in order to improve accuracy,
 while in real-world, practical deployment aspects are also considered.
 
-![](https://cdn-images-1.medium.com/max/1200/1*dbHX09QD2JPLEqE7hqtfqg.png)
+![](https://cdn-images-1.medium.com/max/1200/1*dbHX09QD2JPLEqE7hqtfqg.png){:width="100%"}
 
 So what is the takeaway of this session?
 
