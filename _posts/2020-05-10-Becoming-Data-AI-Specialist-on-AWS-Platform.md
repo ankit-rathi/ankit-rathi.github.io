@@ -6,7 +6,7 @@ categories: [post]
 title: Becoming Data & AI Specialist on AWS Platform (for free)
 ---
 
-![](https://miro.medium.com/max/2000/1*CR5IbBW_wvl24ckGgzHwCA.png)
+![](https://miro.medium.com/max/2000/1*CR5IbBW_wvl24ckGgzHwCA.png){:width="100%"}
 
 The demand for the workforce to be able to operate in the cloud is growing exponentially. Many cloud providers themselves (i.e. AWS, Azure & GCP) offer easy access to the new generation of cloud training, for professionals and enterprise.
 
