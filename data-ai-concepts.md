@@ -66,10 +66,12 @@ Don't worry if you are completely new to the data and AI field, you have even mo
 - Covered: breadth of the Data and AI field to just enough depth, sticking to the comcepts
 - Not covered: specialization in each of the sub-fields, not the implementation details
 
+![](https://cdn-images-1.medium.com/max/2600/1*tVnUNgaEK65dzHs8iOYE-A.png){:width="100%"}
+
 ### Outline of This Book
 Topics Covered: Data and AI Foundation, Data and AI in Action, Data and AI Platforms
 
-![](https://cdn-images-1.medium.com/max/2600/1*RCXH9igcbeSuoGYO5oRcIg.png){:width="100%"}
+![](https://cdn-images-1.medium.com/max/2600/1*6HTjSMK5s7iw-N-d0Uo8vQ.png){:width="100%"}
 
 - Data and AI Foundation: Introduction, Mathematics, Cloud Computing, Business Domain
 - Data and AI in Action: Data Ingestion, Data Storage, Data Engineering, Data Science, Data Visualization, Data Operationalization, Data Architecture, Data Governance, Data Management
