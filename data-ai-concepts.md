@@ -28,7 +28,7 @@ Most probably you might have already heard the quotes like ‘Data is the new oi
 
 ![](https://cdn-images-1.medium.com/max/2600/1*sRCwKk2R0w3I8r1rtdu5eA.png){:width="100%"}
 
-I have been thinking to cover data and AI concepts in a form of a book for quite some time. But as Simon Sinek suggests, ‘Start with Why?’. The very first question that I asked myself is why I need to write a book on ‘Data and AI’? There are several reasons for that:
+I have been thinking to cover data and AI concepts in a form of a book for quite some time. But as Simon Sinek suggests, ‘Start with Why?’, it gives you purpose. The very first question that I asked myself was why I need to write a book on ‘Data and AI’? I pondered over this question for several weeks and then came up with several reasons:
 
 ![](https://cdn-images-1.medium.com/max/2600/1*elnTky8wOALd51ohPeKWkg.png){:width="100%"}
 
