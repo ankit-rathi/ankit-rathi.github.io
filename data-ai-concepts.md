@@ -69,6 +69,8 @@ Don't worry if you are completely new to the data and AI field, you have even mo
 ### Outline of This Book
 Topics Covered: Data and AI Foundation, Data and AI in Action, Data and AI Platforms
 
+![](https://cdn-images-1.medium.com/max/2600/1*RCXH9igcbeSuoGYO5oRcIg.png){:width="100%"}
+
 - Data and AI Foundation: Introduction, Mathematics, Cloud Computing, Business Domain
 - Data and AI in Action: Data Ingestion, Data Storage, Data Engineering, Data Science, Data Visualization, Data Operationalization, Data Architecture, Data Governance, Data Management
 - Data and AI Platforms: Open Source, AWS, Azure, GCP, Databricks, Snowflake
