@@ -74,7 +74,7 @@ Topics Covered: Data and AI Foundation, Data and AI in Action, Data and AI Platf
 
 ![](https://cdn-images-1.medium.com/max/2600/1*6HTjSMK5s7iw-N-d0Uo8vQ.png){:width="100%"}
 
-- Data and AI Foundation: Introduction, Mathematics, Cloud Computing, Business Domain
+- Data and AI Foundation: Introduction, Mathematics, IT/Programming, Business Domain
 - Data and AI in Action: Data Ingestion, Data Storage, Data Engineering, Data Science, Data Visualization, Data Operationalization, Data Architecture, Data Governance, Data Management
 - Data and AI Platforms: Open Source, AWS, Azure, GCP, Databricks, Snowflake
 
@@ -83,7 +83,7 @@ Topics Covered: Data and AI Foundation, Data and AI in Action, Data and AI Platf
 ## II Data and AI Foundation
 [Back to TOC](#table-of-contents)
 
-Topics Covered: Data Concepts, IT Concepts, AI Concepts, From Data to AI, Mathematics, Cloud Computing, Business Domain
+Topics Covered: Data and AI Introduction, Mathematics, IT/Programming, Business Domain
 
 ### 1 Data and AI Introduction
 #### 1.1 Data Concepts 
@@ -134,8 +134,8 @@ Topics Covered: Data, Data Vs Information, DIKW Pyramid, Different Aspects of Da
 - Labelling
 - Spin
 
-#### 1.2 IT Concepts
-Topics Covered: Technology, Information Technology, Data Processing and Storage, Databases, Data Warehouses, ETL/ELT, Streaming and Batch Data
+#### 1.2 IT/Programming Concepts
+Topics Covered: Technology, Information Technology, Data Structures and Algorithms, Data Processing and Storage, Databases, Data Warehouses, ETL/ELT, Streaming and Batch Data
 
 #### 1.3 AI Concepts
 Topics Covered: Intelligence, Intelligent Agents, Applications (Web Search, Recommendation Systems, Self-driving Cars, Strategic Games), Aspects of AI (Search, Knowledge, Uncertainty, Optimization, Learning, Neural Networks, Language), Strong and Weak AI
@@ -144,16 +144,36 @@ Topics Covered: Intelligence, Intelligent Agents, Applications (Web Search, Reco
 Topics Covered: Business Intelligence, Data Science, Machine Learning, Deep Learning, Artificial Intelligence
 
 ### 2 Mathematics
+
 #### 2.1 Linear Algebra
 Topics Covered: Scalars, Vectors, Matrices and Tensors, Multiplying Matrices and Vectors, Identity and Inverse Matrices, Linear Dependence and Span, Norms, Special Kinds of Matrices and Vectors, Eigendecomposition, Singular Value Decomposition (SVD), The Moore Penrose Pseudoinverse, The Trace Operator, The Determinant, Principal Component Analysis
+
 #### 2.2 Multivariate Calculus
 Topics Covered: Functions, Derivatives, Product Rule, Chain Rule, Integrals, Partial Derivatives, The Gradient, The Jacobian, The Hessian, Multivariate Chain Rule, Approximate Functions, Power Series, Linearization, Multivariate Taylor, 
+
 #### 2.3 Probability and Statistics
 Topics Covered: Probability, Conditional Probability, Random Variables, Probability Distributions
 
 Topics Covered: Statistics, Descriptive Statistics (Univariate, Bivariate, Multivariate Analysis, Function Models), Inferential Statistics (Sampling Distributions & Estimation, Hypothesis Testing, Correlation, Causation & Regression), Bayesian Statistics (Frequentist Vs Bayesian Statistics, Bayesian Inference, Test for Significance), Statistical Learning (Prediction & Inference, Parametric & Non-parametric methods, Prediction Accuracy and Model Interpretability, Bias-Variance Trade-Off)
-### 3 Cloud Computing
+
+### 3 IT/Programming
+
+
+#### 3.1 Operating System Basics
+Topics Covered: 
+
+#### 3.2 Data Structures and Algorithms Basics
+Topics Covered: Data Structures (Array, Linked List, Stack, Queue, Heap, Hashing, Binary Tree, Binary Search Tree, Graph, Matrix), Algorithms (Asymptotic Analysis, Searching and Sorting, Greedy Algorithms, Recursion, Dynamic Programming)
+
+#### 3.3 Programming Basics
+Topics Covered: 
+
+#### 3.3 Database Systems Basics
+Topics Covered: 
+
+#### 3. Cloud Computing
 Topics Covered: Introduction, Public, Private and Hybrid Clouds, IaaS, PaaS and SaaS, Data and AI on Cloud, AWS, Azure and GCP
+
 ### 4 Business Domain
 Topics Covered: Problem Solving, Problem Identification, Problem Definition, Prioritization, Root-Cause Analysis, Possible Solutions, Solution Evaluation, Cost-Benefit Analysis, Planning and Implementation
 
@@ -215,8 +235,7 @@ Topics Covered: Programming, Installation, Basic Syntax & Variable Types, Data T
 ### 21 UNIX and Shell Scripting
 Topics Covered: Operating System, Architecture, Basic UNIX Commands, Shell Scripting
 
-### 22 Data Structures and Algorithms
-Topics Covered: Data Structures (Array, Linked List, Stack, Queue, Heap, Hashing, Binary Tree, Binary Search Tree, Graph, Matrix), Algorithms (Asymptotic Analysis, Searching and Sorting, Greedy Algorithms, Recursion, Dynamic Programming)
+
 
 
 
