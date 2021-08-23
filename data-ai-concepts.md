@@ -12,7 +12,7 @@ permalink: /data-ai-concepts/
 ### Table of Contents  
 * [I Preface](#preface)  
 * [II Data and AI Foundation](#data-and-ai-foundation)
-* [III Data and AI in Action](#data-and-ai-in-action)
+* [III Data and AI Components](#data-and-ai-components)
 * [IV Data and AI Platforms](#data-and-ai-platforms)
 * [V Appendix](#appendix)
 
@@ -89,12 +89,17 @@ Topics Covered: Data Concepts, IT Concepts, AI Concepts, From Data to AI, Mathem
 #### 1.1 Data Concepts 
 Topics Covered: Data, Data Vs Information, DIKW Pyramid, Different Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis, Data Models, Operational & Analytical Data
 
-##### 1.1.2 Data
+##### 1.1.1 Data
 - data is the back-bone of data-driven AI
 - raw facts without context
 - i.e. a number, symbol, character, word, codes, graphs, etc
 - information in digital form
 - output of sensing device or organ
+
+##### 1.1.2 Datum, Data and Dataset
+- Datum : single piece of information, which can be treated as an observation
+- Data : plural of datum; multiple observations
+- Dataset : A homogenous collection of data (each datum must have the same focus)
 
 ##### 1.1.3 Information
 - processed and meaningful data put into context
@@ -113,10 +118,21 @@ Topics Covered: Data, Data Vs Information, DIKW Pyramid, Different Aspects of Da
 ##### 1.1.5 Different Aspects of Data
 
 ###### Formats of Data
+- Structure data
+- Unstructured data
+- Semi-structured data
 
 ###### Scope of Data
+- Comprehensive
+- Sample
 
 ###### Biases in Data
+- Omission
+- Source selection
+- Story selection
+- Placement
+- Labelling
+- Spin
 
 #### 1.2 IT Concepts
 Topics Covered: Technology, Information Technology, Data Processing and Storage, Databases, Data Warehouses, ETL/ELT, Streaming and Batch Data
@@ -141,9 +157,9 @@ Topics Covered: Introduction, Public, Private and Hybrid Clouds, IaaS, PaaS and 
 ### 4 Business Domain
 Topics Covered: Problem Solving, Problem Identification, Problem Definition, Prioritization, Root-Cause Analysis, Possible Solutions, Solution Evaluation, Cost-Benefit Analysis, Planning and Implementation
 
-<a name="data-and-ai-in-action"/>
+<a name="data-and-ai-components"/>
 
-## III Data and AI in Action
+## III Data and AI Components
 [Back to TOC](#table-of-contents)
 
 Topics Covered: Data Governance, Data Architecture, Data Ingestion, Data Storage, Data Engineering, Data Science, Data Visualization, Data AI x Ops
