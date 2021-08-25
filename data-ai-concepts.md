@@ -86,6 +86,9 @@ Topics Covered: Data and AI Foundation, Data and AI in Action, Data and AI Platf
 Topics Covered: Data and AI Introduction, Mathematics, IT/Programming, Business Domain
 
 ### 1 Data and AI Introduction
+
+![](https://cdn-images-1.medium.com/max/810/1*xyslIRrIlWd3C-ReTAYTkw.png)
+
 #### 1.1 Data Concepts 
 Topics Covered: Data, Data Vs Information, DIKW Pyramid, Different Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis, Data Models, Operational & Analytical Data
 
