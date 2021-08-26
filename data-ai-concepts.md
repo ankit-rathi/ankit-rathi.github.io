@@ -47,7 +47,7 @@ Third, after working in Data and AI field for more than a decade, I have develop
 
 Fourth, my focus in this book would be on the concepts. Why? Because concepts are the abstraction of the real-world phenomenon, if you know the concept, you can explore it and build on it as you desire. I intend to cover the data and AI concepts in an intuitive way.
 
-![](https://cdn-images-1.medium.com/max/2600/1*isJx30MAS_u5UFf2RfvPRg.png){:width="100%"}
+![](https://cdn-images-1.medium.com/max/2600/1*ggsCJc44Fpxysbn_ElUOZQ.png){:width="100%"}
 
 Finally, I plan to cover all the aspects of the Data and AI field holistically, which will help you to connect the dots and build your own perspective. I am confident that you will be able to contribute to your data and AI projects more effectively.
 
