@@ -90,7 +90,7 @@ Topics Covered: Data and AI Introduction, Mathematics, IT/Programming, Business 
 ![](https://cdn-images-1.medium.com/max/810/1*xyslIRrIlWd3C-ReTAYTkw.png){:width="100%"}
 
 #### 1.1 Data Concepts 
-Topics Covered: Data, Data Vs Information, DIKW Pyramid, Different Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis, Data Models, Operational & Analytical Data
+Topics Covered: Data, Data Vs Information, DIKW Pyramid, Different Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis
 
 ##### 1.1.1 Data
 - data is the back-bone of data-driven AI
@@ -121,24 +121,40 @@ Topics Covered: Data, Data Vs Information, DIKW Pyramid, Different Aspects of Da
 ##### 1.1.5 Different Aspects of Data
 
 ###### Formats of Data
-- Structure data
+- Structured data
 - Unstructured data
 - Semi-structured data
 
 ###### Scope of Data
-- Comprehensive
-- Sample
+- Comprehensive: have access to all the data
+- Sample: only a portion is available or feasible
 
 ###### Biases in Data
-- Omission
-- Source selection
-- Story selection
-- Placement
-- Labelling
-- Spin
+- Bias in data: over or under-representation of a sub-population, may not be intentional
+- Omission: using arguements from only one side
+- Source selection: including more authoritative sources from one side 
+- Story selection: sharing stories that agree with one side
+- Placement: unimportant stories gets important placement in reputed media platforms
+- Labelling: labeled on one side or missing labels on other side
+- Spin: stories providing only one interpretation of an event
+
+##### 1.1.6 Data Usage
+- Scientific research
+- Business Management
+- Finance
+- Governance
+
+##### 1.1.7 Data Analysis
+- Data requirements
+- Data collection
+- Data processing
+- Data cleaning
+- Exploratory data analysis
+- Data product
+- Communication
 
 #### 1.2 IT/Programming Concepts
-Topics Covered: Technology, Information Technology, Data Structures and Algorithms, Data Processing and Storage, Databases, Data Warehouses, ETL/ELT, Streaming and Batch Data
+Topics Covered: Technology, Information Technology, Data Structures and Algorithms, Data Processing and Storage, Data Models, Operational & Analytical Data, Databases, Data Warehouses, Streaming and Batch Data, ETL/ELT
 
 #### 1.3 AI Concepts
 Topics Covered: Intelligence, Intelligent Agents, Applications (Web Search, Recommendation Systems, Self-driving Cars, Strategic Games), Aspects of AI (Search, Knowledge, Uncertainty, Optimization, Learning, Neural Networks, Language), Strong and Weak AI
