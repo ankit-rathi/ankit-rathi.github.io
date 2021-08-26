@@ -120,9 +120,10 @@ Don't worry if you are completely new to the data and AI field, you have even mo
 ##### 1.1.5 Different Aspects of Data
 
 ###### Formats of Data
-- Structured data
-- Unstructured data
-- Semi-structured data
+- Structured data: definite structure like table with rows and columns
+- Semi-structured data: some structure like JSON, key-value or graph database
+- Unstructured data: no specific structure like photos, audio and video files
+
 
 ###### Scope of Data
 - Comprehensive: have access to all the data
