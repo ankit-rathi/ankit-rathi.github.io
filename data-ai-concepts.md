@@ -73,9 +73,10 @@ Don't worry if you are completely new to the data and AI field, you have even mo
 
 ![](https://cdn-images-1.medium.com/max/2600/1*6HTjSMK5s7iw-N-d0Uo8vQ.png){:width="100%"}
 
-- Data and AI Foundation: Introduction, Mathematics, IT/Programming, Business Domain
-- Data and AI Components: Data Ingestion, Data Storage, Data Engineering, Data Science, Data Visualization, Data Operationalization, Data Architecture, Data Governance, Data Management
-- Data and AI Platforms: Open Source, AWS, Azure, GCP, Databricks, Snowflake
+- book has three parts, first one builds the foundation, second one covers the components and third part talks about various data and AI platforms
+- Data and AI Foundation: Foundation part builds the basic concepts like Introduction, Mathematics, IT/Programming, Business Domain
+- Data and AI Components: Components part covers the different layers and its components like Data Ingestion, Data Storage, Data Engineering, Data Science, Data Visualization, Data Operationalization, Data Architecture, Data Governance, Data Management
+- Data and AI Platforms: Platforms part talks about various platforms like Open Source, AWS, Azure, GCP, Databricks, Snowflake
 
 <a name="data-and-ai-foundation"/>
 
@@ -85,8 +86,17 @@ Don't worry if you are completely new to the data and AI field, you have even mo
 *Topics Covered: Data and AI Introduction, Mathematics, IT/Programming, Business Domain*
 
 ![](https://cdn-images-1.medium.com/max/2600/1*IupRppvr1czii9S64-4mJA.png){:width="100%"}
+- what do you understand from above figure?
+- looks complicated?
+- are you aware of the layers and terms?
 
 ![](https://cdn-images-1.medium.com/max/2600/1*raV9dgh9nxAymxuqyb_cBg.png){:width="100%"}
+- does this fugure look simpler?
+- what do you understand from this?
+
+- foundation is all about covering the basics before looking at the building blocks of data and AI platform
+- we will start from scratch, first we will cover the basic concepts of data and AI and how these fields are connected
+- then we will focus on core concepts of mathematics, IT/programming and business domain
 
 ### 1 Data and AI Introduction
 
