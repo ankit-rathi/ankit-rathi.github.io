@@ -21,7 +21,7 @@ permalink: /data-ai-concepts/
 ## I Preface
 [Back to TOC](#table-of-contents)
 
-Topics Covered: Why This Book?, Who Should Read This Book?, Scope of This Book, Outline of This Book
+*Topics Covered: Why This Book?, Who Should Read This Book?, Scope of This Book, Outline of This Book*
 
 Most probably you might have already heard the quotes like ‘Data is the new oil’, ‘AI is the new electricity’. There is no doubt that data and AI have become the most valuable assets of the digital ecosystem. Different applications of data and AI are helping businesses, governments, and society in general. Due to the unprecedented adoption of data and AI techniques, the demand for data professionals has also skyrocketed.
 
@@ -70,7 +70,6 @@ Don't worry if you are completely new to the data and AI field, you have even mo
 ![](https://cdn-images-1.medium.com/max/2600/1*tVnUNgaEK65dzHs8iOYE-A.png){:width="100%"}
 
 ### Outline of This Book
-Topics Covered: Data and AI Foundation, Data and AI Components, Data and AI Platforms
 
 ![](https://cdn-images-1.medium.com/max/2600/1*6HTjSMK5s7iw-N-d0Uo8vQ.png){:width="100%"}
 
@@ -83,14 +82,14 @@ Topics Covered: Data and AI Foundation, Data and AI Components, Data and AI Plat
 ## II Data and AI Foundation
 [Back to TOC](#table-of-contents)
 
-Topics Covered: Data and AI Introduction, Mathematics, IT/Programming, Business Domain
+*Topics Covered: Data and AI Introduction, Mathematics, IT/Programming, Business Domain*
 
 ### 1 Data and AI Introduction
 
 ![](https://cdn-images-1.medium.com/max/810/1*xyslIRrIlWd3C-ReTAYTkw.png){:width="100%"}
 
 #### 1.1 Data Concepts 
-Topics Covered: Data, Data Vs Information, DIKW Pyramid, Different Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis
+*Topics Covered: Data, Data Vs Information, DIKW Pyramid, Different Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis*
 
 ##### 1.1.1 Data
 - data is the back-bone of data-driven AI
@@ -154,107 +153,121 @@ Topics Covered: Data, Data Vs Information, DIKW Pyramid, Different Aspects of Da
 - Communication
 
 #### 1.2 IT/Programming Concepts
-Topics Covered: Technology, Information Technology, Data Structures and Algorithms, Data Processing and Storage, Data Models, Operational & Analytical Data, Databases, Data Warehouses, Streaming and Batch Data, ETL/ELT
+*Topics Covered: Technology, Information Technology, Data Structures and Algorithms, Data Processing and Storage, Data Models, Operational & Analytical Data, Databases, Data Warehouses, Streaming and Batch Data, ETL/ELT*
 
 #### 1.3 AI Concepts
-Topics Covered: Intelligence, Intelligent Agents, Applications (Web Search, Recommendation Systems, Self-driving Cars, Strategic Games), Aspects of AI (Search, Knowledge, Uncertainty, Optimization, Learning, Neural Networks, Language), Strong and Weak AI
+*Topics Covered: Intelligence, Intelligent Agents, Applications (Web Search, Recommendation Systems, Self-driving Cars, Strategic Games), Aspects of AI (Search, Knowledge, Uncertainty, Optimization, Learning, Neural Networks, Language), Strong and Weak AI*
 
 #### 1.4 From Data To AI
-Topics Covered: Business Intelligence, Data Science, Machine Learning, Deep Learning, Artificial Intelligence
+*Topics Covered: Business Intelligence, Data Science, Machine Learning, Deep Learning, Artificial Intelligence*
 
 ### 2 Mathematics
 
 #### 2.1 Linear Algebra
-Topics Covered: Scalars, Vectors, Matrices and Tensors, Multiplying Matrices and Vectors, Identity and Inverse Matrices, Linear Dependence and Span, Norms, Special Kinds of Matrices and Vectors, Eigendecomposition, Singular Value Decomposition (SVD), The Moore Penrose Pseudoinverse, The Trace Operator, The Determinant, Principal Component Analysis
+*Topics Covered: Scalars, Vectors, Matrices and Tensors, Multiplying Matrices and Vectors, Identity and Inverse Matrices, Linear Dependence and Span, Norms, Special Kinds of Matrices and Vectors, Eigendecomposition, Singular Value Decomposition (SVD), The Moore Penrose Pseudoinverse, The Trace Operator, The Determinant, Principal Component Analysis*
 
 #### 2.2 Multivariate Calculus
-Topics Covered: Functions, Derivatives, Product Rule, Chain Rule, Integrals, Partial Derivatives, The Gradient, The Jacobian, The Hessian, Multivariate Chain Rule, Approximate Functions, Power Series, Linearization, Multivariate Taylor, 
+*Topics Covered: Functions, Derivatives, Product Rule, Chain Rule, Integrals, Partial Derivatives, The Gradient, The Jacobian, The Hessian, Multivariate Chain Rule, Approximate Functions, Power Series, Linearization, Multivariate Taylor*
 
 #### 2.3 Probability and Statistics
-Topics Covered: Probability, Conditional Probability, Random Variables, Probability Distributions
 
-Topics Covered: Statistics, Descriptive Statistics (Univariate, Bivariate, Multivariate Analysis, Function Models), Inferential Statistics (Sampling Distributions & Estimation, Hypothesis Testing, Correlation, Causation & Regression), Bayesian Statistics (Frequentist Vs Bayesian Statistics, Bayesian Inference, Test for Significance), Statistical Learning (Prediction & Inference, Parametric & Non-parametric methods, Prediction Accuracy and Model Interpretability, Bias-Variance Trade-Off)
+#### 2.3.1 Probability
+*Topics Covered: Probability, Conditional Probability, Random Variables, Probability Distributions*
+
+#### 2.3.2 Statistics
+*Topics Covered: Statistics, Descriptive Statistics (Univariate, Bivariate, Multivariate Analysis, Function Models), Inferential Statistics (Sampling Distributions & Estimation, Hypothesis Testing, Correlation, Causation & Regression), Bayesian Statistics (Frequentist Vs Bayesian Statistics, Bayesian Inference, Test for Significance), Statistical Learning (Prediction & Inference, Parametric & Non-parametric methods, Prediction Accuracy and Model Interpretability, Bias-Variance Trade-Off)*
 
 ### 3 IT/Programming
 
 
 #### 3.1 Operating System Basics
-Topics Covered: 
+*Topics Covered: *
 
 #### 3.2 Data Structures and Algorithms Basics
-Topics Covered: Data Structures (Array, Linked List, Stack, Queue, Heap, Hashing, Binary Tree, Binary Search Tree, Graph, Matrix), Algorithms (Asymptotic Analysis, Searching and Sorting, Greedy Algorithms, Recursion, Dynamic Programming)
+*Topics Covered: Data Structures (Array, Linked List, Stack, Queue, Heap, Hashing, Binary Tree, Binary Search Tree, Graph, Matrix), Algorithms (Asymptotic Analysis, Searching and Sorting, Greedy Algorithms, Recursion, Dynamic Programming)*
 
 #### 3.3 Programming Basics
-Topics Covered: 
+*Topics Covered: *
 
 #### 3.3 Database Systems Basics
-Topics Covered: 
+*Topics Covered: *
 
 #### 3. Cloud Computing
-Topics Covered: Introduction, Public, Private and Hybrid Clouds, IaaS, PaaS and SaaS, Data and AI on Cloud, AWS, Azure and GCP
+*Topics Covered: Introduction, Public, Private and Hybrid Clouds, IaaS, PaaS and SaaS, Data and AI on Cloud, AWS, Azure and GCP*
 
 ### 4 Business Domain
-Topics Covered: Problem Solving, Problem Identification, Problem Definition, Prioritization, Root-Cause Analysis, Possible Solutions, Solution Evaluation, Cost-Benefit Analysis, Planning and Implementation
+*Topics Covered: Problem Solving, Problem Identification, Problem Definition, Prioritization, Root-Cause Analysis, Possible Solutions, Solution Evaluation, Cost-Benefit Analysis, Planning and Implementation*
 
 <a name="data-and-ai-components"/>
 
 ## III Data and AI Components
 [Back to TOC](#table-of-contents)
 
-Topics Covered: Data Governance, Data Architecture, Data Ingestion, Data Storage, Data Engineering, Data Science, Data Visualization, Data AI x Ops
+*Topics Covered: Data Governance, Data Architecture, Data Ingestion, Data Storage, Data Engineering, Data Science, Data Visualization, Data Operationalization*
+
 ### 5 Data Governance 
-Topics Covered: Data Governance Basics, Why Data Governance is Important?, Aspects of Data Governance, How to do Data Governance?
+*Topics Covered: Data Governance Basics, Why Data Governance is Important?, Aspects of Data Governance, How to do Data Governance?*
+
 ### 6 Data Architecture
-Topics Covered: Data Architecture Basics, Why Data Architecture is Required?, How to build Data Architecture?
+*Topics Covered: Data Architecture Basics, Why Data Architecture is Required?, How to build Data Architecture?*
+
 ### 7 Data Ingestion
-Topics Covered: Data Ingestion Basics, Types of Data Ingestion, Tools for Data Ingestion
+*Topics Covered: Data Ingestion Basics, Types of Data Ingestion, Tools for Data Ingestion*
+
 ### 8 Data Storage
-Topics Covered: Data Storage Basics, Types of Data Storage, Tools for Data Storage
+*Topics Covered: Data Storage Basics, Types of Data Storage, Tools for Data Storage*
+
 ### 9 Data Engineering
-Topics Covered: Data Engineering Basics, Tools for Data Engineering, Building Data Pipelines
+*Topics Covered: Data Engineering Basics, Tools for Data Engineering, Building Data Pipelines*
+
 ### 10 Data Science
-Topics Covered: Data Science Basics, Overall Process, Algorithms, Tools for Data Science
+*Topics Covered: Data Science Basics, Overall Process, Algorithms, Tools for Data Science*
+
 ### 11 Data Visualization
-Topics Covered: Data Visualization Basics, Why Data Visualization is Important?, Tools for Data Visualization
+*Topics Covered: Data Visualization Basics, Why Data Visualization is Important?, Tools for Data Visualization*
+
 ### 12 Data Operationalization
-Topics Covered: Operationalization Basics, Why Operationalization is required?, Tools for Data AI Operationalization
+*Topics Covered: Operationalization Basics, Why Operationalization is required?, Tools for Data AI Operationalization*
 
 <a name="data-and-ai-platforms"/>
 
 ## IV Data and AI Platforms
 [Back to TOC](#table-of-contents)
 
-Topics Covered: Open Source, AWS, Azure, GCP, Databricks, Snowflake
+*Topics Covered: Open Source, AWS, Azure, GCP, Databricks, Snowflake*
+
 ### 13 Open Source
-Topics Covered: Building Data and AI Platform in Open Source
+*Topics Covered: Building Data and AI Platform in Open Source*
+
 ### 14 AWS
-Topics Covered: Building Data and AI Platform in AWS
+*Topics Covered: Building Data and AI Platform in AWS*
+
 ### 15 Azure
-Topics Covered: Building Data and AI Platform in Azure
+*Topics Covered: Building Data and AI Platform in Azure*
+
 ### 16 GCP
-Topics Covered: Building Data and AI Platform in GCP
+*Topics Covered: Building Data and AI Platform in GCP*
+
 ### 17 Databricks
-Topics Covered: Building Data and AI Platform in Databricks
+*Topics Covered: Building Data and AI Platform in Databricks*
+
 ### 18 Snowflake
-Topics Covered: Building Data and AI Platform in Snowflake
+*Topics Covered: Building Data and AI Platform in Snowflake*
 
 <a name="appendix"/>
 
 ## V Appendix
 [Back to TOC](#table-of-contents)
 
-Topics Covered: SQL, Python, UNIX and Shell Scripting, Data Structure and Algorithms
+*Topics Covered: SQL, Python, UNIX and Shell Scripting, Data Structure and Algorithms*
 
 ### 19 SQL
-Topics Covered: SQL, Data Models, ER Diagrams, Tables, Temporary Tables, Selecting (SELECT, FROM, DISTINCT), Filtering (WHERE, AND, OR, IN, NOT, BETWEEN, NULLs, Wildcards), Ordering (ORDER BY, DESC), Aggregating (GROUP BY, HAVING, AVERAGE, COUNT, MAX, MIN), Subqueries, Joins (Cartesian, Inner, Outer <Left/Right>, Self), Sets (UNION, UNION ALL, INTERSECT), Aliases, Views, Subqueries (WITH AS)
+*Topics Covered: SQL, Data Models, ER Diagrams, Tables, Temporary Tables, Selecting (SELECT, FROM, DISTINCT), Filtering (WHERE, AND, OR, IN, NOT, BETWEEN, NULLs, Wildcards), Ordering (ORDER BY, DESC), Aggregating (GROUP BY, HAVING, AVERAGE, COUNT, MAX, MIN), Subqueries, Joins (Cartesian, Inner, Outer <Left/Right>, Self), Sets (UNION, UNION ALL, INTERSECT), Aliases, Views, Subqueries (WITH AS)*
 
 ### 20 Python
-Topics Covered: Programming, Installation, Basic Syntax & Variable Types, Data Types and Conversion, Basic Operators and Loops, Functions, Exceptions and Modules, Data Science Specific Modules (NumPy, SciPy, Pandas, MatPlotLib, Scikit-Learn)
+*Topics Covered: Programming, Installation, Basic Syntax & Variable Types, Data Types and Conversion, Basic Operators and Loops, Functions, Exceptions and Modules, Data Science Specific Modules (NumPy, SciPy, Pandas, MatPlotLib, Scikit-Learn)*
 
 ### 21 UNIX and Shell Scripting
-Topics Covered: Operating System, Architecture, Basic UNIX Commands, Shell Scripting
-
-
-
+*Topics Covered: Operating System, Architecture, Basic UNIX Commands, Shell Scripting*
 
 
