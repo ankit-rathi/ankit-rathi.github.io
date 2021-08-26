@@ -84,6 +84,10 @@ Don't worry if you are completely new to the data and AI field, you have even mo
 
 *Topics Covered: Data and AI Introduction, Mathematics, IT/Programming, Business Domain*
 
+![](https://cdn-images-1.medium.com/max/2600/1*IupRppvr1czii9S64-4mJA.png){:width="100%"}
+
+![](https://cdn-images-1.medium.com/max/2600/1*raV9dgh9nxAymxuqyb_cBg.png){:width="100%"}
+
 ### 1 Data and AI Introduction
 
 ![](https://cdn-images-1.medium.com/max/810/1*xyslIRrIlWd3C-ReTAYTkw.png){:width="100%"}
@@ -110,6 +114,8 @@ Don't worry if you are completely new to the data and AI field, you have even mo
 
 ![](https://cdn-images-1.medium.com/max/2600/1*e7RLPPbGoQ_99dRC8kNJBw.png){:width="100%"}
 
+![](https://cdn-images-1.medium.com/max/2600/1*Q2dcmqoaXCdtYGimmmphIQ.png){:width="100%"}
+
 ##### 1.1.4 DIKW Pyramid
 - Information Vs Knowledge : relevant information put to work in a specific domain is knowledge
 - Knowledge Vs Wisdom : knowledge gained with experience is wisdom
@@ -118,6 +124,8 @@ Don't worry if you are completely new to the data and AI field, you have even mo
 - '100 miles is very difficult to walk' is wisdom
 
 ##### 1.1.5 Different Aspects of Data
+
+![](https://cdn-images-1.medium.com/max/2600/1*Q2dcmqoaXCdtYGimmmphIQ.png){:width="100%"}
 
 ###### Formats of Data
 - Structured data: definite structure like table with rows and columns
