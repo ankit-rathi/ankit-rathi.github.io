@@ -135,7 +135,7 @@ Don't worry if you are completely new to the data and AI field, you have even mo
 
 ##### 1.1.5 Different Aspects of Data
 
-![](https://cdn-images-1.medium.com/max/2600/1*Q2dcmqoaXCdtYGimmmphIQ.png){:width="100%"}
+![](https://cdn-images-1.medium.com/max/2600/1*OSLT07CT7TTWXrYNmmYomA.png){:width="100%"}
 
 ###### Formats of Data
 - Structured data: definite structure like table with rows and columns
