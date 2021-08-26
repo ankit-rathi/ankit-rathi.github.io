@@ -105,6 +105,8 @@ Don't worry if you are completely new to the data and AI field, you have even mo
 #### 1.1 Data Concepts 
 *Topics Covered: Data, Data Vs Information, DIKW Pyramid, Different Aspects of Data (Formats, Scope, Biases), Structured, Semi-structured and Unstructured Data, Data Usage (Scientific Research, Business Management, Finance, Governance), Data Analysis*
 
+![](https://cdn-images-1.medium.com/max/2600/1*rjy9ySLmVfw6bxfXc59w-A.png){:width="100%"}
+
 ##### 1.1.1 Data
 - data is the back-bone of data-driven AI
 - raw facts without context
@@ -116,6 +118,8 @@ Don't worry if you are completely new to the data and AI field, you have even mo
 - Datum : single piece of information, which can be treated as an observation
 - Data : plural of datum; multiple observations
 - Dataset : A homogenous collection of data (each datum must have the same focus)
+
+![](https://cdn-images-1.medium.com/max/2600/1*zr3gmtVjrfFHH46EDk0EpQ.png){:width="100%"}
 
 ##### 1.1.3 Information
 - processed and meaningful data put into context
