@@ -115,11 +115,20 @@ Data is the back-bone of data-driven AI. So what is data? It is raw fact without
 
 Loosely, it can be any information in digital form, it can be output of sensing device or organ.
 
+References: 
+- https://harvard-iacs.github.io/2020-CS109A/lectures/lecture02/slides/Lecture02_Data.pdf
+- https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/2-identify-need-data-solutions
+- https://en.wikipedia.org/wiki/Data
+
 ##### 1.1.2 Datum, Data and Dataset
 
 Mostly we talk about data but occassionally, you may hear terms like datum or dataset, lets understand the difference. Datum is single piece of information, which can be treated as an observation. Data is plural of datum, which we can say multiple observations. Dataset is a homogenous collection of data (each datum must have the same focus).
 
 ![](https://cdn-images-1.medium.com/max/2600/1*zr3gmtVjrfFHH46EDk0EpQ.png){:width="100%"}
+
+
+References: 
+- https://harvard-iacs.github.io/2020-CS109A/lectures/lecture02/slides/Lecture02_Data.pdf
 
 ##### 1.1.3 Information
 When data is processed and put into context, it becomes information, which can be utilized by humans in significant way i.e. making decisions, forecasting etc
@@ -128,27 +137,46 @@ When data is processed and put into context, it becomes information, which can b
 
 ![](https://cdn-images-1.medium.com/max/2600/1*Q2dcmqoaXCdtYGimmmphIQ.png){:width="100%"}
 
+References: 
+- https://en.wikipedia.org/wiki/Information
+
 ##### 1.1.4 Knowledge and Wisdom
 When we put relevant information to work in a specific domain, it becomes knowledge. And when that knowledge is enhanced with first-hand experience, it becomes wisdom.
 
-Lets relate it to an example, '100' number is data, '100 miles' is information, '100 miles is quite a far distance' is a knowledge and '100 miles is very difficult to walk' is wisdom.
+Lets relate it to an example:
+- '100' number is data
+- '100 miles' is information
+- '100 miles is quite a far distance' is a knowledge
+- '100 miles is very difficult to walk' is wisdom.
+
+References: 
+- https://en.wikipedia.org/wiki/DIKW_pyramid
 
 ##### 1.1.5 Different Aspects of Data
 
 ![](https://cdn-images-1.medium.com/max/2600/1*OSLT07CT7TTWXrYNmmYomA.png){:width="100%"}
 
 ###### Formats of Data
+We can classify data formats in three categories as structured, semi-structured and unstructured:
 - Structured data: definite structure like table with rows and columns
 - Semi-structured data: some structure like JSON, key-value or graph database
 - Unstructured data: no specific structure like photos, audio and video files
 
+References: 
+- https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/2-identify-need-data-solutions
+- https://harvard-iacs.github.io/2020-CS109A/lectures/lecture02/slides/Lecture02_Data.pdf
+
 
 ###### Scope of Data
+Data can be classified in two categories based on scope:
 - Comprehensive: have access to all the data
 - Sample: only a portion is available or feasible
 
+References: 
+- https://harvard-iacs.github.io/2020-CS109A/lectures/lecture02/slides/Lecture02_Data.pdf
+
 ###### Biases in Data
-- Bias in data: over or under-representation of a sub-population, may not be intentional
+Bias in data means over or under-representation of a sub-population, may not be intentional.
 - Omission: using arguements from only one side
 - Source selection: including more authoritative sources from one side 
 - Story selection: sharing stories that agree with one side
@@ -156,11 +184,18 @@ Lets relate it to an example, '100' number is data, '100 miles' is information, 
 - Labelling: labeled on one side or missing labels on other side
 - Spin: stories providing only one interpretation of an event
 
+References: 
+- https://harvard-iacs.github.io/2020-CS109A/lectures/lecture02/slides/Lecture02_Data.pdf
+
 ##### 1.1.6 Data Usage
-- Scientific research
+Data is used in following fields:
+- Scientific research: 
 - Business Management
 - Finance
 - Governance
+
+References:
+- https://en.wikipedia.org/wiki/Data
 
 ##### 1.1.7 Data Analysis
 - Data requirements
@@ -170,6 +205,9 @@ Lets relate it to an example, '100' number is data, '100 miles' is information, 
 - Exploratory data analysis
 - Data product
 - Communication
+
+References:
+- https://en.wikipedia.org/wiki/Data_analysis
 
 #### 1.2 IT/Programming Concepts
 *Topics Covered: Technology, Information Technology, Data Structures and Algorithms, Data Processing and Storage, Data Models, Operational & Analytical Data, Databases, Data Warehouses, Streaming and Batch Data, ETL/ELT*
