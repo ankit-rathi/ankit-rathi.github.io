@@ -80,9 +80,9 @@ As you can imagine that the data and AI is a vast and complex field, it's nearly
 
 The book is divided in three parts, first one builds the foundation, second one covers the components and third part talks about various data and AI platforms. 
 
-- Data and AI Foundation: Foundation part builds the basic concepts like Introduction, Mathematics, IT/Programming, Business Domain
-- Data and AI Components: Components part covers the different layers and its components like Data Ingestion, Data Storage, Data Engineering, Data Science, Data Visualization, Data Operationalization, Data Architecture, Data Governance, Data Management
-- Data and AI Platforms: Platforms part talks about various platforms like Open Source, AWS, Azure, GCP, Databricks, Snowflake
+- Data and AI Foundation: This part builds the basic concepts like Introduction, Mathematics, IT/Programming, Business Domain
+- Data and AI Components: This part covers the different layers and its components like Data Ingestion, Data Storage, Data Engineering, Data Science, Data Visualization, Data Operationalization, Data Architecture, Data Governance, Data Management
+- Data and AI Platforms: This part talks about various platforms like Open Source, AWS, Azure, GCP, Databricks, Snowflake
 
 <a name="data-and-ai-foundation"/>
 
@@ -97,7 +97,9 @@ Before I start with this section, have a look at the above figure, what do you u
 ![](https://cdn-images-1.medium.com/max/2600/1*raV9dgh9nxAymxuqyb_cBg.png){:width="100%"}
 Now lets have a look at this figure, does this fugure look simpler? What do you understand from this?
 
-So in this section I am going to build the foundation that is necessary to grasp before looking at components of data and AI platform. And we will start from scratch, first we will cover the basic concepts of data and AI and how these fields are connected, then we will focus on core concepts of mathematics, IT/programming and business domain etc.
+As it turns out that we need to understand the underlying building blocks first to make sense of any complex stuff. So in this section, I am going to build the foundation that is necessary to grasp before looking at components of data and AI platform. 
+
+And we will start from scratch, first we will cover the basic concepts of data and AI and how these fields are connected, then we will focus on core concepts of mathematics, IT/programming and business domain etc.
 
 ### 1 Data and AI Introduction
 
@@ -126,12 +128,10 @@ When data is processed and put into context, it becomes information, which can b
 
 ![](https://cdn-images-1.medium.com/max/2600/1*Q2dcmqoaXCdtYGimmmphIQ.png){:width="100%"}
 
-##### 1.1.4 DIKW Pyramid
-- Information Vs Knowledge : relevant information put to work in a specific domain is knowledge
-- Knowledge Vs Wisdom : knowledge gained with experience is wisdom
-- i.e. '100' number is data, '100 miles' is information
-- '100 miles is quite a far distance' is a knowledge
-- '100 miles is very difficult to walk' is wisdom
+##### 1.1.4 Knowledge and Wisdom
+When we put relevant information to work in a specific domain, it becomes knowledge. And when that knowledge is enhanced with first-hand experience, it becomes wisdom.
+
+Lets relate it to an example, '100' number is data, '100 miles' is information, '100 miles is quite a far distance' is a knowledge and '100 miles is very difficult to walk' is wisdom.
 
 ##### 1.1.5 Different Aspects of Data
 
