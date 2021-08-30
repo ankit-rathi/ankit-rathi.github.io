@@ -64,6 +64,11 @@ A data professional can be a data analyst, data scientist, data engineer, machin
 Don't worry if you are completely new to the data and AI field, you have even more reason to be excited. There are no prerequisites to read and grasp the concepts mentioned in the book. This is a promise that learning data and AI concepts will change the way you think about the problems you want to solve and show you how to tackle them by unlocking the power of data.
 
 ### Scope of This Book
+
+In this section I am going to mention what and what not I am going to cover in this book.
+
+As you can imagine that the data and AI is a vast and complex field, it's nearly impossible to cover every topic from concept to implementation in a single book hence I will be limiting the scope of this book to the concepts only.
+
 - Covered: breadth of the Data and AI field to just enough depth, sticking to the comcepts
 - Not covered: specialization in each of the sub-fields, not the implementation details
 
@@ -73,7 +78,8 @@ Don't worry if you are completely new to the data and AI field, you have even mo
 
 ![](https://cdn-images-1.medium.com/max/2600/1*6HTjSMK5s7iw-N-d0Uo8vQ.png){:width="100%"}
 
-- book has three parts, first one builds the foundation, second one covers the components and third part talks about various data and AI platforms
+The book is divided in three parts, first one builds the foundation, second one covers the components and third part talks about various data and AI platforms. 
+
 - Data and AI Foundation: Foundation part builds the basic concepts like Introduction, Mathematics, IT/Programming, Business Domain
 - Data and AI Components: Components part covers the different layers and its components like Data Ingestion, Data Storage, Data Engineering, Data Science, Data Visualization, Data Operationalization, Data Architecture, Data Governance, Data Management
 - Data and AI Platforms: Platforms part talks about various platforms like Open Source, AWS, Azure, GCP, Databricks, Snowflake
@@ -86,17 +92,12 @@ Don't worry if you are completely new to the data and AI field, you have even mo
 *Topics Covered: Data and AI Introduction, Mathematics, IT/Programming, Business Domain*
 
 ![](https://cdn-images-1.medium.com/max/2600/1*IupRppvr1czii9S64-4mJA.png){:width="100%"}
-- what do you understand from above figure?
-- looks complicated?
-- are you aware of the layers and terms?
+Before I start with this section, have a look at the above figure, what do you understand from above? Does it look too complicated? Are you aware of the layers and terms mentioned?
 
 ![](https://cdn-images-1.medium.com/max/2600/1*raV9dgh9nxAymxuqyb_cBg.png){:width="100%"}
-- does this fugure look simpler?
-- what do you understand from this?
+Now lets have a look at this figure, does this fugure look simpler? What do you understand from this?
 
-- foundation is all about covering the basics before looking at the building blocks of data and AI platform
-- we will start from scratch, first we will cover the basic concepts of data and AI and how these fields are connected
-- then we will focus on core concepts of mathematics, IT/programming and business domain
+So in this section I am going to build the foundation that is necessary to grasp before looking at components of data and AI platform. And we will start from scratch, first we will cover the basic concepts of data and AI and how these fields are connected, then we will focus on core concepts of mathematics, IT/programming and business domain etc.
 
 ### 1 Data and AI Introduction
 
@@ -108,23 +109,18 @@ Don't worry if you are completely new to the data and AI field, you have even mo
 ![](https://cdn-images-1.medium.com/max/2600/1*rjy9ySLmVfw6bxfXc59w-A.png){:width="100%"}
 
 ##### 1.1.1 Data
-- data is the back-bone of data-driven AI
-- raw facts without context
-- i.e. a number, symbol, character, word, codes, graphs, etc
-- information in digital form
-- output of sensing device or organ
+Data is the back-bone of data-driven AI. So what is data? It is raw fact without any context i.e. a number, symbol, character, word, codes, graphs, etc. 
+
+Loosely, it can be any information in digital form, it can be output of sensing device or organ.
 
 ##### 1.1.2 Datum, Data and Dataset
-- Datum : single piece of information, which can be treated as an observation
-- Data : plural of datum; multiple observations
-- Dataset : A homogenous collection of data (each datum must have the same focus)
+
+Mostly we talk about data but occassionally, you may hear terms like datum or dataset, lets understand the difference. Datum is single piece of information, which can be treated as an observation. Data is plural of datum, which we can say multiple observations. Dataset is a homogenous collection of data (each datum must have the same focus).
 
 ![](https://cdn-images-1.medium.com/max/2600/1*zr3gmtVjrfFHH46EDk0EpQ.png){:width="100%"}
 
 ##### 1.1.3 Information
-- processed and meaningful data put into context
-- utilized by humans in significant way
-- i.e. making decisions, forecasting etc
+When data is processed and put into context, it becomes information, which can be utilized by humans in significant way i.e. making decisions, forecasting etc
 
 ![](https://cdn-images-1.medium.com/max/2600/1*e7RLPPbGoQ_99dRC8kNJBw.png){:width="100%"}
 
