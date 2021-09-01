@@ -91,10 +91,10 @@ The book is divided in three parts, first one builds the foundation, second one 
 
 *Topics Covered: Data and AI Introduction, Mathematics, IT/Programming, Business Domain*
 
-![](https://cdn-images-1.medium.com/max/2600/1*U4ViaQWdoBqymhOQXShUFw.png){:width="100%"}
+![](https://cdn-images-1.medium.com/max/2600/1*UXInwAg3A0a6Ycm6JLNBZw.png){:width="100%"}
 Before I start with this section, have a look at the above figure, what do you understand from above? Does it look too complicated? Are you aware of the layers and terms mentioned?
 
-![](https://cdn-images-1.medium.com/max/2600/1*raV9dgh9nxAymxuqyb_cBg.png){:width="100%"}
+![](https://cdn-images-1.medium.com/max/2600/1*uiYvdrHc78GSws7ugoPE9A.png){:width="100%"}
 Now lets have a look at this figure, does this fugure look simpler? What do you understand from this?
 
 As it turns out that we need to understand the underlying building blocks first to make sense of any complex stuff. So in this section, I am going to build the foundation that is necessary to grasp before looking at components of data and AI platform. 
