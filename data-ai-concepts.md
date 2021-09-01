@@ -67,7 +67,7 @@ Don't worry if you are completely new to the data and AI field, you have even mo
 
 In this section I am going to mention what and what not I am going to cover in this book.
 
-As you can imagine that the data and AI is a vast and complex field, it's nearly impossible to cover every topic from concept to implementation in a single book hence I will be limiting the scope of this book to the concepts only.
+As you can imagine, the data and AI being a vast and complex field, it's nearly impossible to cover every topic from concept to implementation in a single book. Hence as I am covering the breadth of topics, I will be limiting the scope of this book to the concepts only. I have already mentioned in the previous section that concepts are the starting point and important in a view that it abstracts the real-world phenomenon, it exposes you to the topic well enough so that you can explore it further on need basis.
 
 - Covered: breadth of the Data and AI field to just enough depth, sticking to the comcepts
 - Not covered: specialization in each of the sub-fields, not the implementation details
@@ -91,7 +91,7 @@ The book is divided in three parts, first one builds the foundation, second one 
 
 *Topics Covered: Data and AI Introduction, Mathematics, IT/Programming, Business Domain*
 
-![](https://cdn-images-1.medium.com/max/2600/1*IupRppvr1czii9S64-4mJA.png){:width="100%"}
+![](https://cdn-images-1.medium.com/max/2600/1*U4ViaQWdoBqymhOQXShUFw.png){:width="100%"}
 Before I start with this section, have a look at the above figure, what do you understand from above? Does it look too complicated? Are you aware of the layers and terms mentioned?
 
 ![](https://cdn-images-1.medium.com/max/2600/1*raV9dgh9nxAymxuqyb_cBg.png){:width="100%"}
