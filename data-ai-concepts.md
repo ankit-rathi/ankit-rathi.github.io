@@ -76,13 +76,21 @@ As you can imagine, the data and AI being a vast and complex field, it's nearly 
 
 ### Outline of This Book
 
+![](https://cdn-images-1.medium.com/max/2600/1*UXInwAg3A0a6Ycm6JLNBZw.png){:width="100%"}
+Before I mention the outline, have a look at the above figure, what do you understand from above? Does it look too complicated? Are you aware of the layers and terms mentioned?
+
+![](https://cdn-images-1.medium.com/max/2600/1*uiYvdrHc78GSws7ugoPE9A.png){:width="100%"}
+Now lets have a look at this figure, does this fugure look simpler? What do you understand from this?
+
+As it turns out, before building or working on any data and AI platform, we need to understand the underlying different layers and what they are made of. Even before that, we we need to make sense of the building blocks. 
+
 ![](https://cdn-images-1.medium.com/max/2600/1*6HTjSMK5s7iw-N-d0Uo8vQ.png){:width="100%"}
 
 The book is divided in three parts, first one builds the foundation, second one covers the components and third part talks about various data and AI platforms. 
 
-- Data and AI Foundation: This part builds the basic concepts like Introduction, Mathematics, IT/Programming, Business Domain
-- Data and AI Components: This part covers the different layers and its components like Data Ingestion, Data Storage, Data Engineering, Data Science, Data Visualization, Data Operationalization, Data Architecture, Data Governance, Data Management
-- Data and AI Platforms: This part talks about various platforms like Open Source, AWS, Azure, GCP, Databricks, Snowflake
+- Data and AI Foundation: This part covers the basic concepts like Data, , Mathematics, IT/Programming, Business Domain, AI
+- Data and AI Components: This part exposes you to different layers of a data and AI platform and its components like Data Ingestion, Data Storage, Data Engineering, Data Science, Data Visualization, Data Operationalization, Data Architecture, Data Governance, Data Management
+- Data and AI Platforms: This part builds your understanding around various platforms like Open Source, AWS, Azure, GCP, Databricks, Snowflake
 
 <a name="data-and-ai-foundation"/>
 
@@ -91,13 +99,7 @@ The book is divided in three parts, first one builds the foundation, second one 
 
 *Topics Covered: Data and AI Introduction, Mathematics, IT/Programming, Business Domain*
 
-![](https://cdn-images-1.medium.com/max/2600/1*UXInwAg3A0a6Ycm6JLNBZw.png){:width="100%"}
-Before I start with this section, have a look at the above figure, what do you understand from above? Does it look too complicated? Are you aware of the layers and terms mentioned?
-
-![](https://cdn-images-1.medium.com/max/2600/1*uiYvdrHc78GSws7ugoPE9A.png){:width="100%"}
-Now lets have a look at this figure, does this fugure look simpler? What do you understand from this?
-
-As it turns out that we need to understand the underlying building blocks first to make sense of any complex stuff. So in this section, I am going to build the foundation that is necessary to grasp before looking at components of data and AI platform. 
+In this section, I am going to build the foundation that is necessary to grasp before looking at components of data and AI platform. 
 
 And we will start from scratch, first we will cover the basic concepts of data and AI and how these fields are connected, then we will focus on core concepts of mathematics, IT/programming and business domain etc.
 
