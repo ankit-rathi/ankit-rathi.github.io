@@ -113,9 +113,17 @@ And we will start from scratch, first we will cover the basic concepts of data a
 ![](https://cdn-images-1.medium.com/max/2600/1*rjy9ySLmVfw6bxfXc59w-A.png){:width="100%"}
 
 ##### 1.1.1 Data
-Data is the back-bone of data-driven AI. So what is data? It is raw fact without any context i.e. a number, symbol, character, word, codes, graphs, etc. 
+Data is the back-bone of data-driven AI. So lets first understand what is data? 
 
-Loosely, it can be any information in digital form, it can be output of sensing device or organ.
+Data is the raw fact without any context i.e. a number, symbol, character, word, codes, graphs, etc. 
+
+Data has originated as a plural form of Latin word 'Datum', which means 'a given fact'.
+
+Broadly speaking, it can be any information in digital form, it can be output of sensing device or organ.
+
+Loosely, data and information are used interchangeably, which is not correct, we will cover the difference in an upcoming section.
+
+Data, information, knowledge and wisdom are closely related concepts, but each has its own role in relation to the other, and each term has its own meaning, we will also touch this part soon.
 
 References: 
 - https://harvard-iacs.github.io/2020-CS109A/lectures/lecture02/slides/Lecture02_Data.pdf
