@@ -136,21 +136,20 @@ References:
 
 Mostly we talk about data but occassionally, you may hear terms like datum or dataset, lets understand the difference. Datum is single piece of information, which can be treated as an observation. Data is plural of datum, which we can say multiple observations. Dataset is a homogenous collection of data (each datum must have the same focus).
 
-![](https://cdn-images-1.medium.com/max/2600/1*zr3gmtVjrfFHH46EDk0EpQ.png){:width="100%"}
-
-
 References: 
 - https://harvard-iacs.github.io/2020-CS109A/lectures/lecture02/slides/Lecture02_Data.pdf
+
+![](https://cdn-images-1.medium.com/max/2600/1*zr3gmtVjrfFHH46EDk0EpQ.png){:width="100%"}
 
 ##### 1.1.3 Information
 When data is processed and put into context, it becomes information, which can be utilized by humans in significant way i.e. making decisions, forecasting etc
 
+References: 
+- https://en.wikipedia.org/wiki/Information
+
 ![](https://cdn-images-1.medium.com/max/2600/1*e7RLPPbGoQ_99dRC8kNJBw.png){:width="100%"}
 
 ![](https://cdn-images-1.medium.com/max/2600/1*Q2dcmqoaXCdtYGimmmphIQ.png){:width="100%"}
-
-References: 
-- https://en.wikipedia.org/wiki/Information
 
 ##### 1.1.4 Knowledge and Wisdom
 When we put relevant information to work in a specific domain, it becomes knowledge. And when that knowledge is enhanced with first-hand experience, it becomes wisdom.
@@ -170,19 +169,20 @@ References:
 
 ###### Formats of Data
 We can classify data formats in three categories as structured, semi-structured and unstructured:
-- Structured data: definite structure like table with rows and columns
-- Semi-structured data: some structure like JSON, key-value or graph database
-- Unstructured data: no specific structure like photos, audio and video files
+- Structured data has a definite structure like table with rows and columns.
+- Semi-structured data has some structure like JSON, key-value or graph database.
+- Unstructured data has no specific structure like photos, audio and video files.
 
 References: 
 - https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/2-identify-need-data-solutions
 - https://harvard-iacs.github.io/2020-CS109A/lectures/lecture02/slides/Lecture02_Data.pdf
 
+![](https://cdn-images-1.medium.com/max/2600/1*AU28k8y-J8HsdV_ZFMiiaA.png){:width="100%"}
 
 ###### Scope of Data
 Data can be classified in two categories based on scope:
-- Comprehensive: have access to all the data
-- Sample: only a portion is available or feasible
+- Population, which means we have access to all the data
+- Sample, which means only a portion is available or feasible
 
 References: 
 - https://harvard-iacs.github.io/2020-CS109A/lectures/lecture02/slides/Lecture02_Data.pdf
@@ -201,7 +201,7 @@ References:
 
 ##### 1.1.6 Data Usage
 Data is used in following fields:
-- Scientific research: 
+- Scientific research
 - Business Management
 - Finance
 - Governance
