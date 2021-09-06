@@ -117,6 +117,8 @@ Data is the back-bone of data-driven AI. So lets first understand what is data?
 
 Data is the raw fact without any context i.e. a number, symbol, character, word, codes, graphs, etc. 
 
+![](https://cdn-images-1.medium.com/max/2600/1*IPkspG9qDOTW8AZK2Oq3aw.png){:width="100%"}
+
 Data has originated as a plural form of Latin word 'Datum', which means 'a given fact'.
 
 Broadly speaking, it can be any information in digital form, it can be output of sensing device or organ.
