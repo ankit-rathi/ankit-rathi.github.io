@@ -43,3 +43,14 @@
 > This is also an important aspect, given that it can also change over time. <br />
 > A lot of design, infra and monitoring aspects depends on it.
 
+> The model you build serves the users, <br />
+> document and perform all the sanity checks after exporting and before serving the model, <br />
+> to make sure exported model is fit for serving.
+
+> Keep a tab on silent decay in model performance, <br />
+> track the statistics of features and response at regular intervals, <br />
+> watch out for concept and data drift over time.
+
+> Document the features and their lineage from source systems, even assign the ownership for critical features. <br />
+> Today everything may be working fine... <br />
+> Tomorrow, if anything goes wrong, it will help immensely in the root cause analysis.
