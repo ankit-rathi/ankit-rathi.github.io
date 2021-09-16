@@ -8,6 +8,10 @@ sitemap:
     changefreq: weekly
 ---
 
+Lorem ipsum dolor sit amet.
+
+[button url="http://www.google.com"]
+
 Definitions of common machine learning terms.
 
 ## A/B testing
