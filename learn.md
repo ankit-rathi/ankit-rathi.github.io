@@ -8,9 +8,12 @@ sitemap:
     changefreq: weekly
 ---
 
-Lorem ipsum dolor sit amet.
-
-[Click me](http://www.google.com){: .btn}
+<article>
+    <header>
+        <h2><a href="{{ "/blog" | absolute_url }}" class="button">Read My Blog</a></h2>
+    </header>
+    <p class="align-center">Data Stories</p>
+</article>
 
 Definitions of common machine learning terms.
 
