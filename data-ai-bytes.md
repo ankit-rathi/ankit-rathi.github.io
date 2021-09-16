@@ -54,3 +54,24 @@
 > Document the features and their lineage from source systems, even assign the ownership for critical features. <br />
 > Today everything may be working fine... <br />
 > Tomorrow, if anything goes wrong, it will help immensely in the root cause analysis.
+
+> Business KPIs are often too many, complex, and hard-to-measure, but keep your ML/AI objective single, simple, and easy-to-measure. <br />
+> Yes, we use ML/AI to improve/optimize business KPIs, but choosing business KPIs directly as ML/AI objectives can make your project too complex, or sometimes it's not even feasible. <br />
+> Remember, a business problem has to be translated into ML/AI problem first. <br />
+> Hence start simple, choose a single, simple and easy-to-measure ML/AI objective that directly or indirectly represents all or some of your business KPIs. <br />
+
+> Almost always you need to start with a simple and interpretable model,<br />
+> it helps in building better understanding of data and how the target has a causal relationship with features,<br />
+> and it also makes debugging easier if the performance is not good enough.<br />
+> Gradually you can move towards complex models...
+
+> In a complex ML/AI use case, try to keep the concerns separate, <br />
+> what I mean by that is, for example, <br />
+> in search functionality, filtering the relevance and ranking the relevance are two different tasks, handle them separately, <br />
+> basically, the output of filtering will be an input to ranking. <br />
+> This is relatively an easier example, but the idea holds the same for all similar scenarios, <br />
+> I call it 'separation of concerns' in ML/AI.
+
+> Your work doesn't stop once you launch your model in production, in fact, you will be launching the same or similar model again and again.  <br />
+> This is because you may find new useful features, you may identify tuning opportunities, you may refine your objective further.  <br />
+> So keep the modeling pipeline simple and flexible enough so that it doesn't slow down your iterations, adding/removing features, creating a fresh copy of the pipeline, etc should be easy enough. 
