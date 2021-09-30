@@ -75,3 +75,38 @@
 > Your work doesn't stop once you launch your model in production, in fact, you will be launching the same or similar model again and again.  <br />
 > This is because you may find new useful features, you may identify tuning opportunities, you may refine your objective further.  <br />
 > So keep the modeling pipeline simple and flexible enough so that it doesn't slow down your iterations, adding/removing features, creating a fresh copy of the pipeline, etc should be easy enough. 
+
+> ML/AI use cases are probabilistic in nature, <br />
+> which means you will almost always get some incorrect or unexpected results for some scenarios. <br />
+> While the end-users expect it to be a silver bullet... <br />
+> Try to be transparent with end-users about the capabilities and limitations of your ML/AI solution.
+
+> ML/AI space is evolving rapidly, there are new tools and techniques introduced everyday. <br />
+> No matter how new and exciting this advancement is for us, business users care about the value addition. <br />
+> So while explaining ML/AI to the business users, focus on what value it brings to the table for them and NOT on the technology itself.
+
+> As ML/AI solutions are probabilistic in nature, responses in some scenarios are bound to be unexpected or wrong. <br />
+> You need to anticipate these scenarios in advance and you also need to: <br />
+> - set the right expectations <br />
+> - customize reasonable responses <br />
+> - offer customer support <br />
+
+> As ML/AI is all data-driven, its no brainer that the data supplied as input should be of high quality. <br />
+> The quality of data depends on data collection and data management practices followed in the project.
+
+> While designing your ML/AI product/solution,  <br />
+> one decision that you need to take is,  <br />
+> whether the results of your product/solution will be broad or accurate.  <br />
+> In broad (recall) results, you may empower users to exclude results,  <br />
+> in accurate (precision) results, you may empower users to include results.  <br />
+> Talk to your users, understand what works better for them.
+
+> If you are using user's data for personalized recommendation or optimization, proactively seek permission to use their data, also ask for their preferences,  <br />
+> build settings where permissions and preferences can be adjusted over time,  <br />
+> keep checking and reminding users about these permissions and preferences.  <br />
+> Keep everything in an explainable format which the non-technical users can easily grasp.
+
+> In ML/AI solutions/products where you make recommendations for users,  <br />
+> make the solution/product flexible enough for users to try with and without giving any personal information.  <br />
+> So that users themselves can see and assess the difference between recommendations before and after sharing personal info...
+
