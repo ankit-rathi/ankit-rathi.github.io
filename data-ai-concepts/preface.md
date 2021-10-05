@@ -1,5 +1,5 @@
 ## I Preface
-[Back to TOC](#table-of-contents)
+[Back to TOC](https://ankitrathi.com/data-ai-concepts/)
 
 *Topics Covered: Why This Book?, Who Should Read This Book?, Scope of This Book, Outline of This Book*
 
