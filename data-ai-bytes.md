@@ -110,3 +110,16 @@
 > make the solution/product flexible enough for users to try with and without giving any personal information.  <br />
 > So that users themselves can see and assess the difference between recommendations before and after sharing personal info...
 
+> Not all business problems can be solved using Ml/AI. <br />
+> Hence some data scientists assess the feasibility first. <br />
+> Some data scientists tell you this after doing the POC. <br />
+> And some data scientists realize this just before the product/solution launch.
+
+> Testing is equally important for ML/AI solutions... <br />
+> On one hand, you need to test individual components, their integration and the solution as a whole, <br />
+> on the other hand, you need to test the performance of the system against defined business metrics.
+
+> When you build ML/AI solution, every logic or pipeline will be coded, <br />
+> it looks trivial but customary to follow the best coding practices, <br />
+> write clean, readable, modular, and testable code.
+
