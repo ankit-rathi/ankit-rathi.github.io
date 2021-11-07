@@ -159,37 +159,6 @@ References:
 #### 1.4 From Data To AI
 *Topics Covered: Business Intelligence, Data Science, Machine Learning, Deep Learning, Artificial Intelligence*
 
-### 2 Mathematics
-
-#### 2.1 Linear Algebra
-*Topics Covered: Scalars, Vectors, Matrices and Tensors, Multiplying Matrices and Vectors, Identity and Inverse Matrices, Linear Dependence and Span, Norms, Special Kinds of Matrices and Vectors, Eigendecomposition, Singular Value Decomposition (SVD), The Moore Penrose Pseudoinverse, The Trace Operator, The Determinant, Principal Component Analysis*
-
-#### 2.2 Multivariate Calculus
-*Topics Covered: Functions, Derivatives, Product Rule, Chain Rule, Integrals, Partial Derivatives, The Gradient, The Jacobian, The Hessian, Multivariate Chain Rule, Approximate Functions, Power Series, Linearization, Multivariate Taylor*
-
-#### 2.3 Probability and Statistics
-
-#### 2.3.1 Probability
-*Topics Covered: Probability, Conditional Probability, Random Variables, Probability Distributions*
-
-#### 2.3.2 Statistics
-*Topics Covered: Statistics, Descriptive Statistics (Univariate, Bivariate, Multivariate Analysis, Function Models), Inferential Statistics (Sampling Distributions & Estimation, Hypothesis Testing, Correlation, Causation & Regression), Bayesian Statistics (Frequentist Vs Bayesian Statistics, Bayesian Inference, Test for Significance), Statistical Learning (Prediction & Inference, Parametric & Non-parametric methods, Prediction Accuracy and Model Interpretability, Bias-Variance Trade-Off)*
-
-### 3 IT/Programming
-
-
-#### 3.1 Operating System Basics
-*Topics Covered: *
-
-#### 3.2 Data Structures and Algorithms Basics
-*Topics Covered: Data Structures (Array, Linked List, Stack, Queue, Heap, Hashing, Binary Tree, Binary Search Tree, Graph, Matrix), Algorithms (Asymptotic Analysis, Searching and Sorting, Greedy Algorithms, Recursion, Dynamic Programming)*
-
-#### 3.3 Programming Basics
-*Topics Covered: *
-
-#### 3.3 Database Systems Basics
-*Topics Covered: *
-
 #### 3. Cloud Computing
 *Topics Covered: Introduction, Public, Private and Hybrid Clouds, IaaS, PaaS and SaaS, Data and AI on Cloud, AWS, Azure and GCP*
 
@@ -259,13 +228,38 @@ References:
 
 *Topics Covered: SQL, Python, UNIX and Shell Scripting, Data Structure and Algorithms*
 
-### 19 SQL
+### A Linear Algebra
+*Topics Covered: Scalars, Vectors, Matrices and Tensors, Multiplying Matrices and Vectors, Identity and Inverse Matrices, Linear Dependence and Span, Norms, Special Kinds of Matrices and Vectors, Eigendecomposition, Singular Value Decomposition (SVD), The Moore Penrose Pseudoinverse, The Trace Operator, The Determinant, Principal Component Analysis*
+
+### B Multivariate Calculus
+*Topics Covered: Functions, Derivatives, Product Rule, Chain Rule, Integrals, Partial Derivatives, The Gradient, The Jacobian, The Hessian, Multivariate Chain Rule, Approximate Functions, Power Series, Linearization, Multivariate Taylor*
+
+### C Probability
+*Topics Covered: Probability, Conditional Probability, Random Variables, Probability Distributions*
+
+### D Statistics
+*Topics Covered: Statistics, Descriptive Statistics (Univariate, Bivariate, Multivariate Analysis, Function Models), Inferential Statistics (Sampling Distributions & Estimation, Hypothesis Testing, Correlation, Causation & Regression), Bayesian Statistics (Frequentist Vs Bayesian Statistics, Bayesian Inference, Test for Significance), Statistical Learning (Prediction & Inference, Parametric & Non-parametric methods, Prediction Accuracy and Model Interpretability, Bias-Variance Trade-Off)*
+
+### E Operating System Basics
+*Topics Covered: *
+
+### F Data Structures and Algorithms Basics
+*Topics Covered: Data Structures (Array, Linked List, Stack, Queue, Heap, Hashing, Binary Tree, Binary Search Tree, Graph, Matrix), Algorithms (Asymptotic Analysis, Searching and Sorting, Greedy Algorithms, Recursion, Dynamic Programming)*
+
+### G Programming Basics
+*Topics Covered: *
+
+### H Database Systems Basics
+*Topics Covered: *
+
+
+### I SQL
 *Topics Covered: SQL, Data Models, ER Diagrams, Tables, Temporary Tables, Selecting (SELECT, FROM, DISTINCT), Filtering (WHERE, AND, OR, IN, NOT, BETWEEN, NULLs, Wildcards), Ordering (ORDER BY, DESC), Aggregating (GROUP BY, HAVING, AVERAGE, COUNT, MAX, MIN), Subqueries, Joins (Cartesian, Inner, Outer <Left/Right>, Self), Sets (UNION, UNION ALL, INTERSECT), Aliases, Views, Subqueries (WITH AS)*
 
-### 20 Python
+### J Python
 *Topics Covered: Programming, Installation, Basic Syntax & Variable Types, Data Types and Conversion, Basic Operators and Loops, Functions, Exceptions and Modules, Data Science Specific Modules (NumPy, SciPy, Pandas, MatPlotLib, Scikit-Learn)*
 
-### 21 UNIX and Shell Scripting
+### K UNIX and Shell Scripting
 *Topics Covered: Operating System, Architecture, Basic UNIX Commands, Shell Scripting*
 
 
