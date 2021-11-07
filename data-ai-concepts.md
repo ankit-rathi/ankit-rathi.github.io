@@ -113,6 +113,8 @@ Data can be classified in two categories based on scope:
 - Population, which means we have access to all the data
 - Sample, which means only a portion is available or feasible
 
+We don't have access to all the data in mast of the cases, we can estimate the population from sample in those cases.
+
 References: 
 - https://harvard-iacs.github.io/2020-CS109A/lectures/lecture02/slides/Lecture02_Data.pdf
 
@@ -130,10 +132,10 @@ References:
 
 #### 1.6 Data Usage
 Data is used in following fields:
-- Scientific research
-- Business Management
-- Finance
-- Governance
+- Scientific Research: Factual data is both, an essential resource and a valuable output
+- Business Management: Data helps understand and improve processes
+- Finance: Whoever has the best and the fastest information gains the edge
+- Governance: Open data platform to help promote data-driven governance
 
 References:
 - https://en.wikipedia.org/wiki/Data
