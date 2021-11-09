@@ -141,6 +141,7 @@ References:
 - https://en.wikipedia.org/wiki/Data
 
 #### 1.7 Data Analysis
+Data analysis is a process for obtaining raw data, and converting it into information useful for decision-making by users. Data, is collected and analyzed to answer questions, test hypotheses, or disprove theories.
 - Data requirements
 - Data collection
 - Data processing
