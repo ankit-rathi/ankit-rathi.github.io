@@ -113,13 +113,15 @@ Data can be classified in two categories based on scope:
 - Population, which means we have access to all the data
 - Sample, which means only a portion is available or feasible
 
-We don't have access to all the data in mast of the cases, we can estimate the population from sample in those cases.
+We don't have access to all the data in most of the cases, in these cases we collect the sample in a way that it contains most of the information from population so that we can estimate the patterns in population from that sample.
 
 References: 
 - https://harvard-iacs.github.io/2020-CS109A/lectures/lecture02/slides/Lecture02_Data.pdf
 
 ##### Biases in Data
-Bias in data means over or under-representation of a sub-population, may not be intentional.
+Bias in data means over or under-representation of a sub-population, may not be intentional. 
+
+These are the types of biases that exist in data:
 - Omission: using arguements from only one side
 - Source selection: including more authoritative sources from one side 
 - Story selection: sharing stories that agree with one side
@@ -141,14 +143,18 @@ References:
 - https://en.wikipedia.org/wiki/Data
 
 #### 1.7 Data Analysis
-Data analysis is a process for obtaining raw data, and converting it into information useful for decision-making by users. Data, is collected and analyzed to answer questions, test hypotheses, or disprove theories.
-- Data requirements
-- Data collection
-- Data processing
-- Data cleaning
-- Exploratory data analysis
-- Data product
-- Communication
+Data analysis is a process for obtaining raw data, and converting it into information useful for decision-making by users. 
+
+Data, is collected and analyzed to answer questions, test hypotheses, or disprove theories.
+
+These are the steps of a typical data analysis process:
+- Data requirements: to understand what input would be required for analysis
+- Data collection: to collect those inputs from various sources
+- Data processing: to process or organize data for analysis
+- Data cleaning: to deal with incomplete, inaccurate, redundant elements
+- Exploratory data analysis: to explore data and understand the patterns
+- Data product: to covert data into actionable inputs 
+- Communication: to convey the results of analysis to users
 
 References:
 - https://en.wikipedia.org/wiki/Data_analysis
