@@ -38,7 +38,7 @@ Note: This section is still being written...
 
 In this section, I am going to build the foundation that is necessary to grasp before looking at components of data and AI platform. 
 
-And we will start from scratch, first we will cover the basic concepts of data and AI and how these fields are connected, then we will focus on core concepts of mathematics, IT/programming and business domain etc.
+And we will start from scratch, first we will cover the basic concepts of data and AI and how these fields are connected, then we will focus on core concepts of technology and business domain etc.
 
 ### Data and AI Introduction
 
