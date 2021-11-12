@@ -18,8 +18,14 @@ permalink: /data-ai-concepts/
 
 <a name="preface"/>
 
-## [I Preface](https://ankitrathi.com/data-ai-concepts/preface/)
+## I Preface
+[Back to TOC](#table-of-contents)
 
+*Topics Covered: Why This Book?, Who Should Read This Book?, Scope of This Book, Outline of This Book*
+
+Note: This section is complete.
+
+[Click here to read it.](https://ankitrathi.com/data-ai-concepts/preface/)
 
 <a name="data-and-ai-foundation"/>
 
@@ -27,6 +33,8 @@ permalink: /data-ai-concepts/
 [Back to TOC](#table-of-contents)
 
 *Topics Covered: Data and AI Introduction, Mathematics, IT/Programming, Business Domain*
+
+Note: This section is still being written...
 
 In this section, I am going to build the foundation that is necessary to grasp before looking at components of data and AI platform. 
 
