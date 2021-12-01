@@ -28,6 +28,32 @@ On one hand, technology has helped us in developing advanced economies, on the o
 
 There are valid philosophical debates on the use of technology and whether it improves or worsens the human condition.
 
-Information technology is a branch of technology that deals with electronic data and information, we will discuss that in the next section.
 
 #### 2.2 Information Technology
+
+Information technology (IT) is a branch of technology that deals with electronic data and information.
+
+Mostly when we talk about IT, we talk about data and technology used in business operations.
+
+Business operations have two parts where IT helps:
+
+1. Optimizing and automating the operations: this is done by fully or partially automating business processes
+2. Storing, processing and analyzing the data: this is done by using appropriate mechanism to store and process business data
+
+Data and AI techniques further helps businesses in analysing business data and optimizing operations futher where traditional IT doesn't help or have limitations.
+
+#### 2.3 Data Structures and Algorithms 
+
+
+ 
+#### 2.4 Data Processing and Storage
+ 
+#### 2.5 Data Models, 
+ 
+#### 2.6 Operational Analytical Data, 
+ 
+#### 2.7 Databases and Data Warehouses, 
+ 
+#### 2.8 Streaming and Batch Data, 
+ 
+#### 2.9 ETL/ELT
