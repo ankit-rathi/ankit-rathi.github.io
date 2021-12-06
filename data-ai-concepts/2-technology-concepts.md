@@ -44,16 +44,28 @@ Data and AI techniques further helps businesses in analysing business data and o
 
 #### 2.3 Data Structures and Algorithms 
 
+How technology enables business operation optimization and efficient data storage? 
 
+These complex tasks are broken down into simpler pieces, like logical units of data storage and computation.
+
+At its lowest level, there are technology components like data structures and algorithms, that helps IT professionals to achieve above mentioned objectives.
+
+A data structure is a systematic way of organizing data in a computer system so that it can be used effectively i.e. lists, arrays, linked lists, stack and queue.
+
+Algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output. 
+
+In the context of data structures, algorithms help us in certain operations like search, sort, insert, update and delete. 
+
+Details of data structures and algorithms are not part of this book, if you want to explore it further, I will provide you references.
  
 #### 2.4 Data Processing and Storage
  
-#### 2.5 Data Models, 
+#### 2.5 Data Models
  
-#### 2.6 Operational Analytical Data, 
+#### 2.6 Operational Analytical Data 
  
-#### 2.7 Databases and Data Warehouses, 
+#### 2.7 Databases and Data Warehouses 
  
-#### 2.8 Streaming and Batch Data, 
+#### 2.8 Streaming and Batch Data 
  
 #### 2.9 ETL/ELT
