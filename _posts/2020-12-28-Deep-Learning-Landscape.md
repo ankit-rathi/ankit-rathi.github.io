@@ -6,8 +6,6 @@ categories: [post]
 title: Deep Learning Landscape 
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*DC-NlAJCQiR2C945){:width="100%"}
-
 ​ credits : [forbes
 images](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fbernardmarr%2Ffiles%2F2018%2F10%2FAdobeStock_179912599-1-1200x797.jpg)
 
