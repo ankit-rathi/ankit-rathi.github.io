@@ -6,8 +6,6 @@ categories: [post]
 title: Building Data Analytics Ecosystem
 ---
 
-![](https://cdn-images-1.medium.com/max/800/1*doJYr0ECfpaQL0S36n14FQ.png){:width="100%"}
-
 In this post, I am going to cover how you can build a data analytics ecosystem
 in your organization.
 
