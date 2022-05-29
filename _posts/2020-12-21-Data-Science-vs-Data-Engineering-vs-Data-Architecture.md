@@ -6,7 +6,7 @@ categories: [post]
 title: Data Science vs Data Engineering vs Data Architecture
 ---
 
-![](https://cdn-images-1.medium.com/max/1600/0*-OZ2jskdYR9Rw9A7.png){:width="100%"}
+In this article, lets understand what is the difference between Data Scientists, Data Engineers and Data Architects...
 
 [“Data Engineers are the Bridge” by Jennifer
 Shalamanov](https://blog.udacity.com/2020/07/what-to-expect-as-an-entry-level-data-engineer.html)
@@ -15,6 +15,8 @@ Written by: [Rahul Gulia](https://www.linkedin.com/in/rahulgulia/)
 Reviewed by: [Ankit Rathi](http://ankit-rathi.github.io/)
 
 *****
+
+![](https://cdn-images-1.medium.com/max/1600/0*-OZ2jskdYR9Rw9A7.png){:width="100%"}
 
 With the boom of the internet, people have started producing more and more data.
 Companies have understood the importance of data and the possible opportunities
