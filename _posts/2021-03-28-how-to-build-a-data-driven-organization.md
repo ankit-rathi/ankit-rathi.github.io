@@ -6,8 +6,6 @@ categories: [post]
 title: How to build a data-driven organization?
 ---
 
-![](https://cdn-images-1.medium.com/max/1800/1*_HpXtqFi-06wr0wBugdQXg.png){:width="100%"}
-
 There has not been an exciting time than this to talk about data. Data is
 everywhere, it is being called the new oil, it has become a strategic asset. An
 organization’s success or failure is now quite dependent on whether it is able
