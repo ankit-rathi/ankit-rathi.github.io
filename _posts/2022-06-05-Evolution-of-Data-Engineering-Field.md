@@ -6,6 +6,8 @@ categories: [post]
 title: Evolution of Data Engineering Field
 ---
 
+How data engineering field has evolved over the years?
+
 Initially, there were databases (DBs) to support day-to-day business operations.
 
 For analytical needs of how the business is performing,
