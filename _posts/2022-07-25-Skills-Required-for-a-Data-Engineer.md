@@ -16,6 +16,8 @@ On the other hand, it’s about being aware of various options for tools, their 
 
 One needs to have a good understanding of software engineering, DataOps, and data architecture.
 
+And a data engineer should also be able to look at the big picture in order to understand the data requirements of consumers and plug it back to data producers.
+
 #dataengineering #datamanagement #datatechnology #dataanalytics #datascience
 
 *****
