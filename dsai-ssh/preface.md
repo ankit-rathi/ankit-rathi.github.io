@@ -71,7 +71,7 @@ Chapter 8 guides on how to continue from here, keep yourself updated and remain 
 
 # Who this book is for?
 
-This book can be useful for a variety of readers, but I wrote it with two main target audiences in mind. One of these target audiences is university students learning about data and AI field, including those who are starting a career in data intelligence. The other target audience is professionals working in other fields, who do not have a data or technology background but want to rapidly acquire one and expand their career.
+This book can be useful for a variety of readers, but I wrote it with two main target audiences in mind. One of these target audiences is university students learning about data intelligence field, including those who are starting a career in data intelligence. The other target audience is professionals working in other fields, who do not have a data or technology background but want to rapidly acquire one and expand their career.
 
 There is no assumption or prerequisites for a reader to cover before reading this series. 
 
@@ -79,7 +79,7 @@ Looks interesting? Stay tuned to read the upcoming chapter as soon as it is publ
 
 > Please note that this book does not solely cover typical data intelligence concepts.
 
-Consider it as a personal coach to launch your career in data and AI field which gives you enough exposure to the field so that you can yourself prepare a roadmap of your data and AI journey.
+Consider it as a personal coach to launch your career in data intelligence field which gives you enough exposure to the field so that you can yourself prepare a roadmap of your data intelligence journey.
 
 
 | [Previous](https://ankit-rathi.github.io/dsai-ssh/about-the-author/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/understanding-the-big-picture/)  |
