@@ -42,7 +42,7 @@ From a time around when data field started picking up, every other day I get man
 
 You can notice that these questions are not conceptual ones and there is no dedicated material to address these challenges and roadblocks.
 
-How about a book or course that gives you enough exposure to the data and AI field that you can yourself analyze what is needed for you and build your own roadmap? 
+How about a book or course that gives you enough exposure to the data intelligence field that you can yourself analyze what is needed for you and build your own roadmap? 
 
 > My answer to the above questions is this book.
 
@@ -52,7 +52,7 @@ On an abstract level, it looks fairly simple, overall process can be divided int
 
 ![](https://cdn-images-1.medium.com/max/800/1*-u7WltA4QNQ1kWOI5BnVLg.png)
 
-**Explore** is the very first phase of your data and AI journey, where you need to understand the overall landscape before diving deep. This step covers Q1 & Q2.
+**Explore** is the very first phase of your data intelligence journey, where you need to understand the overall landscape before diving deep. This step covers Q1 & Q2.
 
 **Build** phase covers all the concepts, processes, tools you need to learn and the resources you need to refer to gain required knowledge. This step responses Q3 & Q4.
 
@@ -63,7 +63,7 @@ On an abstract level, it looks fairly simple, overall process can be divided int
 
 This book is organized into 8 chapters covering above mentioned framework end-to-end: 
 
-Chapter 1 covers the high-level approach to how you can build your road-map to learn data and AI, and build a career in it.
+Chapter 1 covers the high-level approach to how you can build your road-map to learn data intelligence, and build a career in it.
 
 Chapters 2–7 cover all the steps mentioned in chapter 1 in greater depth to give you enough knowledge to build your road-map.
 
@@ -77,7 +77,7 @@ There is no assumption or prerequisites for a reader to cover before reading thi
 
 Looks interesting? Stay tuned to read the upcoming chapter as soon as it is published.
 
-> Please note that this book does not solely cover typical data and AI concepts.
+> Please note that this book does not solely cover typical data intelligence concepts.
 
 Consider it as a personal coach to launch your career in data and AI field which gives you enough exposure to the field so that you can yourself prepare a roadmap of your data and AI journey.
 
