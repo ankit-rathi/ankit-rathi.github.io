@@ -7,31 +7,33 @@ permalink: /dsai-ssh/preface/
 | [Previous](https://ankit-rathi.github.io/dsai-ssh/about-the-author/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/understanding-the-big-picture/)  |
 
 
-It is probably not a secret that data and AI has become one of the most exciting fields of this age. Although it may seem the buzzword of our time, it is certainly not the hype. This exciting field opens the way to new possibilities and is becoming indispensable to our daily lives. 
+It is probably not a secret that data intelligence has become one of the most exciting fields of this age. Although it may seem the buzzword of our time, it is certainly not the hype. This exciting field opens the way to new possibilities and is becoming indispensable to our daily lives. 
 
-Data and AI refers to all the analytical tools and methods business employ to form a better understanding of the information they collect to improve their services or investments. Data and AI focuses on analysis and interaction with information in a meaningful way to promote better decision-making in the future.
+Data intelligence refers to all the data analytics tools, techniques and methodologies business employ to form a better understanding of the data they collect to improve their services or investments. Data intelligence focuses on analysis and interaction with data in a meaningful way to promote better decision-making in the future.
 
-Data and AI solutions are not built in silos, data needs to be ingested, processed, analyzed and presented in a specific context to add value to business.
+Data intelligence solutions are not built in silos, data needs to be ingested, processed, analyzed and presented in a specific context to add value to business.
 
-> The 'Data and AI' term in this book represents all the data related fields like data dcience(DS), machine learning(ML), data engineering (DE), big data, cloud computing for data, DataOps fields collectively. 
+> The 'Data Intelligence' term in this book represents all the data related fields like data science(DS), machine learning(ML/AI), data engineering (DE), analytics engineering, big data, cloud computing for data, XOps (DevOps, DataOps, MLOps) fields collectively. 
 
-Organizations, big or small, are heavily investing in data and AI research and applications these days. And hence, it has become the hottest career. If you want to become a data and AI practitioner, there is no better time than this. 
+With more companies leveraging data intelligence solutions that runs on the cloud, there is a growing need to find and hire individuals with the skills needed to build data solutions on a variety of cloud platforms. 
 
-Aspirants are taking different approaches to get into the field, some are fortunate enough to be put into projects as freshers, but most aspirants are building their capabilities by learning theory and applying them on public data-sets.
+Organizations, big or small, are heavily investing in data intelligence research and applications these days. And hence, it has become the hottest career. If you want to become a data intelligence practitioner with cloud capabilities, there is no better time than this. 
 
-> While there is no dearth of free & paid material, too much of information has only confused the current crop of data aspirants.
+Aspirants are taking different approaches to get into the field, some are fortunate enough to be put into projects as freshers, but most aspirants are building their capabilities by learning theory and applying them on public data projects.
 
-Based on the questions that I am asked by them on day to day basis, I can see how perplexed they are. Not to say, taking advantage of the situation, most of the training institutes are minting money like anything, bundling even non-relevant courses as well in data and AI ones.
+> While there is no dearth of free & paid material, too much of information has only confused the current crop of data intelligence aspirants.
+
+Based on the questions that I am asked by them on day to day basis, I can see how perplexed they are. Not to say, taking advantage of the situation, most of the training institutes are minting money like anything, bundling even non-relevant courses as well in data intelligence ones.
 
 # Why this book?
 
-From a time around when data field started picking up, every other day I get many messages from starters & enthusiasts on ‘How can I get into data and AI field?’. Over a while, I have improvised my response based on the follow-up questions they ask like: 
+From a time around when data field started picking up, every other day I get many messages from starters & enthusiasts on ‘How can I get into data intelligence field?’. Over a while, I have improvised my response based on the follow-up questions they ask like: 
 
 1. What is the difference between different sub-fields (i.e. data science, data engineering, machine learning etc)? 
-2. What is the end-to-end process and what are the roles in data and AI, who does what? 
+2. What is the end-to-end process and what are the roles in data intelligence, who does what? 
 3. What are the main concepts, which tools and technologies they need to learn? 
 4. Which are the quality resources (books, courses, channels, blogs, podcasts etc) they need to refer to?
-5. How to build a data and AI portfolio based on your role? 
+5. How to build a data portfolio based on your role? 
 6. How to write a resume for data role? 
 7. How to build a helpful network with fellow data professionals?
 8. How to search for the job in data field? 
