@@ -11,7 +11,7 @@ It is probably not a secret that data has become one of the most exciting fields
 
 > Data intelligence literally means moving 'from data to intelligence'.
 
-Data intelligence refers to all the data analytics tools, techniques and methodologies business employ to form a better understanding of the data they collect to improve their services or investments. Data intelligence focuses on analysis and interaction with data in a meaningful way to promote better decision-making in the future.
+Data ecosystem refers to all the people, processes, tools and technologies business employ to form a better understanding of the data they collect to improve their services or investments. Data ecosystem focuses on analysis and interaction with data in a meaningful way to promote better decision-making in the future.
 
 Data solutions are not built in silos, data needs to be ingested, processed, analyzed and presented in a specific context to add value to business.
 
@@ -31,7 +31,7 @@ Based on the questions that I am asked by them on day to day basis, I can see ho
 
 From a time around when data field started picking up, every other day I get many messages from starters & enthusiasts on ‘How can I get into data intelligence field?’. Over a while, I have improvised my response based on the follow-up questions they ask like: 
 
-1. What is the difference between different data sub-fields (i.e. data science, data engineering, machine learning etc)? 
+1. What is the difference between different data sub-fields (i.e. data analytics, data engineering, data science etc)? 
 2. What is the end-to-end process and what are the roles in data, who does what? 
 3. What are the main concepts, which tools and technologies they need to learn? 
 4. Which are the quality resources (books, courses, channels, blogs, podcasts etc) they need to refer to?
@@ -42,7 +42,7 @@ From a time around when data field started picking up, every other day I get man
 9. How to prepare for the interview for a data role? 
 10. How to stay up-to-date in this still-evolving field? 
 
-You can notice that these questions are not conceptual ones and there is no dedicated material to address these challenges and roadblocks.
+You may notice that these questions are not conceptual ones and there is no dedicated material to address these challenges and roadblocks.
 
 How about a book or course that gives you enough exposure to the data field that you can yourself analyze what is needed for you and build your own roadmap? 
 
@@ -65,11 +65,11 @@ On an abstract level, it looks fairly simple, overall process can be divided int
 
 This book is organized into 8 chapters covering above mentioned framework end-to-end: 
 
-Chapter 1 covers the high-level approach to how you can build your road-map to learn data intelligence, and build a career in it.
+Chapter 1 covers the high-level approach to how you can build your road-map to learn data ecosystem, and build a career in it.
 
 Chapters 2–7 cover all the steps mentioned in chapter 1 in greater depth to give you enough knowledge to build your road-map.
 
-Chapter 8 guides on how to continue from here, keep yourself updated and remain ahead of the curve in this ever-evolving field.
+Chapter 8 guides on how to continue from here, keep yourself updated and remain ahead of the curve in the data field.
 
 # Who this book is for?
 
