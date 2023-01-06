@@ -9,11 +9,11 @@ permalink: /dsai-ssh/about-the-author/
 
 
 
-Ankit Rathi is a data science architect, published author & well-known speaker. His interest lies primarily in building end to end Data Science applications/products following best practices of Data Engineering and Architecture.
+Ankit Rathi is a data professional, published author & eloquent speaker. His interest lies primarily in building end to end data applications/products following best practices of data engineering and architecture.
 
-Ankit's work at SITA aero has revolved around building FlightPredictor product & strengthening the CoE capability. Earlier as a Principal Consultant at Genpact HCM, Ankit architected and deployed machine learning pipelines for various clients across different industries like Insurance, F&A. He was previously a Tech Lead at RBS IDC where he designed and developed various data-intensive applications in AML & Mortgages area.
+Ankit's work recently revolved around building data products & strengthening the data analytics CoE capability. Earlier, Ankit architected and deployed ML/AI pipelines for various clients/businesses across different industries like Banking, Insurance and ATI. 
 
-Ankit is a published author for various leading publications (check ankitrathi.com/blog & he is also a regular speaker at various Data Science conferences (Kaggle Days, PyData, Amity etc). He actively engages the audience on the core concepts & latest trends in Data & AI. He is followed by 30K+ data science practitioners & enthusiasts on LinkedIn.
+Ankit is a published author for various leading publications (check ankitrathi.com/blog & he is also a regular speaker at various Data conferences (Kaggle Days, PyData, Amity etc). He actively engages the audience on the core concepts & latest trends in Data Ecosystem. He is followed by 40K+ data practitioners & enthusiasts on LinkedIn.
 
 > Please note that all views & opinions expressed in this book are his own and not of his employer. 
 
