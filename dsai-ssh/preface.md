@@ -9,9 +9,11 @@ permalink: /dsai-ssh/preface/
 
 It is probably not a secret that data has become one of the most exciting fields of this age. Although it may seem the buzzword of our time, it is certainly not the hype. This exciting field opens the way to new possibilities and is becoming indispensable to our daily lives. 
 
-> Data intelligence literally means moving 'from data to intelligence'.
+Data in its raw form is not of much value in most of the cases. It needs to be transformed into information which can be helpful in decision making. If we can further fetch intelligence from information, we can automate the decision making itself.
 
-Data ecosystem refers to all the people, processes, tools and technologies business employ to form a better understanding of the data they collect to improve their services or investments. Data ecosystem focuses on analysis and interaction with data in a meaningful way to promote better decision-making in the future.
+> Data intelligence literally means 'moving from data to intelligence'.
+
+Data ecosystem refers to all the people, processes, tools and technologies businesses employ to form a better understanding of the data they collect to improve their services or investments. Data ecosystem focuses on analysis and interaction with data in a meaningful way to promote better decision-making in the future.
 
 Data solutions are not built in silos, data needs to be ingested, processed, analyzed and presented in a specific context to add value to business.
 
