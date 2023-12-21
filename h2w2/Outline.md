@@ -1,13 +1,11 @@
 # Title: "H2W2"
 
 ## [Preface](https://github.com/ankit-rathi/ankit-rathi.github.io/blob/main/h2w2/Preface.md)
-
-## [Introduction](https://github.com/ankit-rathi/ankit-rathi.github.io/blob/main/h2w2/Introduction.md)
 - Brief overview of the H2W2 framework
 - Explanation of how the framework addresses key life aspects
 - Purpose of the book
 
-## Chapter 1: Understanding the H2W2 Framework
+## [Chapter 1: Understanding the H2W2 Framework](https://github.com/ankit-rathi/ankit-rathi.github.io/blob/main/h2w2/Introduction.md)
 - Definition and origins of the H2W2 framework
 - Core principles and philosophy
 
