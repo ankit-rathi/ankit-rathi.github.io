@@ -1,6 +1,6 @@
 # Introduction:
 
-Welcome to a transformative exploration of life's fundamental dimensions through the lens of the H2W2 framework—Harmony 2 Well-being 2. This framework is not just a guide; it's a philosophy that weaves together the essential threads of our existence, offering a holistic approach to well-being.
+Welcome to a transformative exploration of life's fundamental dimensions through the lens of the H2W2 framework. This framework is not just a guide; it's a philosophy that weaves together the essential threads of our existence, offering a holistic approach to well-being.
 
 ## Understanding the H2W2 Framework
 
