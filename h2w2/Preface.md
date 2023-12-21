@@ -12,7 +12,7 @@ Throughout the book, you'll find practical advice, real-life examples, and exerc
 
 This isn't just a book; it's an invitation to embark on a transformative adventure—one that encourages self-reflection, growth, and the pursuit of a life that aligns with your deepest values. As you turn the pages, consider the possibilities that await, and remember that the journey to well-being is as important as the destination.
 
-So, let's set forth on this expedition together—exploring the delicate dance of health, the artistry of wealth, the wisdom within, and the pursuit of lasting happiness. Your journey to Harmony 2 Well-being 2 begins here.
+So, let's set forth on this expedition together—exploring the delicate dance of health, the artistry of wealth, the wisdom within, and the pursuit of lasting happiness. Your journey to H2W2 begins here.
 
 With warmth and anticipation,
 
