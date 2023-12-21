@@ -1,8 +1,8 @@
 # Title: "H2W2"
 
-## Preface
+## [Preface](https://github.com/ankit-rathi/ankit-rathi.github.io/blob/main/h2w2/Preface.md)
 
-## Introduction:
+## [Introduction](https://github.com/ankit-rathi/ankit-rathi.github.io/blob/main/h2w2/Introduction.md)
 - Brief overview of the H2W2 framework
 - Explanation of how the framework addresses key life aspects
 - Purpose of the book
