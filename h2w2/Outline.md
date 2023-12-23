@@ -1,8 +1,8 @@
 ## Preface
 ## Introduction
-- Overview of Health, Wealth, Wisdom, and Happiness.
-- Importance of a holistic and interconnected approach.
-## Chapter 1: Understanding Interconnectedness
+- My Story.
+- Why H2W2 Framework.
+## Chapter 1: Understanding H2W2 Framework
 - Exploring the H2W2 framework.
 - Interconnections between health, wealth, wisdom, and happiness.
 ## Chapter 2: Health - The Foundation
