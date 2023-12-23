@@ -1,6 +1,6 @@
 Dear Reader,
 
-Welcome to "H2W2" a journey through the transformative H2W2 framework designed to illuminate the path to a balanced and enriching life. In the midst of our fast-paced and ever-evolving world, the quest for fulfillment often seems like a daunting puzzle. This book serves as your compass, guiding you through the intricate landscape of health, wealth, wisdom, and happiness.
+Welcome to "H2W2 : A Framework for Health, Wealth, Wisdom and Happiness", a journey through the transformative H2W2 framework designed to illuminate the path to a balanced and enriching life. In the midst of our fast-paced and ever-evolving world, the quest for fulfillment often seems like a daunting puzzle. This book serves as your compass, guiding you through the intricate landscape of health, wealth, wisdom, and happiness.
 
 As we embark on this exploration together, consider this preface a warm invitation to a space where personal growth and holistic well-being take center stage. The H2W2 framework isn't just a theoretical concept; it's a practical guide crafted to empower you to lead a life that resonates with your deepest values and aspirations.
 
