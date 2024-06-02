@@ -8,7 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 
-# Peaceful Tradevesting with Python
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*AY02vPmfSBvWxsRf4BQ3Qg.png){:width="100%"}
 
 ## General
 - [My Journey](https://medium.com/@rathi-ankit/my-journey-to-peaceful-tradevesting-with-python-1f00cc634871)
