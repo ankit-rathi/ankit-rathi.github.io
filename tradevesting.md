@@ -8,8 +8,6 @@ sitemap:
     changefreq: weekly
 ---
 
-# Peaceful Tradevesting with Pytthon
-
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*AY02vPmfSBvWxsRf4BQ3Qg.png){:width="100%"}
 
 ## General
