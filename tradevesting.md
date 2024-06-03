@@ -32,7 +32,7 @@ sitemap:
 - Macroeconomics
 
 ## Hands-On
-- Learning Just Enough Python
+- [Learning Just Enough Python](https://rathi-ankit.medium.com/just-enough-python-for-tradevestors-d2960050355d)
 - Quantifying with Python
 - Automating with Python
 - Prospects Analysis
