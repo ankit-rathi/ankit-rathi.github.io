@@ -14,7 +14,7 @@ sitemap:
 - [My Journey](https://medium.com/@rathi-ankit/my-journey-to-peaceful-tradevesting-with-python-1f00cc634871)
 - [My 12 Key Learnings](https://medium.com/@rathi-ankit/my-12-key-learnings-as-tradevestor-9796709aeda4)
 - [Basics of Stock Market](https://rathi-ankit.medium.com/stock-market-basics-622143eb91cf)
-- How to be Peaceful in Stock Market?
+- [How to remain Peaceful in Stock Market?](https://rathi-ankit.medium.com/how-to-remain-peaceful-in-stock-market-a7e3b041e078)
 - What is Tradevesting?
 - Tradevesting Methodology 
 - How to leverage Python?
