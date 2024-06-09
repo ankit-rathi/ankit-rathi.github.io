@@ -15,7 +15,7 @@ sitemap:
 - [My 12 Key Learnings](https://medium.com/@rathi-ankit/my-12-key-learnings-as-tradevestor-9796709aeda4)
 - [Basics of Stock Market](https://rathi-ankit.medium.com/stock-market-basics-622143eb91cf)
 - [How to remain Peaceful in Stock Market?](https://rathi-ankit.medium.com/how-to-remain-peaceful-in-stock-market-a7e3b041e078)
-- What is Tradevesting?
+- [What is Tradevesting?](https://rathi-ankit.medium.com/what-is-tradevesting-fa3e0bbc7ae5)
 - Tradevesting Methodology 
 - How to leverage Python?
 
