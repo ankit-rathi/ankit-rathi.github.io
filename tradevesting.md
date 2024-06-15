@@ -29,7 +29,7 @@ sitemap:
 - Valuation Analysis
 - Operators and Market Cycles
 - Industry Analysis
-- Macroeconomics
+- [Macroeconomics Analysis](https://rathi-ankit.medium.com/macroeconomic-analysis-80ce8c6c42d4)
 
 ## Hands-On
 - [Learning Just Enough Python](https://rathi-ankit.medium.com/just-enough-python-for-tradevestors-d2960050355d)
