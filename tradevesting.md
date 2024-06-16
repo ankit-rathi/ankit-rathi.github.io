@@ -26,7 +26,7 @@ sitemap:
 - Technical Analysis
 - Trading Strategies
 - Intrinsic Value and Margin of Safety
-- Valuation Analysis
+- [Valuation Analysis](https://rathi-ankit.medium.com/valuation-analysis-de107027f272)
 - Operators and Market Cycles
 - Industry Analysis
 - [Macroeconomics Analysis](https://rathi-ankit.medium.com/macroeconomic-analysis-80ce8c6c42d4)
