@@ -28,7 +28,7 @@ sitemap:
 - Intrinsic Value and Margin of Safety
 - [Valuation Analysis](https://rathi-ankit.medium.com/valuation-analysis-de107027f272)
 - Operators and Market Cycles
-- Industry Analysis
+- [Industry Analysis](https://rathi-ankit.medium.com/industry-analysis-98a32d012351)
 - [Macroeconomics Analysis](https://rathi-ankit.medium.com/macroeconomic-analysis-80ce8c6c42d4)
 
 ## Hands-On
