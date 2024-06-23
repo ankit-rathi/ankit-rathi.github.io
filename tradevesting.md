@@ -21,7 +21,7 @@ sitemap:
 
 ## In-Depth
 - [Business Analysis](https://medium.com/@rathi-ankit/business-analysis-22266132b950)
-- Fundamental Analysis
+- [Fundamental Analysis](https://medium.com/@rathi-ankit/fundamental-analysis-39cf2b402a41)
 - Stock Selection Criteria
 - Technical Analysis
 - Trading Strategies
