@@ -19,12 +19,7 @@ sitemap:
 
 <article>
     <header>
-        <h2><a href="{{ "/data-ai-bytes" | absolute_url }}" class="button">Data and AI Bytes</a></h2>
-    </header>
-</article>
-
-<article>
-    <header>
         <h2><a href="{{ "/data-ai-concepts" | absolute_url }}" class="button">Data and AI Concepts</a></h2>
     </header>
 </article>
+
