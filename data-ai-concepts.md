@@ -16,10 +16,10 @@
 - Data Lakehouse Architecture and Concepts
 
 ## Data Engineering on AWS
-Data Ingestion on AWS
-Data Transformations on AWS services
-Data Pipelines on AWS 
-Data Consumption on AWS
+- Data Ingestion on AWS
+- Data Transformations on AWS
+- Data Pipelines on AWS 
+- Data Consumption on AWS
 
 ## Data Governance on AWS
 - Different aspects of Data Governance
