@@ -2,6 +2,7 @@
 
 ## Data Literacy
 - [A Brief History of Data](https://medium.com/@rathi-ankit/a-brief-history-of-data-bc4d9ae475fe)
+- [Making Sense of Data](https://rathi-ankit.medium.com/making-sense-of-data-ddc9bc4daec5)
 
 
 ## Data Engineering on Cloud
