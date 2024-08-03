@@ -31,6 +31,7 @@ sitemap:
 - [Operators and Market Cycles](https://medium.com/@rathi-ankit/operators-and-stock-market-cycles-b99f05415abe)
 - [Industry Analysis](https://rathi-ankit.medium.com/industry-analysis-98a32d012351)
 - [Macroeconomics Analysis](https://rathi-ankit.medium.com/macroeconomic-analysis-80ce8c6c42d4)
+- [Random Walk Hypothesis (RWH) vs Efficient Market Hypothesis (EMH)](https://rathi-ankit.medium.com/random-walk-hypothesis-rwh-vs-efficient-market-hypothesis-emh-29c14f439a27)
 
 ## Hands-On
 - [Learning Just Enough Python](https://rathi-ankit.medium.com/just-enough-python-for-tradevestors-d2960050355d)
