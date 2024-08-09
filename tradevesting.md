@@ -26,7 +26,7 @@ sitemap:
 - Stock Selection Criteria
 - [Technical Analysis](https://medium.com/@rathi-ankit/technical-analysis-d5eacf715d28)
 - Trading Strategies
-- Intrinsic Value and Margin of Safety
+- [Intrinsic Value and Margin of Safety](https://medium.com/@rathi-ankit/intrinsic-value-and-margin-of-safety-857ecf11f680)
 - [Valuation Analysis](https://rathi-ankit.medium.com/valuation-analysis-de107027f272)
 - [Operators and Market Cycles](https://medium.com/@rathi-ankit/operators-and-stock-market-cycles-b99f05415abe)
 - [Industry Analysis](https://rathi-ankit.medium.com/industry-analysis-98a32d012351)
