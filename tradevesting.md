@@ -25,7 +25,7 @@ sitemap:
 - [Fundamental Analysis](https://medium.com/@rathi-ankit/fundamental-analysis-39cf2b402a41)
 - [Stock Selection Criteria](https://medium.com/@rathi-ankit/stock-selection-criteria-dab42e1e3870)
 - [Technical Analysis](https://medium.com/@rathi-ankit/technical-analysis-d5eacf715d28)
-- Trading Strategies
+- [Trading Strategies](https://medium.com/@rathi-ankit/building-your-trading-strategies-959b2334ad0d)
 - [Intrinsic Value and Margin of Safety](https://medium.com/@rathi-ankit/intrinsic-value-and-margin-of-safety-857ecf11f680)
 - [Valuation Analysis](https://rathi-ankit.medium.com/valuation-analysis-de107027f272)
 - [Operators and Market Cycles](https://medium.com/@rathi-ankit/operators-and-stock-market-cycles-b99f05415abe)
