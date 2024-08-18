@@ -35,8 +35,7 @@ sitemap:
 
 ## Hands-On
 - [Learning Just Enough Python](https://rathi-ankit.medium.com/just-enough-python-for-tradevestors-d2960050355d)
-- Quantifying with Python
-- Automating with Python
+- [Quantifying and Automating with Python](https://rathi-ankit.medium.com/quantifying-and-automating-with-python-796efc705690)
 - Prospects Analysis
 - Portfolio Analysis
 - Buy Sell Recommendations
