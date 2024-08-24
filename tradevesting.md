@@ -18,13 +18,13 @@ sitemap:
 - [How to remain Peaceful in Stock Market?](https://rathi-ankit.medium.com/how-to-remain-peaceful-in-stock-market-a7e3b041e078)
 - [What is Tradevesting?](https://rathi-ankit.medium.com/what-is-tradevesting-fa3e0bbc7ae5)
 - [Tradevesting Methodology](https://medium.com/@rathi-ankit/tradevesting-methodology-122cc45572b1)
-- [How I built my Stock Universe?](https://medium.com/@rathi-ankit/how-i-built-my-stock-universe-2ea116af6205)
 - How to leverage Python?
 
 ## In-Depth
 - [Business Analysis](https://medium.com/@rathi-ankit/business-analysis-22266132b950)
 - [Fundamental Analysis](https://medium.com/@rathi-ankit/fundamental-analysis-39cf2b402a41)
 - [Stock Selection Criteria](https://medium.com/@rathi-ankit/stock-selection-criteria-dab42e1e3870)
+- [How I built my Stock Universe?](https://medium.com/@rathi-ankit/how-i-built-my-stock-universe-2ea116af6205)
 - [Technical Analysis](https://medium.com/@rathi-ankit/technical-analysis-d5eacf715d28)
 - [Trading Strategies](https://medium.com/@rathi-ankit/building-your-trading-strategies-959b2334ad0d)
 - [Intrinsic Value and Margin of Safety](https://medium.com/@rathi-ankit/intrinsic-value-and-margin-of-safety-857ecf11f680)
