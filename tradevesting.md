@@ -17,7 +17,8 @@ sitemap:
 - [Basics of Stock Market](https://rathi-ankit.medium.com/stock-market-basics-622143eb91cf)
 - [How to remain Peaceful in Stock Market?](https://rathi-ankit.medium.com/how-to-remain-peaceful-in-stock-market-a7e3b041e078)
 - [What is Tradevesting?](https://rathi-ankit.medium.com/what-is-tradevesting-fa3e0bbc7ae5)
-- [Tradevesting Methodology](https://medium.com/@rathi-ankit/tradevesting-methodology-122cc45572b1) 
+- [Tradevesting Methodology](https://medium.com/@rathi-ankit/tradevesting-methodology-122cc45572b1)
+- [How I built my Stock Universe?](https://medium.com/@rathi-ankit/how-i-built-my-stock-universe-2ea116af6205)
 - How to leverage Python?
 
 ## In-Depth
