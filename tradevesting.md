@@ -8,9 +8,10 @@ sitemap:
     changefreq: weekly
 ---
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*AY02vPmfSBvWxsRf4BQ3Qg.png){:width="100%"}
+# Peaceful Tradevesting
+## For Techies
 
-## General
+### General
 - [My Journey](https://medium.com/@rathi-ankit/my-journey-to-peaceful-tradevesting-with-python-1f00cc634871)
 - [What I learnt reading top 15 books on Investment?](https://rathi-ankit.medium.com/what-i-learnt-reading-top-15-books-on-investment-615561a076fe)
 - [12 Key Learnings](https://medium.com/@rathi-ankit/my-12-key-learnings-as-tradevestor-9796709aeda4)
@@ -20,7 +21,7 @@ sitemap:
 - [Tradevesting Methodology](https://medium.com/@rathi-ankit/tradevesting-methodology-122cc45572b1)
 - [How to leverage Python?](https://medium.com/@rathi-ankit/how-to-leverage-python-d5e026a857d3)
 
-## In-Depth
+### In-Depth
 - [Business Analysis](https://medium.com/@rathi-ankit/business-analysis-22266132b950)
 - [Fundamental Analysis](https://medium.com/@rathi-ankit/fundamental-analysis-39cf2b402a41)
 - [Stock Selection Criteria](https://medium.com/@rathi-ankit/stock-selection-criteria-dab42e1e3870)
@@ -34,7 +35,7 @@ sitemap:
 - [Macroeconomics Analysis](https://rathi-ankit.medium.com/macroeconomic-analysis-80ce8c6c42d4)
 - [Random Walk Hypothesis (RWH) vs Efficient Market Hypothesis (EMH)](https://rathi-ankit.medium.com/random-walk-hypothesis-rwh-vs-efficient-market-hypothesis-emh-29c14f439a27)
 
-## Hands-On
+### Hands-On
 - [Learning Just Enough Python](https://rathi-ankit.medium.com/just-enough-python-for-tradevestors-d2960050355d)
 - [Quantifying and Automating with Python](https://rathi-ankit.medium.com/quantifying-and-automating-with-python-796efc705690)
 - Prospects Analysis
