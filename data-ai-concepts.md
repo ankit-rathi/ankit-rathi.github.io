@@ -2,7 +2,7 @@
 ## Fundamentals
 
 - Introduction
-- Data Fundamentals: Types, quality, and collection.
+- Data Fundamentals: Definition, types, quality, and collection methods.
 - Data Engineering: Storage, pipelines, and integration.
 - Data Architecture: Design, scalability, and cloud computing.
 - Data Governance: Policies, security, and stewardship.
