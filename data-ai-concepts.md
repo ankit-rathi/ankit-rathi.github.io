@@ -2,14 +2,39 @@
 ## Fundamentals
 
 - Introduction
-- Data Fundamentals: Definition, types, quality, and collection methods.
-- Data Engineering: Storage, pipelines, and integration.
-- Data Architecture: Design, scalability, and cloud computing.
-- Data Governance: Policies, security, and stewardship.
-- Data Analytics: Descriptive, predictive, and prescriptive analytics.
+- Data Fundamentals:
+  - Definition
+  - Types of Data
+  - Data Quality
+  - Collection methods
+- Data Engineering: 
+  - Data Storage
+  - Data Pipelines
+  - Data Integration
+- Data Architecture: 
+  - Data Design
+  - Data Scalability
+  - Cloud Computing
+- Data Governance: 
+  - Data Policies
+  - Data Security
+  - Data Stewardship
+- Data Analytics: 
+  - Descriptive
+  - Predictive
+  - Prescriptive
 - Data Science: Statistical analysis, programming, and data cleaning.
+  - Statistical Analysis
+  - Programming
+  - Data Cleaning
 - Machine Learning: Types of learning, model evaluation, and neural networks.
+  - Types of Learning
+  - Model Evaluation
+  - Neural Networks
 - AI Fundamentals: Concepts, ethics, and applications.
+  - Concepts
+  - Ethics
+  - Applications
 - Conclusion
 
 
