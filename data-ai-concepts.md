@@ -3,7 +3,7 @@
 
 - Introduction
 - Data Fundamentals:
-  - Definition
+  - [Making Friends with Data](https://medium.com/@rathi-ankit/making-friends-with-data-a4c919cb8132)
   - Types of Data
   - Data Quality
   - Collection methods
