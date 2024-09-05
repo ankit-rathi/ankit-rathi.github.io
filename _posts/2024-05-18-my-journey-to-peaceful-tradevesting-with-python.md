@@ -1,22 +1,23 @@
-Title: My Journey to Peaceful Tradevesting with Python
-Date: 2024-05-18 06:53
-Author: ankitrathi
-Category: Uncategorized
-Tags: Stock Market
-Slug: capsule-neural-networks-capsnets
-Status: published
+---
+toc: true
+layout: post
+description: Framework for Stock Market
+categories: [post]
+title: My Journey to Peaceful Tradevesting with Python
+---
 
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vKtWR293fhbStOJN4IrsZw.png){:width="100%"}
 
 These are the excerpts from the session on ‘My Journey to Peaceful Tradevesting with Python’.
 
-Please note: The content (including my journey, approach, illustrations and examples) I shared here is for education and learning purpose only. There is no suggestion or recommendation of any kind, please do your own research before investing/trading.
+*Please note: The content (including my journey, approach, illustrations and examples) I shared here is for education and learning purpose only. There is no suggestion or recommendation of any kind, please do your own research before investing/trading.*
 
 In this session, you will learn:
 
-What is Tradevesting?
-How can you remain Peaceful in stock market?
-How can you leverage Python (or any other programming language) for peaceful tradevesting?
+- What is Tradevesting?
+- How can you remain Peaceful in stock market?
+- How can you leverage Python (or any other programming language) for peaceful tradevesting?
+  
 Please feel free to check my other articles on this topic here: https://ankit-rathi.github.io/tradevesting/
 
 
@@ -138,8 +139,6 @@ Twitter Bio: https://twitter.com/rathiankit
 
 If you loved this story, please feel free to check my other articles on this topic here: https://ankit-rathi.github.io/tradevesting/
 
-Ankit Rathi is a data techie and weekend tradevestor. His interest lies primarily in building end-to-end data applications/products and making money in stock market using Tradevesting methodology.
-
 ------------------------------------------------------------------------
 
-*Thank you for reading my post. I regularly write about Data & Technology on* [*LinkedIn*](https://www.linkedin.com/today/posts/ankitrathi) *&* [*Medium*](https://medium.com/@rathi.ankit)*. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also feel free to connect on* [*Slideshare*](https://www.slideshare.net/ankitrathi)*.*
+*Ankit Rathi is a data techie and weekend tradevestor. His interest lies primarily in building end-to-end data applications/products and making money in stock market using Tradevesting methodology.*
