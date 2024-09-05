@@ -23,15 +23,15 @@
   - Descriptive
   - Predictive
   - Prescriptive
-- Data Science: Statistical analysis, programming, and data cleaning.
+- Data Science: 
   - Statistical Analysis
   - Programming
   - Data Cleaning
-- Machine Learning: Types of learning, model evaluation, and neural networks.
+- Machine Learning: 
   - Types of Learning
   - Model Evaluation
   - Neural Networks
-- AI Fundamentals: Concepts, ethics, and applications.
+- AI Fundamentals: 
   - Concepts
   - Ethics
   - Applications
