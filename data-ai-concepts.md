@@ -4,7 +4,7 @@
 - Introduction
 - Data Fundamentals:
   - [Making Friends with Data](https://medium.com/@rathi-ankit/making-friends-with-data-a4c919cb8132)
-  - Types of Data
+  - [Different Data Formats](https://medium.com/@rathi-ankit/different-data-formats-1ebdd61c5621)
   - Data Quality
   - Collection methods
 - Data Engineering: 
