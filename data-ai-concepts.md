@@ -5,7 +5,7 @@
 - Data Fundamentals:
   - [Making Friends with Data](https://medium.com/@rathi-ankit/making-friends-with-data-a4c919cb8132)
   - [Different Data Formats](https://medium.com/@rathi-ankit/different-data-formats-1ebdd61c5621)
-  - Data Processing Systems
+  - [Data Processing (OLTP vs OLAP)](https://medium.com/@rathi-ankit/data-processing-oltp-vs-olap-836d95c348fb)
   - DIKW Pyramid
   - Data Quality
   - Data Collection Methods
