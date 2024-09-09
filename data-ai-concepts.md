@@ -5,36 +5,53 @@
 - Data Fundamentals:
   - [Making Friends with Data](https://medium.com/@rathi-ankit/making-friends-with-data-a4c919cb8132)
   - [Different Data Formats](https://medium.com/@rathi-ankit/different-data-formats-1ebdd61c5621)
+  - Data Processing Systems
+  - DIKW Pyramid
   - Data Quality
-  - Collection methods
+  - Data Collection Methods
+  - Big Data (4Vs)
+  - Data Lifecycle
 - Data Engineering: 
   - Data Storage
-  - Data Pipelines
+  - Data Pipelines (ETL/ELT)
   - Data Integration
+  - Data Orchestration
 - Data Architecture: 
   - Data Design
   - Data Scalability
+  - Data Lakehouse
+  - Data Mesh/Fabric
   - Cloud Computing
 - Data Governance: 
   - Data Policies
+  - Data Privacy
   - Data Security
   - Data Stewardship
 - Data Analytics: 
   - Descriptive
   - Predictive
+  - Diagnostic Analytics
   - Prescriptive
+  - Real-time Analytics
 - Data Science: 
   - Statistical Analysis
   - Programming
   - Data Cleaning
+  - Feature Engineering
+  - Model Deployment and Monitoring
 - Machine Learning: 
   - Types of Learning
   - Model Evaluation
   - Neural Networks
+  - Transfer Learning
+  - Reinforcement Learning
+  - Explainable AI (XAI)
 - AI Fundamentals: 
   - Concepts
-  - Ethics
+  - Ethics & Regulation
   - Applications
+  - Natural Language Processing (NLP)
+  - Computer Vision
 - Conclusion
 
 
