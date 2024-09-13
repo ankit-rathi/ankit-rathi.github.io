@@ -1,13 +1,15 @@
 # Data and AI
 ## Fundamentals
 
+Note: some of the articles are in draft stage...
+
 - Introduction
 - Data Fundamentals:
   - [Making Friends with Data](https://medium.com/@rathi-ankit/making-friends-with-data-a4c919cb8132)
   - [Different Data Formats](https://medium.com/@rathi-ankit/different-data-formats-1ebdd61c5621)
   - [Data Processing (OLTP vs OLAP)](https://medium.com/@rathi-ankit/data-processing-oltp-vs-olap-836d95c348fb)
-  - [DIKW Concepts](https://medium.com/@rathi-ankit/dikw-concepts-c01bbba5d33c)
-  - Data Quality
+  - [DIKW Pyramid](https://medium.com/@rathi-ankit/dikw-pyramid-c01bbba5d33c)
+  - [Dealing with Data Quality](https://medium.com/@rathi-ankit/dealing-with-data-quality-b39f3cbc2fd0)
   - Data Collection Methods
   - Big Data (4Vs)
   - Data Lifecycle
