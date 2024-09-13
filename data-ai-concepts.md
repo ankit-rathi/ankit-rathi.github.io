@@ -3,7 +3,7 @@
 
 Note: some of the articles are in draft stage...
 
-- Introduction
+- [Introduction](https://medium.com/@rathi-ankit/data-and-ai-fundamentals-7abeba53e5dd)
 - Data Fundamentals:
   - [Making Friends with Data](https://medium.com/@rathi-ankit/making-friends-with-data-a4c919cb8132)
   - [Different Data Formats](https://medium.com/@rathi-ankit/different-data-formats-1ebdd61c5621)
