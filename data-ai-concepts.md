@@ -13,10 +13,10 @@ Note: some of the articles are in draft stage...
   - Big Data (4Vs)
   - Data Lifecycle
 - Data Engineering:
-  - Data Collection Methods
+  - Data Ingestion
   - Data Storage
-  - Data Pipelines (ETL/ELT)
-  - Data Integration
+  - Data Transformation
+  - Data Service
   - Data Orchestration
 - Data Analytics: 
   - Descriptive
