@@ -10,14 +10,25 @@ Note: some of the articles are in draft stage...
   - [Data Processing (OLTP vs OLAP)](https://medium.com/@rathi-ankit/data-processing-oltp-vs-olap-836d95c348fb)
   - [DIKW Pyramid](https://medium.com/@rathi-ankit/dikw-pyramid-c01bbba5d33c)
   - [Dealing with Data Quality](https://medium.com/@rathi-ankit/dealing-with-data-quality-b39f3cbc2fd0)
-  - Data Collection Methods
   - Big Data (4Vs)
   - Data Lifecycle
-- Data Engineering: 
+- Data Engineering:
+  - Data Collection Methods
   - Data Storage
   - Data Pipelines (ETL/ELT)
   - Data Integration
   - Data Orchestration
+- Data Analytics: 
+  - Descriptive
+  - Predictive
+  - Diagnostic Analytics
+  - Prescriptive
+  - Real-time Analytics
+- Data Strategy
+  - Business Alignment
+  - Emerging Technologies
+  - Data Culture
+  - Performance Measurement
 - Data Architecture: 
   - Data Design
   - Data Scalability
@@ -29,12 +40,6 @@ Note: some of the articles are in draft stage...
   - Data Privacy
   - Data Security
   - Data Stewardship
-- Data Analytics: 
-  - Descriptive
-  - Predictive
-  - Diagnostic Analytics
-  - Prescriptive
-  - Real-time Analytics
 - Data Science: 
   - Statistical Analysis
   - Programming
