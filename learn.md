@@ -9,8 +9,6 @@ sitemap:
 ---
 
 
-# Work In Progress
-
 <article>
     <header>
         <h2><a href="{{ "https://rathi-ankit.medium.com/" }}" class="button">Medium Blog</a></h2>
@@ -19,13 +17,19 @@ sitemap:
 
 <article>
     <header>
-        <h2><a href="{{ "/tradevesting" | absolute_url }}" class="button">Tradevesting</a></h2>
+        <h2><a href="{{ "/tradevesting" | absolute_url }}" class="button">Quantvesting</a></h2>
     </header>
 </article>
 
 <article>
     <header>
-        <h2><a href="{{ "/data-ai-concepts" | absolute_url }}" class="button">Data and AI Concepts</a></h2>
+        <h2><a href="{{ "/data-ai-concepts" | absolute_url }}" class="button">Data Ecosystem Concepts</a></h2>
+    </header>
+</article>
+
+<article>
+    <header>
+        <h2><a href="{{ "/dsai-ssh" | absolute_url }}" class="button">DS/AI SSH</a></h2>
     </header>
 </article>
 
