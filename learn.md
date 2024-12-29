@@ -13,6 +13,12 @@ sitemap:
 
 <article>
     <header>
+        <h2><a href="{{ "https://rathi-ankit.medium.com/" }}" class="button">Medium Blog</a></h2>
+    </header>
+</article>
+
+<article>
+    <header>
         <h2><a href="{{ "/tradevesting" | absolute_url }}" class="button">Tradevesting</a></h2>
     </header>
 </article>
