@@ -1,23 +1,11 @@
-# Data and AI
-## Fundamentals
+# Data Ecosystem
+## Concepts
 
 Note: some of the articles are in draft stage...
 
-- [Introduction](https://medium.com/@rathi-ankit/data-and-ai-fundamentals-7abeba53e5dd)
-- Data Fundamentals:
-  - [Making Friends with Data](https://medium.com/@rathi-ankit/making-friends-with-data-a4c919cb8132)
-  - [Different Data Formats](https://medium.com/@rathi-ankit/different-data-formats-1ebdd61c5621)
-  - [Data Processing (OLTP vs OLAP)](https://medium.com/@rathi-ankit/data-processing-oltp-vs-olap-836d95c348fb)
-  - [DIKW Pyramid](https://medium.com/@rathi-ankit/dikw-pyramid-c01bbba5d33c)
-  - [Dealing with Data Quality](https://medium.com/@rathi-ankit/dealing-with-data-quality-b39f3cbc2fd0)
-  - Big Data (4Vs)
-  - Data Lifecycle
-- Data Engineering:
-  - Data Ingestion
-  - Data Storage
-  - Data Transformation
-  - Data Service
-  - Data Orchestration
+- [Data Fundamentals](https://rathi-ankit.medium.com/data-fundamentals-7b189ba0763d)
+- [Data Engineering](https://rathi-ankit.medium.com/data-engineering-turning-raw-data-into-actionable-insights-4a0a436b0eec)
+
 - Data Analytics: 
   - Descriptive
   - Predictive
