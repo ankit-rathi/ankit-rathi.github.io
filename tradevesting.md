@@ -8,7 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 
-# Peaceful Tradevesting
+# Peaceful Quantvesting
 ## For Techies
 
 ### General
@@ -17,8 +17,8 @@ sitemap:
 - [12 Key Learnings](https://medium.com/@rathi-ankit/my-12-key-learnings-as-tradevestor-9796709aeda4)
 - [Basics of Stock Market](https://rathi-ankit.medium.com/stock-market-basics-622143eb91cf)
 - [How to remain Peaceful in Stock Market?](https://rathi-ankit.medium.com/how-to-remain-peaceful-in-stock-market-a7e3b041e078)
-- [What is Tradevesting?](https://rathi-ankit.medium.com/what-is-tradevesting-fa3e0bbc7ae5)
-- [Tradevesting Methodology](https://medium.com/@rathi-ankit/tradevesting-methodology-122cc45572b1)
+- [What is Quantvesting?](https://rathi-ankit.medium.com/what-is-tradevesting-fa3e0bbc7ae5)
+- [Quantvesting Methodology](https://medium.com/@rathi-ankit/tradevesting-methodology-122cc45572b1)
 - [How to leverage Python?](https://medium.com/@rathi-ankit/how-to-leverage-python-d5e026a857d3)
 
 ### In-Depth
