@@ -7,28 +7,25 @@ sitemap:
     lastmod: 2018-03-17
     changefreq: weekly
 ---
-## data techie and weekend tradevestor
+## data techie and weekend quantvestor
 
 <span class="image left"><img src="{{ "/images/profile-pic.png" | absolute_url }}" alt="" /></span>
 
 Hey,
 
-I am a data techie and weekend tradevestor. 
+I'm a seasoned Data & AI professional with nearly two decades of experience turning raw data into real-world impact. My journey started in 2005 as a SQL developer and evolved through roles in PL/SQL, ETL, data architecture, machine learning, and now modern data platforms.
 
-As a data technologist, I build end-to-end data analytics applications/products following best practices of data engineering and architecture. 
+Along the way, I became a Kaggle Competitions Expert, spoke at conferences like PyData and Kaggle Days, and published two books to help others grow in this space.
 
-As a tradevestor, I use data analytics and programming to quantify and automate stock trading/investing over the weekends.
+Today, I help experienced ML/AI professionals and business leaders cut through the hype, make strategic bets, and build AI systems that actually work.
 
-My work at SITA aero has revolved around building FlightPredictor product & strengthening the CoE capability. 
+I sit at the intersection of:
 
-Earlier as a Principal Consultant at Genpact HCM, I architected and deployed machine learning pipelines for various clients across different industries like Insurance, F&A. 
+- Applied ML/DL/LLM knowledge
+- Product thinking and solution design
+- Business strategy and decision-making
+- Responsible and ethical AI deployment
 
-I was previously a Tech Lead at RBS IDC where I designed and developed various data-intensive applications in AML & Mortgages area. 
+I also built Quantvesting, my own data-driven investing framework — blending personal passion with technical depth.
 
-I am a published author for various leading publications (check ankitrathi.com/blog) and I am also a regular speaker at various data science conferences (Kaggle Days, PyData, Amity etc). 
-
-I actively engage the audience on the core concepts & latest trends in data and AI. I am followed by 40K+ data science practitioners & enthusiasts on LinkedIn.
-
-Specialities: data engineering, data science, data architecture, data strategy, big data, cloud computing
-
-Tools/Technologies: SQL, Python, PySpark, AWS, Azure, TensorFlow, Cassandra, Hive, Presto, PowerBI, DevOps, CI/CD
+Let’s connect if you're navigating the Data & AI space and value clarity, impact, and grounded thinking.
