@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: wqblog
 title: Blog Page - Weekend Quantvestor
 description: Data is my game.
 sitemap:
