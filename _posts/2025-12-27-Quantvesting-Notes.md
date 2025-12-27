@@ -31,9 +31,3 @@ Note: These are my notes from online classes available on [Trading with Vivek](h
 --> Tax Savings in stocks trading/investing
 
 #trading #investing #stock
-*****
-
-[Ankit Rathi](https://www.ankitrathi.com/) *is a Cloud Data Technologist,
-published author & well-known speaker. His interest lies primarily in building
-end-to-end data/AI applications/products following best practices of Data Engineering
-and Architecture.*
