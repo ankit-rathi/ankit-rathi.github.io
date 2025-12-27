@@ -5,6 +5,7 @@ description: Notes from Trading with Vivek
 categories: [wqpost]
 title: Quantvesting Notes
 ---
+Notes from Trading with Vivek
 
 Note: These are my notes from online classes available on [Trading with Vivek](https://www.youtube.com/@TradingWithVivek) YouTube channel (for free), huge thanks to [Vivek Singhal](https://twitter.com/theviveksinghal) for sharing his invaluable knowledge and wisdom.
 
