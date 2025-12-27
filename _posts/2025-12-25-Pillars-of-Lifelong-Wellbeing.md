@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: Health, Wealth, and Beyond
 categories: [post]
-title: Pillars of Lifelong Well-Being
+title: Pillars of Life
 ---
 
 Health, Wealth, and Beyond
