@@ -1,6 +1,6 @@
 ---
 toc: true
-layout: wqpost
+layout: post
 description: Notes from Trading with Vivek
 categories: [wqpost]
 title: Quantvesting Notes
