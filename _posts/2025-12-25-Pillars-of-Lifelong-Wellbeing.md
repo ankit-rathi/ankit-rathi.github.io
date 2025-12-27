@@ -1,5 +1,12 @@
-# Pillars of Lifelong Well-Being  
-*Health, Wealth, and Beyond*
+---
+toc: true
+layout: post
+description: Health, Wealth, and Beyond
+categories: [post]
+title: Pillars of Lifelong Well-Being
+---
+
+Health, Wealth, and Beyond
 
 Most people think well-being is about one thing—money, fitness, or happiness. In reality, lifelong well-being is built on **multiple interconnected pillars**, and ignoring even one weakens the whole structure.
 
