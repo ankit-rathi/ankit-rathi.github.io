@@ -17,7 +17,7 @@ sitemap:
 
 <article>
     <header>
-        <h2><a href="https://ankitrathi.substack.com/" class="button">Personal Finance Blog</a></h2>
+        <h2><a href="https://ankit-rathi.github.io/blog/" class="button">Weekend Quantvestor Blog</a></h2>
     </header>
 </article>
 
