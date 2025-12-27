@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Notes from Trading with Vivek
-categories: [wqpost]
+categories: [post]
 title: Quantvesting Notes
 ---
 Notes from Trading with Vivek
