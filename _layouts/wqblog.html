@@ -1,0 +1,79 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		{% include head.html %}
+	</head>
+	<body class="is-loading">
+		<!-- Wrapper -->
+		<div id="wrapper" class="fade-in">
+			<!-- Header -->
+			<header id="header">
+				<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+			</header>
+
+			<!-- Nav -->
+			<nav id="nav">
+				{% include nav.html %}
+			</nav>
+
+			<!-- Main -->
+			<div id="main">
+				<article class="wq post featured">
+					<header class="major">
+						<h2><a href="#">Data with AR</a></h2>
+						<p>Stories About Data {Science, Engineering and Architecture}</p>
+					</header>
+				</article>
+
+				<!-- WQ Post -->
+				<section class="wqposts">
+					{% for wqpost in site.wqposts %}
+						<!-- {% unless post.category == "learn" %} -->
+						<!-- 	{% assign mod3 = forloop.index | modulo: 3 %} -->
+								<article>
+									<header>
+										<span class="date">{{ wqpost.date | date_to_string }}</span>
+										<h2><a href="{{ post.url | absolute_url }}">{{ wqpost.title }}</h2>
+									</header>
+									<a href="{{ wqpost.url | absolute_url }}" class="image fit"><img src="{{ wqpost.image | absolute_url }}" alt=""/>
+									 <p>{{ wqpost.excerpt | truncate: 100 | strip_newlines }}</p> 
+									</a>
+									<ul class="actions">
+										<li><a href="{{ wqpost.url | absolute_url }}" class="button">Full Story</a></li>
+									</ul> 
+								</article>
+								
+						<!--	{% if mod3 == 0 %}
+								<article>
+									<header>
+										<h2><a href="#">Sponsored</h2>
+									</header>
+
+								</article>
+							{% endif %}    -->
+					<!--	{% endunless %} -->
+					{% endfor %}
+				</section>
+				
+				<!-- Footer -->
+				<footer>
+					{% include foot.html %}
+				</footer>
+
+			</div><!-- /main -->
+			<div id="copyright" />
+		</div><!-- /wrapper -->
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+		{% include tracking.html %}
+
+	</body>
+</html>
