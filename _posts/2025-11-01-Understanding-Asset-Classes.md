@@ -100,7 +100,10 @@ NPS delivers solid **risk-adjusted outcomes** due to discipline and long holding
 * **No asset works across all market cycles**
 * Asset allocation should match **time horizon, temperament, skill, and expectations**
 
-### One-line summary:
 
 > Inflation is silent, volatility is loud—and the assets that feel uncomfortable in the short term are usually the ones that protect wealth in the long term.
+
+Have a nice day,  
+**– AR**
+
 
