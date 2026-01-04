@@ -55,5 +55,5 @@ And remember—P/E is just one example here. Depending on the business, **any re
 
 Have a good day,
 
-- AR
+**- AR**
 
