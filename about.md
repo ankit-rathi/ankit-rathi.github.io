@@ -27,7 +27,7 @@ Most organizations invest heavily in data and models, but fail at the most criti
 
 What I Bring:
 
-- Applied ML/DL/LLM expertise grounded in real-world constraints
+- Applied Data and AI expertise grounded in real-world constraints
 - Product thinking and solution design for decision-centric systems
 - Strategic clarity on where AI actually creates business value
 - A structured, long-term approach to building and scaling AI systems
@@ -37,7 +37,7 @@ Beyond Work:
 
 - Kaggle Competitions Expert
 - Speaker at platforms like PyData and Kaggle Days
-- Author of three books, with a new one focused on Decision Intelligence Systems
+- Author of three books, with a new one focused on Decision Intelligence
 
 I also built Quantvesting; a data-driven investing framework that applies the same principles of probabilistic thinking, discipline, and compounding to capital allocation.
 
