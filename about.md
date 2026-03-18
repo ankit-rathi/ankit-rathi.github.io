@@ -11,21 +11,19 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/profile-pic.png" | absolute_url }}" alt="" /></span>
 
-Hey,
+I work at the intersection of Data, AI, and Decision-Making; helping turn information into outcomes that actually matter.
 
-I work at the intersection of Data, AI, and Decision-Making—helping turn information into outcomes that actually matter.
-
-Over the last two decades, I’ve evolved from writing SQL queries to designing end-to-end data and AI systems. This journey across ETL, data architecture, machine learning, and modern platforms has shaped a simple belief:
+Over the last two decades, I have evolved from writing SQL queries to designing end-to-end data and AI systems. This journey across ETL, data architecture, machine learning, and modern platforms has shaped a simple belief: 
 
 Data has no value until it improves a decision.
 
-Today, I focus on helping experienced ML/AI professionals and business leaders move beyond hype—towards clear thinking, better bets, and measurable impact.
+Today, I focus on helping experienced data professionals and business leaders move beyond hype; towards clear thinking, better bets, and measurable impact.
 
 My work is anchored in a systems view of how value is created:
 
 Reality → Data → Intelligence → Decision → Action → Outcome → Learning
 
-Most organizations invest heavily in data and models, but fail at the most critical layer—decision quality. That’s the gap I work to close.
+Most organizations invest heavily in data and models, but fail at the most critical layer; decision quality. That’s the gap I work to close.
 
 What I Bring:
 
@@ -41,7 +39,7 @@ Beyond Work:
 - Speaker at platforms like PyData and Kaggle Days
 - Author of three books, with a new one focused on Decision Intelligence Systems
 
-I also built Quantvesting—a data-driven investing framework that applies the same principles of probabilistic thinking, discipline, and compounding to capital allocation.
+I also built Quantvesting; a data-driven investing framework that applies the same principles of probabilistic thinking, discipline, and compounding to capital allocation.
 
 What I Care About:
 
@@ -50,4 +48,4 @@ What I Care About:
 - Decisions over dashboards
 - Outcomes over outputs
 
-If you’re working in Data & AI and thinking beyond models—towards decisions, systems, and long-term impact—we’ll likely have a meaningful conversation.
+If you are working in Data & AI and thinking beyond models; towards decisions, systems, and long-term impact; we will likely have a meaningful conversation.
