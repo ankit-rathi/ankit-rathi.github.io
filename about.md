@@ -15,7 +15,7 @@ I work at the intersection of Data, AI, and Decision-Making; helping turn inform
 
 Over the last two decades, I have evolved from writing SQL queries to designing end-to-end data and AI systems. This journey across ETL, data architecture, machine learning, and modern platforms has shaped a simple belief: 
 
-Data has no value until it improves a decision.
+> Data has no value until it improves a decision.
 
 Today, I focus on helping experienced data professionals and business leaders move beyond hype; towards clear thinking, better bets, and measurable impact.
 
