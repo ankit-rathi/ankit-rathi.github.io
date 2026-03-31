@@ -7,17 +7,17 @@ sitemap:
     lastmod: 2018-03-17
     changefreq: weekly
 ---
-## DS/AI Self-Starter Handbook
+## Designing Decision Systems
 
-### Build Your Own Roadmap
+### How Data and AI Turn Decisions into Business Outcomes
 
-![](https://cdn-images-1.medium.com/max/600/1*VJmZvc1hhRMqC8MiTt_V5g.png)
+![](https://cdn-images-1.medium.com/max/1200/1*OFSk2Ou6a6PU4Wk4fmK_ig.png)
 
 ## Order here
 
-Amazon (Kindle): <https://www.amazon.com/dp/B07VDJ7PHD/>
+Amazon (Kindle): <https://www.amazon.com/dp/B0DHVP7Y4H/>
 
-Notion Press (India): <https://notionpress.com/read/DS-AI-Self-Starter-Handbook/>
+Notion Press (India): Publishing Soon...
 
-Amazon (Outside): <https://www.amazon.com/dp/1079189262/>
+Amazon (Outside): <https://www.amazon.com/dp/B0GV6K9BVJ/>
 
