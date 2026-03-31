@@ -11,7 +11,7 @@ sitemap:
 
 ### How Data and AI Turn Decisions into Business Outcomes
 
-![](https://cdn-images-1.medium.com/max/1200/1*QMTJ6BqNsgmQCm1RqvHT0g.png)
+<img src="https://cdn-images-1.medium.com/max/1200/1*ollfvHMSzZMRaq_TuWPVEw.png" alt="Alt text" style="width:100%; height:auto;">
 
 ## Order here
 
