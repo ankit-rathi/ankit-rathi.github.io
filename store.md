@@ -17,7 +17,7 @@ sitemap:
 
 Amazon (Kindle): <https://www.amazon.com/dp/B0DHVP7Y4H/>
 
-Notion Press (India): Publishing Soon...
+Notion Press (India): <https://notionpress.com/in/read/designing-decision-systems>
 
 Amazon (Outside): <https://www.amazon.com/dp/B0GV6K9BVJ/>
 
