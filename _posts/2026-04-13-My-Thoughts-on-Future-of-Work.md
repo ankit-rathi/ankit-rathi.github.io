@@ -28,4 +28,4 @@ Put together, the shift is clear. AI will handle execution, routine decisions, a
 
 The future of work is not about using AI tools. It is about designing, supervising, and being accountable for systems that use them. The shift is simple: from doing work to defining work, and from executing processes to owning outcomes.
 
-> Checkout my new book here: https://ankit-rathi.github.io/store/
+> Checkout my new book here: <https://ankit-rathi.github.io/store/>
