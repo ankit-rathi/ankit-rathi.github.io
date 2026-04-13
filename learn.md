@@ -8,17 +8,18 @@ sitemap:
     changefreq: weekly
 ---
 
-
-<article>
-    <header>
-        <h2><a href="{{ "https://rathi-ankit.medium.com/" }}" class="button">Data & AI Blog</a></h2>
-    </header>
-</article>
-
 <article>
     <header>
         <h2><a href="https://ankit-rathi.github.io/blog/" class="button">Weekend Quantvestor Blog</a></h2>
     </header>
 </article>
+
+<article>
+    <header>
+        <h2><a href="{{ "https://rathi-ankit.medium.com/" }}" class="button">Medium Blog</a></h2>
+    </header>
+</article>
+
+
 
 
