@@ -27,3 +27,5 @@ The final constraint is learning. AI improves based on feedback, but feedback ca
 Put together, the shift is clear. AI will handle execution, routine decisions, and pattern recognition. Humans will define goals, manage exceptions, monitor systems, integrate context, control risk, and validate learning.
 
 The future of work is not about using AI tools. It is about designing, supervising, and being accountable for systems that use them. The shift is simple: from doing work to defining work, and from executing processes to owning outcomes.
+
+> Checkout my new book here: https://ankit-rathi.github.io/store/
