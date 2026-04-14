@@ -11,7 +11,7 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/profile-pic.png" | absolute_url }}" alt="" /></span>
 
-Ankit Rathi is a Principal Data Engineer at NatWest Group, with nearly two decades of experience building data and AI systems that drive real-world business outcomes. His career spans roles across data engineering, analytics, machine learning, and modern data platforms, working with global organizations including SITA and Genpact.
+Ankit Rathi is a Principal Data Engineer at a leading UK bank, with nearly two decades of experience building data and AI systems that drive real-world business outcomes. His career spans roles across data engineering, analytics, machine learning, and modern data platforms, working with global organizations including SITA and Genpact.
 
 Ankit is a Kaggle Competitions Expert and a regular speaker at industry conferences such as PyData and Kaggle Days, where he shares practical insights on applied machine learning and data systems. His work focuses on bridging the gap between technical capabilities and business impact—helping organizations design systems that turn data into better decisions.
 
