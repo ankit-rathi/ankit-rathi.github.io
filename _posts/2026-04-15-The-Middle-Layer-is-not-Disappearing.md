@@ -36,7 +36,7 @@ This does not eliminate the middle layer. It elevates it into the most critical 
 
 To make this concrete, here is how this system typically maps in an organization—from reality to learning, along with who owns each layer.
 
-![](https://cdn-images-1.medium.com/max/960/1*z9Y_wfM4-IVQhZ0KjdeRnw.png)
+![](https://cdn-images-1.medium.com/max/960/1*tjqJN4N_71Gdk818saa2Mw.png)
 
 The system still depends on connecting data, decisions, and actions in a coherent loop. The difference is that this connection—once implicit and undervalued—now becomes the primary driver of value.
 
