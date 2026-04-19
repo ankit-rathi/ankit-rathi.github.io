@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: How incentives shape what Big Tech and banks say about AI
 categories: [post]
-title: Same Reality, Different Narratives
+title: Same Reality Different Narratives
 ---
 
 > How incentives shape what Big Tech and banks say about AI
