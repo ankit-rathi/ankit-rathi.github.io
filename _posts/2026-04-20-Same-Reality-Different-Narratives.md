@@ -19,6 +19,5 @@ The difference also shows up in how each system handles failure. In technology, 
 Once you see this clearly, statements from leaders like Jamie Dimon stop being contradictory. They are not trying to give a complete picture of AI; they are trying to balance multiple stakeholders at once—regulators, investors, employees, and the market. The message is deliberately constructed to signal competence (“we are adopting AI”), prudence (“we understand the risks”), and control (“we are managing it responsibly”) at the same time.
 
 The conclusion is straightforward. The underlying truth about AI does not change across industries, but the narrative around it does. Technology companies are incentivized to sell the future, while banks are incentivized to manage the risk of that future arriving too quickly. If you want to understand what is really happening, you cannot just listen to what is being said—you have to ask what incentives are shaping it.
-implicit and undervalued—now becomes explicit, measurable, and the primary driver of value.
 
 > Checkout my new book here: <https://ankit-rathi.github.io/store/>
