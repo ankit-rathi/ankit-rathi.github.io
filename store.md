@@ -19,7 +19,7 @@ Amazon (Kindle): <https://www.amazon.com/dp/B0DHVP7Y4H/>
 
 Notion Press (India): <https://notionpress.com/in/read/designing-decision-systems>
 
-Amazon (Outside): <https://www.amazon.com/dp/B0GV6K9BVJ/>
+Amazon (Outside): <https://www.amazon.com/dp/B0GXTJ9SJ1/>
 
 ## Review here for Free
 
