@@ -6,54 +6,16 @@ categories: [post]
 title: Stock Price Is Not Valuation
 ---
 
-How I Use Valuation to Make Better Decisions
+> How I Use Valuation to Make Better Decisions
 
-One of the most common mistakes investors make is confusing **stock price** with **valuation**. A stock price tells you what one share is trading at. **Valuation tells you what the entire business is worth**. These are two very different things.
+Many investors make the mistake of equating a stock’s price with its valuation, but the two represent very different ideas. Price is simply what one share is trading at in the market, while valuation reflects what the entire business is worth. This distinction matters because decisions based only on price lack context, whereas valuation brings structure and meaning to the investment process.
 
-That’s why valuation analysis sits at the core of my investing process.
+To evaluate businesses effectively, there is no single metric that works universally across all sectors. Different industries operate under different economic models, so the lens of valuation must adapt accordingly. Financial institutions are often better understood through metrics like price-to-book or return on equity, while capital-intensive businesses may require enterprise value to EBITDA. Consumer-facing or platform-driven companies can justify higher price-to-earnings multiples due to their growth potential. The key is not the metric itself, but choosing the one that best captures the underlying economics of the business.
 
-### There Is No One-Size-Fits-All Valuation Metric
+Once the appropriate metric is selected, the next step is to interpret it in context rather than isolation. Valuation only becomes meaningful when compared against broader benchmarks such as the overall market, the company’s industry peers, and its own historical range. These comparisons provide a reference point that helps determine whether a stock is currently undervalued, fairly valued, or overvalued. Without this relative framework, even a seemingly attractive number can be misleading.
 
-Different businesses need different valuation lenses. Depending on the industry, I use metrics like **P/E**, **P/B**, **EV/EBITDA**, or **Market Cap to Sales**.
-Banks and financials often make sense on P/B or ROE-based metrics. Capital-intensive businesses may be better judged on EV/EBITDA. Consumer or platform businesses may justify higher P/E ratios.
+This approach becomes clearer when applied to a real example like Reliance Industries. Suppose its historical valuation over several years shows a median price-to-earnings ratio around a certain level, with lower ranges reflecting pessimism and higher ranges reflecting optimism. When the stock trades near the lower end of this band while fundamentals remain stable, the downside risk tends to reduce and the probability of favorable returns improves. Conversely, when valuation expands significantly beyond its historical comfort zone, future returns often compress, signaling a need for caution or reduction in exposure.
 
-The key point: **no single ratio works for all stocks**.
+The objective here is not to predict precise market tops or bottoms, but to operate within a range of probabilities. By aligning decisions with valuation zones rather than market emotions, the process becomes more disciplined and less dependent on external noise. Over time, consistently buying strong businesses when they are undervalued and trimming or exiting when they become overvalued creates a systematic edge.
 
-### Valuation Is Always Relative
-
-Once I choose the right valuation metric, I don’t look at it in isolation. I compare it against three things:
-
-1. **Broader market valuation**
-2. **Industry or peer group valuation**
-3. **The company’s own historical valuation range**
-
-This gives context and helps me judge whether the stock is **undervalued, fairly valued, or overvalued**.
-
-### Example: NSE – Reliance Industries (Illustrative)
-
-Let’s take **Reliance Industries** as an example to understand this better.
-
-Assume its **5-year median P/E is around 26**. Historically, the stock may have traded:
-
-* Near **24 P/E** during pessimistic phases (undervalued zone)
-* Around **28 P/E** during euphoric phases (overvalued zone)
-
-If the business fundamentals remain intact and the stock moves closer to the lower end of its historical valuation range, **risk reduces and probability improves**. That’s where accumulation makes sense.
-When the stock trades well above its historical comfort zone, **future returns compress**, and it may be time to reduce or exit.
-
-This is not about predicting tops or bottoms. It’s about **playing ranges and probabilities**.
-
-### Valuation Helps Improve Odds, Not Certainty
-
-The logic is simple.
-**Buy strong businesses when they are undervalued.
-Sell or reduce when they become overvalued.**
-
-Do this consistently, and you’re no longer dependent on luck or market mood. You’re letting **probability work in your favour**.
-
-And remember—P/E is just one example here. Depending on the business, **any relevant valuation parameter can be used**, and the same framework applies **when comparing industry valuations and broader market valuations** as well. What matters is discipline, context, and consistency.
-
-Have a good day,
-
-**- AR**
-
+Ultimately, valuation is not about certainty but about improving odds. It introduces a structured way to assess risk and reward, ensuring that decisions are grounded in context rather than speculation. When applied consistently across different businesses and market conditions, this approach shifts investing from guesswork toward a more rational and repeatable process.
