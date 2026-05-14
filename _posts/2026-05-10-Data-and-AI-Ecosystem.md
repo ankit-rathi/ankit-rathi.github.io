@@ -8,7 +8,13 @@ title: Data and AI Ecosystem
 
 > Understanding the Components from First Principles
 
-<img alt="Data- -AI-Ecosystem" src="https://github.com/user-attachments/assets/b0056210-c579-49e5-ac4f-a8b6b7a6c7ae" />
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/b0056210-c579-49e5-ac4f-a8b6b7a6c7ae"
+    alt="Data & AI Ecosystem"
+    style="width:100%; max-width:1200px; height:auto; border-radius:8px;"
+  />
+</p>
 
 At the most fundamental level, the entire Data and AI ecosystem exists because humans operate under uncertainty. Reality is too large, too dynamic, and too complex to fully observe directly, so societies and organizations build systems that help them sense reality, coordinate actions, and improve decisions over time. Every buzzword in Data and AI ultimately emerges from one simple problem: how do we reduce uncertainty well enough to act effectively at scale? Once you start from this foundation, the ecosystem stops looking like disconnected technologies and starts looking like one continuous intelligence system evolving layer by layer.
 
