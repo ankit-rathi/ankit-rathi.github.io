@@ -8,7 +8,13 @@ title: The Metabolic Decision Engine
 
 > How the body allocates energy across glucose, glycogen, fat, and muscle
 
-<img alt="Metabolic-Decision-Engine" src="https://github.com/user-attachments/assets/bd49f35c-87eb-497a-b825-f191496543e0" />
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/bd49f35c-87eb-497a-b825-f191496543e0"
+    alt="Metabolic-Decision-Engine"
+    style="width:100%; max-width:1200px; height:auto; border-radius:8px;"
+  />
+</p>
 
 The human body is fundamentally an energy management system. Every cell requires continuous energy, yet throughout evolution food availability was unpredictable. To survive, the body evolved mechanisms to absorb incoming nutrients, stabilize blood sugar, store excess energy safely, and retrieve that energy later when food became scarce. Metabolism is therefore not random. It is a dynamic decision engine constantly determining whether energy should be used immediately, stored temporarily, stored long term, or released from reserves.
 
