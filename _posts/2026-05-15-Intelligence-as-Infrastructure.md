@@ -8,9 +8,6 @@ title: Intelligence as Infrastructure
 
 > From Human Cognition to Scalable Intelligence Systems
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/14496e15-1874-475d-a66a-5224cb1de573" />
-
-
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/14496e15-1874-475d-a66a-5224cb1de573"
