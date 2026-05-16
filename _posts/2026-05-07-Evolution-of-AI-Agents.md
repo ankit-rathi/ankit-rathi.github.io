@@ -8,9 +8,6 @@ title: Evolution of AI Agents
 
 > Capability, Realiability and Human Role
 
-<img width="1024" height="1536" alt="image" src="" />
-
-
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/6cecf8f8-9dd1-4f4d-a395-958645bf3f85"
