@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: The Foundation of All Intelligent Systems
 categories: [post]
-title: Reality-Systems-&-Observations
+title: Reality, Systems & Observations
 ---
 
 > The Foundation of All Intelligent Systems
@@ -11,7 +11,7 @@ title: Reality-Systems-&-Observations
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/f852d6ec-b5a2-4573-951d-b78eb8dccedd"
-    alt="Reality-Systems-&-Observations"
+    alt="Reality Systems & Observations"
     style="width:100%; max-width:1200px; height:auto; border-radius:8px;"
   />
 </p>
