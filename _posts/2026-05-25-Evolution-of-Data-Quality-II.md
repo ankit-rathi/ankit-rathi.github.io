@@ -1,4 +1,4 @@
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/6f13ae9f-c356-455e-b37c-e3c6fd6b04d5" />---
+--
 toc: true
 layout: post
 description: From Rule Compliance to Resilient Trust Systems
