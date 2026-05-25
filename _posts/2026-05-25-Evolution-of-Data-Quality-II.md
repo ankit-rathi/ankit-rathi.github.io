@@ -1,4 +1,4 @@
---
+---
 toc: true
 layout: post
 description: From Rule Compliance to Resilient Trust Systems
