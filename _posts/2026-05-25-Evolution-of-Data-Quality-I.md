@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: From Error Correction to Infrastructure Intelligence
 categories: [post]
-title: Evolution of Data Quality
+title: Evolution of Data Quality - I
 ---
 
 > From Error Correction to Infrastructure Intelligence
