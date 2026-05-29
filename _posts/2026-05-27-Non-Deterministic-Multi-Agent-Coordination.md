@@ -34,11 +34,3 @@ This transition represents a major shift in computing. Earlier generations of so
 
 The future of intelligent systems therefore depends less on building isolated superintelligent agents and more on building coordination architectures capable of managing distributed intelligence at scale. Because once organizations become partially autonomous systems, coordination itself becomes the new operating system of intelligence.
 > Checkout my new book here: <https://ankit-rathi.github.io/store/>
-
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/4cc9fe28-4366-4ee6-bb43-c495448cb575"
-    alt="Trade-offs in Data Systems Architecture"
-    style="width:100%; max-width:1200px; height:auto; border-radius:8px;"
-  />
-</p>
