@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: There are no perfect solutions, only trade-offs
 categories: [post]
-title: Trade offs in Data System Architecture
+title: Trade-offs in Data System Architecture
 ---
 
 > There are no perfect solutions, only trade-offs
