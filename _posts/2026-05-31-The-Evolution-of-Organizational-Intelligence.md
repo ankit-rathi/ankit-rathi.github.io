@@ -6,7 +6,7 @@ categories: [post]
 title: The Evolution of Organizational Intelligence
 ---
 
-> How Intelligence Emerges Inside Organization
+> How Intelligence Emerges Inside Organization 
 
 <p align="center">
   <img 
