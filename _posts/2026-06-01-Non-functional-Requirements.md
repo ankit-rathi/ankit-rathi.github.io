@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: The Hidden Requirements 
+description: The Hidden Requirements  
 categories: [post]
 title: Non-functional Requirements 
 ---
