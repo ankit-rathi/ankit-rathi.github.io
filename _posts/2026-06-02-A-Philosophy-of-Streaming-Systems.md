@@ -6,7 +6,7 @@ categories: [post]
 title: A Philosophy of Streaming Systems 
 ---
 
-> Treating Data Systems as a Unified, Unbundled Dataflow 
+> Treating Data Systems as a Unified, Unbundled Dataflow  
 
 <p align="center">
   <img 
