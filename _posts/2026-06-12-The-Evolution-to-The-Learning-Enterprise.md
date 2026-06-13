@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: From Human-centric to Context and Trust-Driven Intelligence  
 categories: [post]
-title: The Evolution of The Learning Enterprise
+title: The Evolution to The Learning Enterprise
 ---
 
 > From Human-centric to Context and Trust-Driven Intelligence    
@@ -11,7 +11,7 @@ title: The Evolution of The Learning Enterprise
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/4fd05035-9ef9-4158-9c72-0d33abbaa71a"
-    alt="The Evolution of The Learning Enterprise"
+    alt="The Evolution to The Learning Enterprise"
     style="width:100%; max-width:1200px; height:auto; border-radius:8px;"
   />
 </p>
