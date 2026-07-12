@@ -10,7 +10,7 @@ title: From AI Adoption to AI Fluency
 
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/fe74620d-aab1-44a9-91a6-888c48efc8c8"
+    src="https://github.com/user-attachments/assets/838b363c-7428-4515-ae90-0b9b2b0235c8"
     alt="From AI Adoption to AI Fluency"
     style="width:100%; max-width:1200px; height:auto; border-radius:8px;"
   />
