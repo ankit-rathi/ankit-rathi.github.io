@@ -16,7 +16,7 @@ title: The Cost Nobody Measured
   />
 </p>
 
-### A Monday Morning Question
+## A Monday Morning Question
 
 Imagine it is Monday morning. A product manager opens an AI assistant connected to the organization's data platform and asks what appears to be a straightforward question: **"Who owns Customer?"** The assistant searches the enterprise glossary and quickly finds three definitions. One describes a customer as anyone who has ever opened an account. Another limits the definition to people with at least one active product. A third defines a customer as anyone who has interacted with the bank within the last five years. The AI does exactly what it was designed to do—it retrieves information, summarizes it, and confidently presents an answer. Yet none of those answers is universally correct.
 
