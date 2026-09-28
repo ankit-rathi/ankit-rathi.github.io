@@ -1,100 +1,57 @@
 <!DOCTYPE HTML>
-<!--
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-  Jekyll integration by somiibo.com
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		{% include head.html %}
-	</head>
-	<body class="is-loading">
-    <!-- Wrapper -->
-    <div id="wrapper" class="fade-in">
-        <!-- Header -->
-        <header id="header">
-            <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-        </header>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% include head.html %}
+</head>
+<body>
+<div id="wrapper">
+    <header id="header">
+        <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+    </header>
+    <nav id="nav">{% include nav.html %}</nav>
+    <main id="main">
+        <article class="post">
+            <header class="major">
+                <div class="date">{{ page.date | date_to_string }}</div>
+                <h1>{{page.title}}</h1>
+            </header>
 
-        <!-- Nav -->
-        <nav id="nav">
-          {% include nav.html %}
-        </nav>
+            {% if page.image %}
+            <div class="image main"><img src="{{page.image}}" alt=""></div>
+            {% endif %}
 
-        <!-- Main -->
-        <div id="main">
-            <section class="post">
-                <header class="major">
-                   <!-- <span class="date">Lesson {{page.lesson}}</span> -->
-                    <h2>{{page.title}}</h2>
-			
-                </header>
-                
-                <div class="image main"><img src="{{page.image}}" alt=""></div>
-                <p>{{content}}</p>
-                <!-- <p>If you have any questions or comments, click the "Go To Discussion" button below!</p>   -->
-            </section>
+            <div class="post-content">{{content}}</div>
+        </article>
 
-            <div style="display: flex; padding: 2rem;">
+        <div style="display:flex;gap:8px;justify-content:space-between;flex-wrap:wrap;margin:16px 0;">
+            {% assign cat = page.category %}
+            {% for post in site.categories[cat] %}
+              {% if post.url == page.url %}
+                {% assign post_index0 = forloop.index0 %}
+                {% assign post_index1 = forloop.index %}
+              {% endif %}
+            {% endfor %}
+            {% for post in site.categories[cat] %}
+              {% if post_index0 == forloop.index %}
+                {% assign next_post = post %}
+              {% endif %}
+              {% if post_index1 == forloop.index0 %}
+                {% assign prev_post = post %}
+              {% endif %}
+            {% endfor %}
+            {% if prev_post %}
+              <a href="{{ prev_post.url | absolute_url }}" class="button secondary">&lt; Previous Lesson</a>
+            {% else %}<span></span>{% endif %}
+            {% if next_post %}
+              <a href="{{ next_post.url | absolute_url }}" class="button secondary">Next Lesson &gt;</a>
+            {% endif %}
+        </div>
 
-                    {% assign cat = page.category %}
-
-                    {% for post in site.categories[cat] %}
-                      {% if post.url == page.url %}
-                        {% assign post_index0 = forloop.index0 %}
-                        {% assign post_index1 = forloop.index %}
-                      {% endif %}
-                    {% endfor %}
-                    
-                    {% for post in site.categories[cat] %}
-                      {% if post_index0 == forloop.index %}
-                        {% assign next_post = post %}
-                      {% endif %}
-                      {% if post_index1 == forloop.index0 %}
-                        {% assign prev_post = post %}
-                      {% endif %}
-                    {% endfor %}
-                    
-                    {% if prev_post %}
-                      
-                        <a href="{{ prev_post.url | absolute_url }}" class="button">< Previous Lesson</a>
-                    {% endif %}
-                    
-                    {% if next_post %}
-                        <a href="{{ next_post.url | absolute_url }}" class="button" style="margin-left: auto;">Next Lesson ></a>
-                    {% endif %}
-
-
-                {% comment %}
-                <!-- {% if page.previous_in_category %}
-                    <a href="{{ page.previous_in_category.url | absolute_url }}" class="button">< Previous Lesson</a>
-                {% endif %}
-
-                {% if page.next_in_category %}
-                    <a href="{{ page.next_in_category.url | absolute_url }}" class="button" style="margin-left: auto;">Next Lesson ></a>
-                {% endif %} -->
-
-                {% endcomment %}
-							
-            </div>
-
-            <!-- Footer -->
-            <footer>
-				
-				{% include foot.html %}
-            <!--    <ul class="actions">
-                    <a href="{{page.patreon-post}}" rel="nofollow noopener noreferrer" target="_blank" class="button special fit">Go To Discussion</a>
-                </ul> -->
-            </footer>
-        </div><!-- /main -->
-        <div id="copyright" />
-    </div><!-- /wrapper -->
-
-    <!-- Scripts -->
-  	{% include scripts-main.html %}
-	{% include tracking.html %}
-
-	</body>
+        <footer>{% include foot.html %}</footer>
+    </main>
+</div>
+{% include scripts-main.html %}
+{% include tracking.html %}
+</body>
 </html>

@@ -1,81 +1,46 @@
 <!DOCTYPE HTML>
-<!--
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-  Jekyll integration by somiibo.com
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		{% include head.html %}
-	</head>
-	<body class="is-loading">
-		<!-- Wrapper -->
-		<div id="wrapper" class="fade-in">
-			<!-- Header -->
-			<header id="header">
-				<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-			</header>
-
-			<!-- Nav -->
-			<nav id="nav">
-				{% include nav.html %}
-			</nav>
-
-			<!-- Main -->
-			<div id="main">
-				<article class="post featured">
-					<header class="major">
-						<h2>Data Intelligence Blog</h2>
-	
-					</header>			
-						
-						<div class="box align-left">
-							
-							<h2>Why this blog?</h2>
-							
-						Here you can find blog-posts related to everything Data & AI:
-							<ul>
-							  <li>Latest Trends & Techniques</li>
-							  <li>Concepts, Processes & Tools</li>
-							  <li>Updated Learning Resources</li>
-							  <li>Content from Recent ARTalks</li>
-							  <li>Excerpts from my Books (published & upcoming)</li>
-							</ul>						
-						</div>	
-
-									
-					<div class="box align-left">
-						
-						<h2>Blog Posts</h2>
-						
-						<ol>
-							{% assign sorted = (site.categories.learn | sort: 'lesson') %}
-							{% for post in sorted %}
-
-							<li><a href="{{ post.url | absolute_url }}">{{post.title}}</a></li>
-							{% endfor %}
-
-							------ In Progress ------
-							<li>JavaScript Programming Fundamentals: Functions</li>
-							<li>JavaScript Programming Fundamentals: Objects</li>
-						</ol>
-					</div>
-
-				</article>
-
-				<!-- Footer -->
-				<footer>
-						{% include foot.html %}
-				</footer>
-			</div><!-- /main -->
-			<div id="copyright" />
-		</div><!-- /wrapper -->
-
-		<!-- Scripts -->
-		{% include scripts-main.html %}
-		{% include tracking.html %}
-
-	</body>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% include head.html %}
+</head>
+<body>
+<div id="wrapper">
+    <header id="header">
+        <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+    </header>
+    <nav id="nav">{% include nav.html %}</nav>
+    <main id="main">
+        <article class="post featured">
+            <header class="major"><div class="date">DATA · AI</div><h1>Data Intelligence Blog</h1></header>
+            <div class="box align-left">
+                <h2>Why this blog?</h2>
+                Here you can find blog-posts related to everything Data &amp; AI:
+                <ul>
+                  <li>Latest Trends &amp; Techniques</li>
+                  <li>Concepts, Processes &amp; Tools</li>
+                  <li>Updated Learning Resources</li>
+                  <li>Content from Recent ARTalks</li>
+                  <li>Excerpts from my Books (published &amp; upcoming)</li>
+                </ul>
+            </div>
+            <div class="box align-left">
+                <h2>Blog Posts</h2>
+                <ol>
+                  {% assign sorted = (site.categories.learn | sort: 'lesson') %}
+                  {% for post in sorted %}
+                    <li><a href="{{ post.url | absolute_url }}">{{post.title}}</a></li>
+                  {% endfor %}
+                  ------ In Progress ------
+                  <li>JavaScript Programming Fundamentals: Functions</li>
+                  <li>JavaScript Programming Fundamentals: Objects</li>
+                </ol>
+            </div>
+        </article>
+        <footer>{% include foot.html %}</footer>
+    </main>
+</div>
+{% include scripts-main.html %}
+{% include tracking.html %}
+</body>
 </html>

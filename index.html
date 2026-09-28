@@ -8,95 +8,71 @@ sitemap:
     changefreq: weekly
 ---
 <!DOCTYPE HTML>
-<!--
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-  Jekyll integration by somiibo.com
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		{% include head.html %}
-	</head>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% include head.html %}
+</head>
+<body>
+<div id="wrapper">
+    <header id="header">
+        <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+    </header>
 
-	<body class="is-loading">
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
-				<!-- Intro -->
-				<div id="intro">
-					<img src="/images/logo.png" alt="" href="{{ "/images/logo.png" | absolute_url }}" width="100" height="100">
-					<p></p>
-					<h1>{{site.title}}</h1>
-					<h2>~ Data Techie | Weekend Quantvestor ~</h2>
-					<p></p>
-					<ul class="actions">
-						<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
-					</ul>
-				</div>
+    <nav id="nav">
+        {% include nav.html %}
+    </nav>
 
-				<!-- Header -->
-				<header id="header">
-					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-				</header>
+    <div id="intro">
+        <img src="/images/logo.png" alt="{{site.title}}" width="100" height="100">
+        <div>
+            <h1>{{site.title}}</h1>
+            <h2>~ Data Techie | Weekend Quantvestor ~</h2>
+        </div>
+    </div>
 
-				<!-- Nav -->
-				<nav id="nav">
-            		{% include nav.html %}
-				</nav>
+    <main id="main">
+        <article class="post featured">
+            <header class="major">
+                <div class="date">DATA · AI · INVESTING · LIFE</div>
+                <h2>Hey Data Professionals!</h2>
+            </header>
 
-				<!-- Main -->
-				<div id="main">
-					<!-- Featured Post -->
-					<article class="post featured">
-						<header class="major">
-							<h2>Hey Data Professionals!</h2>
-						</header>
+            <h3>I talk about Data &amp; AI Literacy and Weekend Quantvesting.</h3>
 
+            <p>
+                Enquire on rathi.ankit@gmail.com for a weekend talk, conference or workshop for your college, university or organization.
+            </p>
 
-						<br />
-						<h3> I talk about Data & AI Literacy and Weekend Quantvesting.</h3>
-						
-						<p>
-							Enquire on rathi.ankit@gmail.com for a weekend talk, conference or workshop for your college, university or organization.
-						</p>
+            <p>
+                <img src="https://cdn-images-1.medium.com/max/2600/1*zKcJTQ6as9biwc2U1-InAQ.jpeg" alt="" width="90%">
+            </p>
+        </article>
 
-						<p>
-							<img src="https://cdn-images-1.medium.com/max/2600/1*zKcJTQ6as9biwc2U1-InAQ.jpeg" alt="" width="90%">
-						</p>
-						
-					
-					</article>	
+        <section class="posts">
+            <article>
+                <header>
+                    <div class="date">LEARN</div>
+                    <h2><a href="https://ankit-rathi.github.io/sketch-intelligence/" class="button">Sketch Intelligence</a></h2>
+                </header>
+                <p>Learn Data &amp; AI Ecosystem</p>
+            </article>
 
-					<section class="posts">
+            <article>
+                <header>
+                    <div class="date">EXPLORE</div>
+                    <h2><a href="https://ankit-rathi.github.io/blog/" class="button">Weekend Quantvestor</a></h2>
+                </header>
+                <p>About Data, Investing &amp; Life</p>
+            </article>
+        </section>
 
-						<article>
-
-							<header>
-								<h2><a href= "https://ankit-rathi.github.io/sketch-intelligence/" class="button">Sketch Intelligence</a></h2>
-							</header>
-							<p class="align-center">Learn Data & AI Ecosystem</p>
-						</article>
-						<article>
-
-							<header>
-								<h2><a href="https://ankit-rathi.github.io/blog/" class="button">Weekend Quantvestor</a></h2>
-							</header>
-							<p class="align-center">About Data, Investing & Life</p>
-						</article>
-					</section>
-
-					<!-- Footer -->
-					<footer>
-						{% include foot.html %}
-					</footer>
-
-				</div> <!-- /main -->
-
-				<div id="copyright" />
-			</div><!-- /wrapper -->
-		<!-- Scripts -->
-		{% include scripts-main.html %}
-    	{% include tracking.html %}
-	</body>
+        <footer>
+            {% include foot.html %}
+        </footer>
+    </main>
+</div>
+{% include scripts-main.html %}
+{% include tracking.html %}
+</body>
 </html>

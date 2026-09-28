@@ -4,7 +4,7 @@ bio:                'Data is my game.'
 description:        "Data is my game."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://ankit-rathi.github.io" # canonical GitHub Pages URL
 
 defaults:
 - scope:
