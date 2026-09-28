@@ -1,0 +1,78 @@
+---
+layout: null
+title: Ankit Rathi
+description: The Weekend Quantvestor
+sitemap:
+    priority: 1.0
+    lastmod: 2018-03-17
+    changefreq: weekly
+---
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% include head.html %}
+</head>
+<body>
+<div id="wrapper">
+    <header id="header">
+        <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+    </header>
+
+    <nav id="nav">
+        {% include nav.html %}
+    </nav>
+
+    <div id="intro">
+        <img src="/images/logo.png" alt="{{site.title}}" width="100" height="100">
+        <div>
+            <h1>{{site.title}}</h1>
+            <h2>~ Data Techie | Weekend Quantvestor ~</h2>
+        </div>
+    </div>
+
+    <main id="main">
+        <article class="post featured">
+            <header class="major">
+                <div class="date">DATA · AI · INVESTING · LIFE</div>
+                <h2>Hey Data Professionals!</h2>
+            </header>
+
+            <h3>I talk about Data &amp; AI Literacy and Weekend Quantvesting.</h3>
+
+            <p>
+                Enquire on rathi.ankit@gmail.com for a weekend talk, conference or workshop for your college, university or organization.
+            </p>
+
+            <p>
+                <img src="https://cdn-images-1.medium.com/max/2600/1*zKcJTQ6as9biwc2U1-InAQ.jpeg" alt="" width="90%">
+            </p>
+        </article>
+
+        <section class="posts">
+            <article>
+                <header>
+                    <div class="date">LEARN</div>
+                    <h2><a href="https://ankit-rathi.github.io/sketch-intelligence/" class="button">Sketch Intelligence</a></h2>
+                </header>
+                <p>Learn Data &amp; AI Ecosystem</p>
+            </article>
+
+            <article>
+                <header>
+                    <div class="date">EXPLORE</div>
+                    <h2><a href="https://ankit-rathi.github.io/blog/" class="button">Weekend Quantvestor</a></h2>
+                </header>
+                <p>About Data, Investing &amp; Life</p>
+            </article>
+        </section>
+
+        <footer>
+            {% include foot.html %}
+        </footer>
+    </main>
+</div>
+{% include scripts-main.html %}
+{% include tracking.html %}
+</body>
+</html>
