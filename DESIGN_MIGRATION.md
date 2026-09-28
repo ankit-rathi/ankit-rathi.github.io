@@ -1,13 +1,19 @@
-# Design migration
+# Design Migration — V2
 
-The repository retains the original site's content, posts, navigation destinations, images, and Jekyll structure while adopting a visual system inspired by the `quantvesting_v3` site:
+This release keeps the existing site content, post collection and primary URLs while applying a more deliberate Quantvesting-inspired UX system.
 
-- Inter/system typography
-- Light `#f4f7fb` canvas
-- White rounded cards with subtle borders/shadows
-- Compact dark primary buttons and soft secondary buttons
-- Restrained uppercase metadata/eyebrows
-- Responsive card grids and mobile layout
-- Simplified header/navigation and article shells
+## V2 changes
+- Fixed social links using inline SVG icons with accessible labels.
+- Redesigned homepage around Learn / Writing / Book / Workshops journeys.
+- Added three latest-thinking cards to the homepage.
+- Reworked Blog into responsive article cards with client-side topic filters.
+- Redesigned About, Learn and Store pages around the site's actual content hierarchy.
+- Improved article-page navigation and long-form reading width.
+- Added responsive mobile layouts, touch-friendly controls and card hover states.
+- Corrected obvious subtitle spelling/grammar errors without changing article titles/URLs.
 
-Quantvesting-specific application content was not copied into this repository.
+## Preserved
+- Existing 61 Markdown posts.
+- Existing article destinations and core site navigation destinations.
+- Existing external resources, community links and book links.
+- Existing images/assets and Jekyll structure.

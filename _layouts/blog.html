@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -6,33 +6,78 @@
 </head>
 <body>
 <div id="wrapper">
-    <header id="header">
-        <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-    </header>
+    <header id="header"><a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a></header>
     <nav id="nav">{% include nav.html %}</nav>
     <main id="main">
-        <article class="post featured">
-            <header class="major">
-                <div class="date">WEEKEND QUANTVESTOR</div>
-                <h1>About Data, Investing &amp; Life</h1>
-            </header>
-        </article>
-        <section class="posts">
+        <section class="page-hero">
+            <div class="eyebrow">WEEKEND QUANTVESTOR</div>
+            <h1>About Data, Investing &amp; Life</h1>
+            <p>Long-form notes on Data &amp; AI, intelligent systems, decision-making, investing and the principles connecting them.</p>
+        </section>
+
+        <section class="topic-filter" aria-label="Filter writing by topic">
+          <span class="filter-label">Explore by topic</span>
+          <div class="filter-buttons">
+            <button class="filter-button active" data-filter="all">All</button>
+            <button class="filter-button" data-filter="data-ai">Data &amp; AI</button>
+            <button class="filter-button" data-filter="agentic">Agentic AI</button>
+            <button class="filter-button" data-filter="systems">Data Systems</button>
+            <button class="filter-button" data-filter="decisions">Decision Systems</button>
+            <button class="filter-button" data-filter="quantvesting">Quantvesting</button>
+            <button class="filter-button" data-filter="life">Life &amp; Thinking</button>
+          </div>
+        </section>
+
+        <section class="article-grid" id="article-grid">
             {% for post in site.posts %}
-                <article>
-                    <header>
-                        <div class="date">{{ post.date | date_to_string }}</div>
-                        <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-                    </header>
-                    <p>{{ post.excerpt | truncate: 160 | strip_newlines }}</p>
-                    <a href="{{ post.url | absolute_url }}" class="button secondary">Read article</a>
-                </article>
+              <article class="article-card" data-search="{{ post.title | append: ' ' | append: post.description | append: ' ' | append: post.excerpt | strip_html | downcase | escape }}">
+                <a class="article-card-main" href="{{ post.url | absolute_url }}">
+                  <div class="date">{{ post.date | date: "%d %b %Y" }}</div>
+                  <h2>{{ post.title }}</h2>
+                  <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}</p>
+                  <span class="card-link">Read →</span>
+                </a>
+              </article>
             {% endfor %}
         </section>
+        <p id="no-results" class="no-results" hidden>No articles match this topic yet.</p>
         <footer>{% include foot.html %}</footer>
     </main>
 </div>
 {% include scripts-main.html %}
 {% include tracking.html %}
+<script>
+(function () {
+  const buttons = document.querySelectorAll('.filter-button');
+  const cards = document.querySelectorAll('.article-card');
+  const empty = document.getElementById('no-results');
+  const groups = {
+    'data-ai': ['data', 'ai', 'machine learning', 'intelligence', 'metadata', 'data quality', 'data management'],
+    'agentic': ['agentic', 'agent', 'multi-agent', 'ai engineering'],
+    'systems': ['data system', 'data systems', 'stream', 'batch', 'storage', 'retrieval', 'data model', 'query', 'metadata', 'architecture'],
+    'decisions': ['decision', 'trust', 'uncertainty', 'outcome', 'organizational intelligence', 'learning enterprise'],
+    'quantvesting': ['quantvest', 'stock', 'market', 'trading', 'valuation', 'asset class', 'investing'],
+    'life': ['life', 'yoga', 'sapiens', 'human', 'philosophy', 'mindset', 'reality']
+  };
+  function matches(text, filter) {
+    if (filter === 'all') return true;
+    return groups[filter].some(function (term) { return text.indexOf(term) !== -1; });
+  }
+  buttons.forEach(function (button) {
+    button.addEventListener('click', function () {
+      buttons.forEach(function (b) { b.classList.remove('active'); });
+      button.classList.add('active');
+      const filter = button.dataset.filter;
+      let visible = 0;
+      cards.forEach(function (card) {
+        const show = matches(card.dataset.search || '', filter);
+        card.hidden = !show;
+        if (show) visible++;
+      });
+      empty.hidden = visible !== 0;
+    });
+  });
+})();
+</script>
 </body>
 </html>

@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -6,12 +6,10 @@
 </head>
 <body>
 <div id="wrapper">
-    <header id="header">
-        <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-    </header>
+    <header id="header"><a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a></header>
     <nav id="nav">{% include nav.html %}</nav>
     <main id="main">
-        <section class="post">
+        <section class="content-shell">
             {{content}}
         </section>
         <footer>{% include foot.html %}</footer>

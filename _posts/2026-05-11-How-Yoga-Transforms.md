@@ -6,7 +6,7 @@ categories: [post]
 title: How Yoga Transforms
 ---
 
-> Your Body & Minds
+> Your Body & Mind
 
 <p align="center">
   <img 

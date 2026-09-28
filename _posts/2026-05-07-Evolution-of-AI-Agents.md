@@ -1,12 +1,12 @@
 ---
 toc: true
 layout: post
-description: Capability, Realiability and Human Role
+description: Capability, Reliability and Human Role
 categories: [post]
 title: Evolution of AI Agents
 ---
 
-> Capability, Realiability and Human Role
+> Capability, Reliability and Human Role
 
 <p align="center">
   <img 

@@ -1,12 +1,12 @@
 ---
 toc: true
 layout: post
-description: Making Reliable Decisions Under Uncertainity  
+description: Making Reliable Decisions Under Uncertainty  
 categories: [post]
 title: From Data Management To AI-Native Trust Systems
 ---
 
-> Making Reliable Decisions Under Uncertainity    
+> Making Reliable Decisions Under Uncertainty    
 
 <p align="center">
   <img 

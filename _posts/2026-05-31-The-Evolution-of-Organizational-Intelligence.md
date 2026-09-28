@@ -1,12 +1,12 @@
 ---
 toc: true
 layout: post
-description: How Intelligence Emerges Inside Organization
+description: How Intelligence Emerges Inside Organizations
 categories: [post]
 title: The Evolution of Organizational Intelligence
 ---
 
-> How Intelligence Emerges Inside Organization 
+> How Intelligence Emerges Inside Organizations 
 
 <p align="center">
   <img 

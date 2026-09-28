@@ -1,12 +1,12 @@
 ---
 toc: true
 layout: post
-description: Organizations Outsources Ambiguity Handling to People  
+description: Organizations Outsource Ambiguity Handling to People  
 categories: [post]
 title: The Cost Nobody Measured
 ---
 
-> Organizations Outsources Ambiguity Handling to People  
+> Organizations Outsource Ambiguity Handling to People  
 
 <p align="center">
   <img 

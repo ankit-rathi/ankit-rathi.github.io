@@ -11,7 +11,7 @@
     </header>
     <nav id="nav">{% include nav.html %}</nav>
     <main id="main">
-        <article class="post">
+        <article class="post article-page">
             <header class="major">
                 <div class="date">{{ page.date | date_to_string }}</div>
                 <h1>{{page.title}}</h1>
@@ -41,10 +41,10 @@
               {% endif %}
             {% endfor %}
             {% if prev_post %}
-              <a href="{{ prev_post.url | absolute_url }}" class="button secondary">&lt; Previous Lesson</a>
+              <a href="{{ prev_post.url | absolute_url }}" class="button secondary">&lt; Previous article</a>
             {% else %}<span></span>{% endif %}
             {% if next_post %}
-              <a href="{{ next_post.url | absolute_url }}" class="button secondary">Next Lesson &gt;</a>
+              <a href="{{ next_post.url | absolute_url }}" class="button secondary">Next article &gt;</a>
             {% endif %}
         </div>
 

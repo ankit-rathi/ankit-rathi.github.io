@@ -1,13 +1,13 @@
 ---
 layout: null
 title: Ankit Rathi
-description: The Weekend Quantvestor
+description: Data, AI, decision systems and Weekend Quantvesting.
 sitemap:
     priority: 1.0
-    lastmod: 2018-03-17
+    lastmod: 2026-09-28
     changefreq: weekly
 ---
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,58 +18,61 @@ sitemap:
     <header id="header">
         <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
     </header>
+    <nav id="nav">{% include nav.html %}</nav>
 
-    <nav id="nav">
-        {% include nav.html %}
-    </nav>
-
-    <div id="intro">
-        <img src="/images/logo.png" alt="{{site.title}}" width="100" height="100">
-        <div>
-            <h1>{{site.title}}</h1>
-            <h2>~ Data Techie | Weekend Quantvestor ~</h2>
-        </div>
-    </div>
-
-    <main id="main">
-        <article class="post featured">
-            <header class="major">
-                <div class="date">DATA · AI · INVESTING · LIFE</div>
-                <h2>Hey Data Professionals!</h2>
-            </header>
-
-            <h3>I talk about Data &amp; AI Literacy and Weekend Quantvesting.</h3>
-
-            <p>
-                Enquire on rathi.ankit@gmail.com for a weekend talk, conference or workshop for your college, university or organization.
-            </p>
-
-            <p>
-                <img src="https://cdn-images-1.medium.com/max/2600/1*zKcJTQ6as9biwc2U1-InAQ.jpeg" alt="" width="90%">
-            </p>
-        </article>
-
-        <section class="posts">
-            <article>
-                <header>
-                    <div class="date">LEARN</div>
-                    <h2><a href="https://ankit-rathi.github.io/sketch-intelligence/" class="button">Sketch Intelligence</a></h2>
-                </header>
-                <p>Learn Data &amp; AI Ecosystem</p>
-            </article>
-
-            <article>
-                <header>
-                    <div class="date">EXPLORE</div>
-                    <h2><a href="https://ankit-rathi.github.io/blog/" class="button">Weekend Quantvestor</a></h2>
-                </header>
-                <p>About Data, Investing &amp; Life</p>
-            </article>
+    <main id="main" class="home-main">
+        <section class="hero-card">
+            <div class="hero-copy">
+                <div class="eyebrow">DATA · AI · DECISION SYSTEMS · QUANTVESTING</div>
+                <h1>Data, AI and better decisions.</h1>
+                <p class="hero-lead">I write, teach and build around Data &amp; AI literacy, intelligent systems and Weekend Quantvesting—turning complex ideas into practical ways of thinking.</p>
+                <div class="hero-actions">
+                    <a href="{{ "/learn/" | absolute_url }}" class="button">Start learning <span aria-hidden="true">→</span></a>
+                    <a href="{{ "/blog/" | absolute_url }}" class="button secondary">Read the writing</a>
+                </div>
+                <p class="hero-note">Available for weekend talks, conferences and workshops for colleges, universities and organizations. <a href="mailto:rathi.ankit@gmail.com">Get in touch →</a></p>
+            </div>
+            <div class="hero-portrait">
+                <img src="{{ "/images/logo.png" | absolute_url }}" alt="Ankit Rathi">
+                <div class="portrait-caption"><strong>Ankit Rathi</strong><span>Data Techie · Weekend Quantvestor</span></div>
+            </div>
         </section>
 
-        <footer>
-            {% include foot.html %}
-        </footer>
+        <section class="path-grid" aria-label="Explore">
+            <a class="path-card" href="https://ankit-rathi.github.io/sketch-intelligence/">
+                <div class="eyebrow">LEARN</div>
+                <h2>Sketch Intelligence</h2>
+                <p>Learn the Data &amp; AI ecosystem through simple visual explanations.</p>
+                <span class="card-link">Explore learning →</span>
+            </a>
+            <a class="path-card" href="{{ "/blog/" | absolute_url }}">
+                <div class="eyebrow">EXPLORE</div>
+                <h2>Weekend Quantvestor</h2>
+                <p>Notes on Data, Investing &amp; Life—and the systems behind better decisions.</p>
+                <span class="card-link">Explore the writing →</span>
+            </a>
+        </section>
+
+        <section class="section-block">
+            <div class="section-heading"><div><div class="eyebrow">LATEST THINKING</div><h2>Ideas worth exploring</h2></div><a href="{{ "/blog/" | absolute_url }}" class="text-link">View all writing →</a></div>
+            <div class="latest-grid">
+              {% for post in site.posts limit:3 %}
+              <a class="latest-card" href="{{ post.url | absolute_url }}">
+                <div class="date">{{ post.date | date: "%d %b %Y" }}</div>
+                <h3>{{ post.title }}</h3>
+                <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 150 }}</p>
+                <span class="card-link">Read →</span>
+              </a>
+              {% endfor %}
+            </div>
+        </section>
+
+        <section class="connect-strip">
+          <div><div class="eyebrow">BOOK · COMMUNITY · WORKSHOPS</div><h2>Go deeper.</h2><p>Explore the book, join the community, or invite Ankit for a talk or workshop.</p></div>
+          <div class="connect-actions"><a href="{{ "/store/" | absolute_url }}" class="button">Designing Decision Systems</a><a href="mailto:rathi.ankit@gmail.com" class="button secondary">Invite me to speak</a></div>
+        </section>
+
+        <footer>{% include foot.html %}</footer>
     </main>
 </div>
 {% include scripts-main.html %}

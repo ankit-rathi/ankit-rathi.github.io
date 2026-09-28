@@ -1,16 +1,8 @@
 <ul class="links">
-  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
-  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
-  <li class="{% if page.url contains '/store/' %} active {% endif %}"><a href="{{ "/store/" | absolute_url }}">Store</a></li> 
-  <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li> 
+  <li class="{% if page.url == "/" %}active{% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
+  <li class="{% if page.url contains '/learn' %}active{% endif %}"><a href="{{ "/learn/" | absolute_url }}">Learn</a></li>
+  <li class="{% if page.url contains '/blog' or page.layout == 'post' %}active{% endif %}"><a href="{{ "/blog/" | absolute_url }}">Writing</a></li>
+  <li class="{% if page.url contains '/about' %}active{% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
+  <li class="{% if page.url contains '/store' %}active{% endif %}"><a href="{{ "/store/" | absolute_url }}">Book</a></li>
 </ul>
-
-<ul class="icons">
-    <li><a href="https://linkedin.com/in/{{site.linkedin}}" class="icon fa-linkedin" rel="nofollow"><span class="label">LinkedIn</span></a></li>
-    <li><a href="https://www.youtube.com/channel/{{site.youtube}}" class="icon fa-youtube" rel="nofollow"><span class="label">YouTube</span></a></li>
-    <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
-    <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
-    <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
-    <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
-
-</ul>
+{% include social-icons.html %}
