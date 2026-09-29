@@ -1,28 +1,40 @@
 ---
 layout: page
-title: Learn
-description: Learn Data, AI and intelligent systems.
+title: Work
+description: Data, AI and the systems Ankit Rathi builds and explores.
 sitemap:
     priority: 0.7
-    lastmod: 2026-09-28
+    lastmod: 2026-09-29
     changefreq: weekly
 ---
 <div class="page-hero compact">
-  <div class="eyebrow">LEARN</div>
-  <h1>Build your mental model of Data &amp; AI.</h1>
-  <p>Start with a visual explanation, follow the connected ideas, then go deeper through writing and practical systems thinking.</p>
+  <div class="eyebrow">WORK</div>
+  <h1>Things I’m building and exploring.</h1>
+  <p>Two independent projects, connected by the same interest: understanding systems well enough to make better decisions.</p>
 </div>
 
-<div class="learning-grid">
-  <a class="learning-card featured" href="https://ankit-rathi.github.io/sketch-intelligence/">
-    <div class="eyebrow">START HERE · TRY IT</div><h2>Sketch Intelligence</h2><p>Search a Data or AI concept, understand it visually, and follow the connected concepts to build a bigger mental model.</p><span class="card-link">Explore Sketch Intelligence →</span>
+<section class="home-work work-page-list">
+  <a class="work-row" href="https://ankit-rathi.github.io/sketch-intelligence/">
+    <span class="work-number">01</span>
+    <span class="work-copy"><strong>Sketch Intelligence</strong><small>A visual learning system for Data &amp; AI.</small></span>
+    <span class="work-arrow" aria-hidden="true">→</span>
   </a>
-  <a class="learning-card" href="{{ "/blog/" | absolute_url }}"><div class="eyebrow">THINK</div><h2>Writing</h2><p>Long-form ideas on Data, AI, decision systems, investing, uncertainty and life.</p><span class="card-link">Read the writing →</span></a>
-  <a class="learning-card" href="https://rathi-ankit.medium.com/" target="_blank" rel="noopener noreferrer"><div class="eyebrow">ARCHIVE</div><h2>Medium</h2><p>Explore earlier writing and essays.</p><span class="card-link">Visit Medium →</span></a>
-</div>
+  <a class="work-row" href="https://ankit-rathi.github.io/quantvesting_v3/">
+    <span class="work-number">02</span>
+    <span class="work-copy"><strong>Quantvesting</strong><small>A systematic framework for thinking about investing.</small></span>
+    <span class="work-arrow" aria-hidden="true">→</span>
+  </a>
+</section>
 
 <section class="learning-note">
-  <div class="eyebrow">A SIMPLE MODEL</div>
+  <div class="eyebrow">THE THREAD</div>
   <h2>Reality → Data → Intelligence → Decisions → Outcomes</h2>
-  <p>The goal isn't to collect tools or buzzwords. It is to understand how information becomes context, how context improves decisions, and how decisions create outcomes you can learn from.</p>
+  <p>The projects are different by design. Sketch Intelligence focuses on understanding; Quantvesting focuses on applying structured thinking. Both start with the same question: what information helps us make a better decision?</p>
+</section>
+
+<section class="learning-note">
+  <div class="eyebrow">EARLIER WRITING</div>
+  <h2>Want to go deeper?</h2>
+  <p>Read the long-form notes on Data, AI, decision systems, investing and life.</p>
+  <a href="{{ "/blog/" | absolute_url }}" class="text-link">Explore the writing →</a>
 </section>

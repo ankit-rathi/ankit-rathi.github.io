@@ -1,10 +1,10 @@
 ---
 layout: null
 title: Ankit Rathi
-description: Data, AI, decision systems and Weekend Quantvesting.
+description: Data, AI and decision systems.
 sitemap:
     priority: 1.0
-    lastmod: 2026-09-28
+    lastmod: 2026-09-29
     changefreq: weekly
 ---
 <!DOCTYPE html>
@@ -16,84 +16,56 @@ sitemap:
 <body>
 <div id="wrapper">
     <header id="header">
-        <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+        <a href="{{ "/" | absolute_url }}" class="logo">Ankit Rathi</a>
     </header>
     <nav id="nav">{% include nav.html %}</nav>
 
     <main id="main" class="home-main">
-        <section class="hero-card">
-            <div class="hero-copy">
-                <div class="eyebrow">DATA · AI · DECISIONS · INVESTING</div>
-                <h1>Data, AI and better decisions.</h1>
-                <p class="hero-lead">I explore how data, AI and structured thinking can turn complex ideas into clearer decisions—and share what I learn, build and test along the way.</p>
-                <div class="hero-actions">
-                    <a href="https://ankit-rathi.github.io/sketch-intelligence/" class="button">Learn Data &amp; AI <span aria-hidden="true">→</span></a>
-                    <a href="https://ankit-rathi.github.io/quantvesting_v3/" class="button secondary">Try Quantvesting</a>
-                </div>
-                <p class="hero-note">Principal Data Engineer · Kaggle Competitions Expert · Author · Speaker. <a href="{{ "/about/" | absolute_url }}">Get to know me →</a></p>
-            </div>
-            <div class="hero-portrait">
-                <img src="{{ "/images/logo.png" | absolute_url }}" alt="Ankit Rathi">
-                <div class="portrait-caption"><strong>Ankit Rathi</strong><span>Data Techie · Weekend Quantvestor</span></div>
+        <section class="home-intro" aria-labelledby="home-title">
+            <div class="eyebrow">DATA · AI · DECISION SYSTEMS</div>
+            <h1 id="home-title">Data, AI<br>&amp; better decisions.</h1>
+            <p class="home-lead">I explore how data, AI and structured thinking can help us understand complex systems, make better decisions and build useful things.</p>
+            <div class="home-actions">
+                <a href="https://ankit-rathi.github.io/sketch-intelligence/" class="button">Explore Sketch Intelligence <span aria-hidden="true">→</span></a>
+                <a href="https://ankit-rathi.github.io/quantvesting_v3/" class="text-link home-secondary">Explore Quantvesting <span aria-hidden="true">→</span></a>
             </div>
         </section>
 
-        <section class="path-grid" aria-label="Explore">
-            <a class="path-card" href="https://ankit-rathi.github.io/sketch-intelligence/">
-                <div class="eyebrow">LEARN · TRY IT</div>
-                <h2>Sketch Intelligence</h2>
-                <p>Understand Data &amp; AI concepts beyond the buzzwords—one sketch at a time. Search a concept and follow the connected ideas.</p>
-                <span class="card-link">Explore Sketch Intelligence →</span>
+        <div class="thinking-line" aria-label="Core idea">Data <span>→</span> Intelligence <span>→</span> Decisions</div>
+
+        <section class="home-work" aria-labelledby="work-title">
+            <div class="home-section-label" id="work-title">WORK</div>
+            <a class="work-row" href="https://ankit-rathi.github.io/sketch-intelligence/">
+                <span class="work-number">01</span>
+                <span class="work-copy"><strong>Sketch Intelligence</strong><small>A visual way to understand Data &amp; AI.</small></span>
+                <span class="work-arrow" aria-hidden="true">→</span>
             </a>
-            <a class="path-card" href="https://ankit-rathi.github.io/quantvesting_v3/">
-                <div class="eyebrow">INVEST · TRY IT</div>
-                <h2>Quantvesting</h2>
-                <p>Explore a systematic way to think about portfolios, businesses, uncertainty and long-term investing decisions.</p>
-                <span class="card-link">Try Quantvesting →</span>
+            <a class="work-row" href="https://ankit-rathi.github.io/quantvesting_v3/">
+                <span class="work-number">02</span>
+                <span class="work-copy"><strong>Quantvesting</strong><small>A systematic approach to thinking about investments.</small></span>
+                <span class="work-arrow" aria-hidden="true">→</span>
+            </a>
+            <a class="work-row" href="{{ "/blog/" | absolute_url }}">
+                <span class="work-number">03</span>
+                <span class="work-copy"><strong>Writing</strong><small>Things I’m trying to understand.</small></span>
+                <span class="work-arrow" aria-hidden="true">→</span>
             </a>
         </section>
 
-        <section class="section-block">
-            <div class="section-heading"><div><div class="eyebrow">START HERE</div><h2>Explore the way I think</h2></div></div>
-            <div class="latest-grid">
-              <a class="latest-card" href="https://ankit-rathi.github.io/sketch-intelligence/">
-                <div class="eyebrow">01 · UNDERSTAND</div>
-                <h3>Learn a concept</h3>
-                <p>Start with a visual explanation of Data or AI, then follow the related concepts to build a mental model.</p>
-                <span class="card-link">Start learning →</span>
-              </a>
-              <a class="latest-card" href="{{ "/blog/" | absolute_url }}">
-                <div class="eyebrow">02 · THINK</div>
-                <h3>Read the thinking</h3>
-                <p>Long-form notes connecting technology, decision systems, investing, uncertainty and life.</p>
-                <span class="card-link">Read the writing →</span>
-              </a>
-              <a class="latest-card" href="{{ "/store/" | absolute_url }}">
-                <div class="eyebrow">03 · GO DEEPER</div>
-                <h3>Work with me</h3>
-                <p>Explore the book, talks and workshops built around Data, AI and better decision-making.</p>
-                <span class="card-link">Explore →</span>
-              </a>
+        <section class="home-about" aria-labelledby="about-title">
+            <div class="home-section-label" id="about-title">ABOUT</div>
+            <div class="about-teaser">
+                <p>I’m Ankit — a data and AI practitioner, builder, writer and lifelong learner. My work sits at the intersection of technical systems, business decisions and investing.</p>
+                <a href="{{ "/about/" | absolute_url }}" class="text-link">More about me →</a>
             </div>
         </section>
 
-        <section class="section-block">
-            <div class="section-heading"><div><div class="eyebrow">LATEST THINKING</div><h2>Ideas worth exploring</h2></div><a href="{{ "/blog/" | absolute_url }}" class="text-link">View all writing →</a></div>
-            <div class="latest-grid">
-              {% for post in site.posts limit:3 %}
-              <a class="latest-card" href="{{ post.url | absolute_url }}">
-                <div class="date">{{ post.date | date: "%d %b %Y" }}</div>
-                <h3>{{ post.title }}</h3>
-                <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 150 }}</p>
-                <span class="card-link">Read →</span>
-              </a>
-              {% endfor %}
+        <section class="home-contact" aria-labelledby="contact-title">
+            <div>
+                <div class="home-section-label" id="contact-title">CONTACT</div>
+                <p>Speaking · Workshops · Collaboration</p>
             </div>
-        </section>
-
-        <section class="connect-strip">
-          <div><div class="eyebrow">BOOK · COMMUNITY · WORKSHOPS</div><h2>Go deeper.</h2><p>Explore the book, join the community, or invite Ankit for a talk or workshop.</p></div>
-          <div class="connect-actions"><a href="{{ "/store/" | absolute_url }}" class="button">Work with me</a><a href="https://ankit-rathi.github.io/quantvesting_v3/" class="button secondary">Explore Quantvesting</a><a href="mailto:rathi.ankit@gmail.com" class="button secondary">Invite me to speak</a></div>
+            <a href="mailto:rathi.ankit@gmail.com" class="text-link">Get in touch →</a>
         </section>
 
         <footer>{% include foot.html %}</footer>
